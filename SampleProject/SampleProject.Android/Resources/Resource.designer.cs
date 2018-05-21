@@ -26,872 +26,6 @@ namespace SampleProject.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_fade_in = global::SampleProject.Droid.Resource.Animation.dialog_fade_in;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_fade_out = global::SampleProject.Droid.Resource.Animation.dialog_fade_out;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_push_in_down = global::SampleProject.Droid.Resource.Animation.dialog_push_in_down;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_push_in_up = global::SampleProject.Droid.Resource.Animation.dialog_push_in_up;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_push_out_down = global::SampleProject.Droid.Resource.Animation.dialog_push_out_down;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_push_out_up = global::SampleProject.Droid.Resource.Animation.dialog_push_out_up;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_slide_in_left = global::SampleProject.Droid.Resource.Animation.dialog_slide_in_left;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_slide_in_right = global::SampleProject.Droid.Resource.Animation.dialog_slide_in_right;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_slide_out_left = global::SampleProject.Droid.Resource.Animation.dialog_slide_out_left;
-			global::Intersoft.Crosslight.Android.Resource.Animation.dialog_slide_out_right = global::SampleProject.Droid.Resource.Animation.dialog_slide_out_right;
-			global::Intersoft.Crosslight.Android.Resource.Animation.slide_in_top = global::SampleProject.Droid.Resource.Animation.slide_in_top;
-			global::Intersoft.Crosslight.Android.Resource.Animation.slide_out_top = global::SampleProject.Droid.Resource.Animation.slide_out_top;
-			global::Intersoft.Crosslight.Android.Resource.Animation.toast_enter = global::SampleProject.Droid.Resource.Animation.toast_enter;
-			global::Intersoft.Crosslight.Android.Resource.Animation.toast_exit = global::SampleProject.Droid.Resource.Animation.toast_exit;
-			global::Intersoft.Crosslight.Android.Resource.Animation.transition_bottomtop = global::SampleProject.Droid.Resource.Animation.transition_bottomtop;
-			global::Intersoft.Crosslight.Android.Resource.Animation.transition_fadein = global::SampleProject.Droid.Resource.Animation.transition_fadein;
-			global::Intersoft.Crosslight.Android.Resource.Animation.transition_fadeout = global::SampleProject.Droid.Resource.Animation.transition_fadeout;
-			global::Intersoft.Crosslight.Android.Resource.Animation.transition_leftright = global::SampleProject.Droid.Resource.Animation.transition_leftright;
-			global::Intersoft.Crosslight.Android.Resource.Animation.transition_rightleft = global::SampleProject.Droid.Resource.Animation.transition_rightleft;
-			global::Intersoft.Crosslight.Android.Resource.Animation.transition_topbottom = global::SampleProject.Droid.Resource.Animation.transition_topbottom;
-			global::Intersoft.Crosslight.Android.Resource.Array.select_image_dialog = global::SampleProject.Droid.Resource.Array.select_image_dialog;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.AnimateOnNewItems = global::SampleProject.Droid.Resource.Attribute.AnimateOnNewItems;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.FastScrollLetters = global::SampleProject.Droid.Resource.Attribute.FastScrollLetters;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.FooterLayoutId = global::SampleProject.Droid.Resource.Attribute.FooterLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.GroupItemLayoutId = global::SampleProject.Droid.Resource.Attribute.GroupItemLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.HeaderLayoutId = global::SampleProject.Droid.Resource.Attribute.HeaderLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.InteractionMode = global::SampleProject.Droid.Resource.Attribute.InteractionMode;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ItemLayoutId = global::SampleProject.Droid.Resource.Attribute.ItemLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ProgressBarId = global::SampleProject.Droid.Resource.Attribute.ProgressBarId;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ProgressBarLayoutId = global::SampleProject.Droid.Resource.Attribute.ProgressBarLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.centered = global::SampleProject.Droid.Resource.Attribute.centered;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.@checked = global::SampleProject.Droid.Resource.Attribute.@checked;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.contentStyle = global::SampleProject.Droid.Resource.Attribute.contentStyle;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.cornerRadius = global::SampleProject.Droid.Resource.Attribute.cornerRadius;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.fadeDelay = global::SampleProject.Droid.Resource.Attribute.fadeDelay;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.fadeLength = global::SampleProject.Droid.Resource.Attribute.fadeLength;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.fades = global::SampleProject.Droid.Resource.Attribute.fades;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.fillColor = global::SampleProject.Droid.Resource.Attribute.fillColor;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.imageBackground = global::SampleProject.Droid.Resource.Attribute.imageBackground;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.imageSrc = global::SampleProject.Droid.Resource.Attribute.imageSrc;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.isToggle = global::SampleProject.Droid.Resource.Attribute.isToggle;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.maxValue = global::SampleProject.Droid.Resource.Attribute.maxValue;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.minValue = global::SampleProject.Droid.Resource.Attribute.minValue;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.orientation = global::SampleProject.Droid.Resource.Attribute.orientation;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.pageColor = global::SampleProject.Droid.Resource.Attribute.pageColor;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrHeaderBackground = global::SampleProject.Droid.Resource.Attribute.ptrHeaderBackground;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrHeaderHeight = global::SampleProject.Droid.Resource.Attribute.ptrHeaderHeight;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrHeaderStyle = global::SampleProject.Droid.Resource.Attribute.ptrHeaderStyle;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrHeaderTitleTextAppearance = global::SampleProject.Droid.Resource.Attribute.ptrHeaderTitleTextAppearance;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrProgressBarColor = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarColor;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrProgressBarHeight = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarHeight;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrProgressBarStyle = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarStyle;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrPullText = global::SampleProject.Droid.Resource.Attribute.ptrPullText;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrRefreshingText = global::SampleProject.Droid.Resource.Attribute.ptrRefreshingText;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrReleaseText = global::SampleProject.Droid.Resource.Attribute.ptrReleaseText;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.ptrViewDelegateClass = global::SampleProject.Droid.Resource.Attribute.ptrViewDelegateClass;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.radius = global::SampleProject.Droid.Resource.Attribute.radius;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.selectedColor = global::SampleProject.Droid.Resource.Attribute.selectedColor;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.snap = global::SampleProject.Droid.Resource.Attribute.snap;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spbStyle = global::SampleProject.Droid.Resource.Attribute.spbStyle;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_color = global::SampleProject.Droid.Resource.Attribute.spb_color;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_colors = global::SampleProject.Droid.Resource.Attribute.spb_colors;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_interpolator = global::SampleProject.Droid.Resource.Attribute.spb_interpolator;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_mirror_mode = global::SampleProject.Droid.Resource.Attribute.spb_mirror_mode;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_reversed = global::SampleProject.Droid.Resource.Attribute.spb_reversed;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_sections_count = global::SampleProject.Droid.Resource.Attribute.spb_sections_count;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_speed = global::SampleProject.Droid.Resource.Attribute.spb_speed;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_stroke_separator_length = global::SampleProject.Droid.Resource.Attribute.spb_stroke_separator_length;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.spb_stroke_width = global::SampleProject.Droid.Resource.Attribute.spb_stroke_width;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.step = global::SampleProject.Droid.Resource.Attribute.step;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.strokeColor = global::SampleProject.Droid.Resource.Attribute.strokeColor;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.strokeWidth = global::SampleProject.Droid.Resource.Attribute.strokeWidth;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.subtitleColor = global::SampleProject.Droid.Resource.Attribute.subtitleColor;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.subtitleText = global::SampleProject.Droid.Resource.Attribute.subtitleText;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.subtitleTextSize = global::SampleProject.Droid.Resource.Attribute.subtitleTextSize;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.titleColor = global::SampleProject.Droid.Resource.Attribute.titleColor;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.titleText = global::SampleProject.Droid.Resource.Attribute.titleText;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.titleTextSize = global::SampleProject.Droid.Resource.Attribute.titleTextSize;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.vpiBulletPageIndicatorStyle = global::SampleProject.Droid.Resource.Attribute.vpiBulletPageIndicatorStyle;
-			global::Intersoft.Crosslight.Android.Resource.Attribute.vpiStripPageIndicatorStyle = global::SampleProject.Droid.Resource.Attribute.vpiStripPageIndicatorStyle;
-			global::Intersoft.Crosslight.Android.Resource.Boolean.default_bullet_indicator_centered = global::SampleProject.Droid.Resource.Boolean.default_bullet_indicator_centered;
-			global::Intersoft.Crosslight.Android.Resource.Boolean.default_bullet_indicator_snap = global::SampleProject.Droid.Resource.Boolean.default_bullet_indicator_snap;
-			global::Intersoft.Crosslight.Android.Resource.Boolean.default_strip_indicator_fades = global::SampleProject.Droid.Resource.Boolean.default_strip_indicator_fades;
-			global::Intersoft.Crosslight.Android.Resource.Boolean.spb_default_mirror_mode = global::SampleProject.Droid.Resource.Boolean.spb_default_mirror_mode;
-			global::Intersoft.Crosslight.Android.Resource.Boolean.spb_default_reversed = global::SampleProject.Droid.Resource.Boolean.spb_default_reversed;
-			global::Intersoft.Crosslight.Android.Resource.Color.bright_foreground_dark = global::SampleProject.Droid.Resource.Color.bright_foreground_dark;
-			global::Intersoft.Crosslight.Android.Resource.Color.default_bullet_indicator_fill_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_fill_color;
-			global::Intersoft.Crosslight.Android.Resource.Color.default_bullet_indicator_page_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_page_color;
-			global::Intersoft.Crosslight.Android.Resource.Color.default_bullet_indicator_stroke_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_stroke_color;
-			global::Intersoft.Crosslight.Android.Resource.Color.default_progress_bar_color = global::SampleProject.Droid.Resource.Color.default_progress_bar_color;
-			global::Intersoft.Crosslight.Android.Resource.Color.default_strip_indicator_selected_color = global::SampleProject.Droid.Resource.Color.default_strip_indicator_selected_color;
-			global::Intersoft.Crosslight.Android.Resource.Color.gridviewbackgroundselector = global::SampleProject.Droid.Resource.Color.gridviewbackgroundselector;
-			global::Intersoft.Crosslight.Android.Resource.Color.holo_dark_green = global::SampleProject.Droid.Resource.Color.holo_dark_green;
-			global::Intersoft.Crosslight.Android.Resource.Color.listviewbackgroundselector = global::SampleProject.Droid.Resource.Color.listviewbackgroundselector;
-			global::Intersoft.Crosslight.Android.Resource.Color.spb_default_color = global::SampleProject.Droid.Resource.Color.spb_default_color;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__background_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__background_holo_dark;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__background_holo_light = global::SampleProject.Droid.Resource.Color.vpi__background_holo_light;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__bright_foreground_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_holo_dark;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__bright_foreground_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_holo_light;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
-			global::Intersoft.Crosslight.Android.Resource.Color.vpi__dark_theme = global::SampleProject.Droid.Resource.Color.vpi__dark_theme;
-			global::Intersoft.Crosslight.Android.Resource.Dimension.default_bullet_indicator_radius = global::SampleProject.Droid.Resource.Dimension.default_bullet_indicator_radius;
-			global::Intersoft.Crosslight.Android.Resource.Dimension.default_bullet_indicator_stroke_width = global::SampleProject.Droid.Resource.Dimension.default_bullet_indicator_stroke_width;
-			global::Intersoft.Crosslight.Android.Resource.Dimension.ptr_progress_bar_stroke_width = global::SampleProject.Droid.Resource.Dimension.ptr_progress_bar_stroke_width;
-			global::Intersoft.Crosslight.Android.Resource.Dimension.spb_default_stroke_separator_length = global::SampleProject.Droid.Resource.Dimension.spb_default_stroke_separator_length;
-			global::Intersoft.Crosslight.Android.Resource.Dimension.spb_default_stroke_width = global::SampleProject.Droid.Resource.Dimension.spb_default_stroke_width;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.btn_check_off_focused_holo_dark = global::SampleProject.Droid.Resource.Drawable.btn_check_off_focused_holo_dark;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.btn_check_on_pressed_holo_dark = global::SampleProject.Droid.Resource.Drawable.btn_check_on_pressed_holo_dark;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.ic_drawer = global::SampleProject.Droid.Resource.Drawable.ic_drawer;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.leftdrawershadow = global::SampleProject.Droid.Resource.Drawable.leftdrawershadow;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.rightdrawershadow = global::SampleProject.Droid.Resource.Drawable.rightdrawershadow;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.roundedcorner_checked = global::SampleProject.Droid.Resource.Drawable.roundedcorner_checked;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.roundedcorner_default = global::SampleProject.Droid.Resource.Drawable.roundedcorner_default;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.roundedcorner_pressed = global::SampleProject.Droid.Resource.Drawable.roundedcorner_pressed;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.roundedselector = global::SampleProject.Droid.Resource.Drawable.roundedselector;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.toast_frame_holo = global::SampleProject.Droid.Resource.Drawable.toast_frame_holo;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.vpi__tab_indicator = global::SampleProject.Droid.Resource.Drawable.vpi__tab_indicator;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.vpi__tab_selected_focused_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_focused_holo;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.vpi__tab_selected_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_holo;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.vpi__tab_selected_pressed_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_pressed_holo;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.vpi__tab_unselected_focused_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_focused_holo;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.vpi__tab_unselected_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_holo;
-			global::Intersoft.Crosslight.Android.Resource.Drawable.vpi__tab_unselected_pressed_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_pressed_holo;
-			global::Intersoft.Crosslight.Android.Resource.Id.BulletPageIndicator = global::SampleProject.Droid.Resource.Id.BulletPageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Id.ButtonContainer = global::SampleProject.Droid.Resource.Id.ButtonContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.ButtonWidget = global::SampleProject.Droid.Resource.Id.ButtonWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.CheckBoxWidget = global::SampleProject.Droid.Resource.Id.CheckBoxWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.ChildNavigationDetail = global::SampleProject.Droid.Resource.Id.ChildNavigationDetail;
-			global::Intersoft.Crosslight.Android.Resource.Id.ChildNavigationImage = global::SampleProject.Droid.Resource.Id.ChildNavigationImage;
-			global::Intersoft.Crosslight.Android.Resource.Id.ChildNavigationLayout = global::SampleProject.Droid.Resource.Id.ChildNavigationLayout;
-			global::Intersoft.Crosslight.Android.Resource.Id.ChildNavigationText = global::SampleProject.Droid.Resource.Id.ChildNavigationText;
-			global::Intersoft.Crosslight.Android.Resource.Id.ChoiceInput = global::SampleProject.Droid.Resource.Id.ChoiceInput;
-			global::Intersoft.Crosslight.Android.Resource.Id.ContentContainer = global::SampleProject.Droid.Resource.Id.ContentContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.ContentSeparator = global::SampleProject.Droid.Resource.Id.ContentSeparator;
-			global::Intersoft.Crosslight.Android.Resource.Id.ControlsPlaceholder = global::SampleProject.Droid.Resource.Id.ControlsPlaceholder;
-			global::Intersoft.Crosslight.Android.Resource.Id.DatePickerWidget = global::SampleProject.Droid.Resource.Id.DatePickerWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.DateTimePickerDateWidget = global::SampleProject.Droid.Resource.Id.DateTimePickerDateWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.DateTimePickerTextView = global::SampleProject.Droid.Resource.Id.DateTimePickerTextView;
-			global::Intersoft.Crosslight.Android.Resource.Id.DateTimePickerTimeWidget = global::SampleProject.Droid.Resource.Id.DateTimePickerTimeWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.DialogFirstSeparator = global::SampleProject.Droid.Resource.Id.DialogFirstSeparator;
-			global::Intersoft.Crosslight.Android.Resource.Id.DialogNegativeButton = global::SampleProject.Droid.Resource.Id.DialogNegativeButton;
-			global::Intersoft.Crosslight.Android.Resource.Id.DialogNeutralButton = global::SampleProject.Droid.Resource.Id.DialogNeutralButton;
-			global::Intersoft.Crosslight.Android.Resource.Id.DialogPositiveButton = global::SampleProject.Droid.Resource.Id.DialogPositiveButton;
-			global::Intersoft.Crosslight.Android.Resource.Id.DialogRoot = global::SampleProject.Droid.Resource.Id.DialogRoot;
-			global::Intersoft.Crosslight.Android.Resource.Id.DialogSecondSeparator = global::SampleProject.Droid.Resource.Id.DialogSecondSeparator;
-			global::Intersoft.Crosslight.Android.Resource.Id.EditorContainer = global::SampleProject.Droid.Resource.Id.EditorContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.FloatingLayout = global::SampleProject.Droid.Resource.Id.FloatingLayout;
-			global::Intersoft.Crosslight.Android.Resource.Id.FooterLayout = global::SampleProject.Droid.Resource.Id.FooterLayout;
-			global::Intersoft.Crosslight.Android.Resource.Id.FooterText = global::SampleProject.Droid.Resource.Id.FooterText;
-			global::Intersoft.Crosslight.Android.Resource.Id.FormContainer = global::SampleProject.Droid.Resource.Id.FormContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.FormPlaceholder = global::SampleProject.Droid.Resource.Id.FormPlaceholder;
-			global::Intersoft.Crosslight.Android.Resource.Id.FormScrollView = global::SampleProject.Droid.Resource.Id.FormScrollView;
-			global::Intersoft.Crosslight.Android.Resource.Id.GridView = global::SampleProject.Droid.Resource.Id.GridView;
-			global::Intersoft.Crosslight.Android.Resource.Id.HeaderLayout = global::SampleProject.Droid.Resource.Id.HeaderLayout;
-			global::Intersoft.Crosslight.Android.Resource.Id.HeaderSeparator = global::SampleProject.Droid.Resource.Id.HeaderSeparator;
-			global::Intersoft.Crosslight.Android.Resource.Id.HeaderText = global::SampleProject.Droid.Resource.Id.HeaderText;
-			global::Intersoft.Crosslight.Android.Resource.Id.HyperlinkDetail = global::SampleProject.Droid.Resource.Id.HyperlinkDetail;
-			global::Intersoft.Crosslight.Android.Resource.Id.HyperlinkImage = global::SampleProject.Droid.Resource.Id.HyperlinkImage;
-			global::Intersoft.Crosslight.Android.Resource.Id.HyperlinkLayout = global::SampleProject.Droid.Resource.Id.HyperlinkLayout;
-			global::Intersoft.Crosslight.Android.Resource.Id.HyperlinkText = global::SampleProject.Droid.Resource.Id.HyperlinkText;
-			global::Intersoft.Crosslight.Android.Resource.Id.ImageContainer = global::SampleProject.Droid.Resource.Id.ImageContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.ImagePlaceholder = global::SampleProject.Droid.Resource.Id.ImagePlaceholder;
-			global::Intersoft.Crosslight.Android.Resource.Id.ImageTextView = global::SampleProject.Droid.Resource.Id.ImageTextView;
-			global::Intersoft.Crosslight.Android.Resource.Id.ImageView = global::SampleProject.Droid.Resource.Id.ImageView;
-			global::Intersoft.Crosslight.Android.Resource.Id.InnerLayout = global::SampleProject.Droid.Resource.Id.InnerLayout;
-			global::Intersoft.Crosslight.Android.Resource.Id.InternalSeekBar = global::SampleProject.Droid.Resource.Id.InternalSeekBar;
-			global::Intersoft.Crosslight.Android.Resource.Id.Navigation = global::SampleProject.Droid.Resource.Id.Navigation;
-			global::Intersoft.Crosslight.Android.Resource.Id.None = global::SampleProject.Droid.Resource.Id.None;
-			global::Intersoft.Crosslight.Android.Resource.Id.NumericStepper = global::SampleProject.Droid.Resource.Id.NumericStepper;
-			global::Intersoft.Crosslight.Android.Resource.Id.PageIndicatorContainer = global::SampleProject.Droid.Resource.Id.PageIndicatorContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.PagerTabStrip = global::SampleProject.Droid.Resource.Id.PagerTabStrip;
-			global::Intersoft.Crosslight.Android.Resource.Id.SelectionWidget = global::SampleProject.Droid.Resource.Id.SelectionWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.SpinnerWidget = global::SampleProject.Droid.Resource.Id.SpinnerWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.Standard = global::SampleProject.Droid.Resource.Id.Standard;
-			global::Intersoft.Crosslight.Android.Resource.Id.StripPageIndicator = global::SampleProject.Droid.Resource.Id.StripPageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Id.SubtitleTextView = global::SampleProject.Droid.Resource.Id.SubtitleTextView;
-			global::Intersoft.Crosslight.Android.Resource.Id.Switch = global::SampleProject.Droid.Resource.Id.Switch;
-			global::Intersoft.Crosslight.Android.Resource.Id.TabContainer = global::SampleProject.Droid.Resource.Id.TabContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.TabIcon = global::SampleProject.Droid.Resource.Id.TabIcon;
-			global::Intersoft.Crosslight.Android.Resource.Id.TabPageIndicator = global::SampleProject.Droid.Resource.Id.TabPageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Id.TabTitle = global::SampleProject.Droid.Resource.Id.TabTitle;
-			global::Intersoft.Crosslight.Android.Resource.Id.Text1 = global::SampleProject.Droid.Resource.Id.Text1;
-			global::Intersoft.Crosslight.Android.Resource.Id.Text2 = global::SampleProject.Droid.Resource.Id.Text2;
-			global::Intersoft.Crosslight.Android.Resource.Id.TimePickerWidget = global::SampleProject.Droid.Resource.Id.TimePickerWidget;
-			global::Intersoft.Crosslight.Android.Resource.Id.TitleContainer = global::SampleProject.Droid.Resource.Id.TitleContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.TitleText = global::SampleProject.Droid.Resource.Id.TitleText;
-			global::Intersoft.Crosslight.Android.Resource.Id.TitleTextView = global::SampleProject.Droid.Resource.Id.TitleTextView;
-			global::Intersoft.Crosslight.Android.Resource.Id.ValueText = global::SampleProject.Droid.Resource.Id.ValueText;
-			global::Intersoft.Crosslight.Android.Resource.Id.ViewPager = global::SampleProject.Droid.Resource.Id.ViewPager;
-			global::Intersoft.Crosslight.Android.Resource.Id.ViewSlider = global::SampleProject.Droid.Resource.Id.ViewSlider;
-			global::Intersoft.Crosslight.Android.Resource.Id.center_frame = global::SampleProject.Droid.Resource.Id.center_frame;
-			global::Intersoft.Crosslight.Android.Resource.Id.decrease_button = global::SampleProject.Droid.Resource.Id.decrease_button;
-			global::Intersoft.Crosslight.Android.Resource.Id.detailFrame = global::SampleProject.Droid.Resource.Id.detailFrame;
-			global::Intersoft.Crosslight.Android.Resource.Id.drawer_layout = global::SampleProject.Droid.Resource.Id.drawer_layout;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_1 = global::SampleProject.Droid.Resource.Id.form_list_fragment_1;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_10 = global::SampleProject.Droid.Resource.Id.form_list_fragment_10;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_2 = global::SampleProject.Droid.Resource.Id.form_list_fragment_2;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_3 = global::SampleProject.Droid.Resource.Id.form_list_fragment_3;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_4 = global::SampleProject.Droid.Resource.Id.form_list_fragment_4;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_5 = global::SampleProject.Droid.Resource.Id.form_list_fragment_5;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_6 = global::SampleProject.Droid.Resource.Id.form_list_fragment_6;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_7 = global::SampleProject.Droid.Resource.Id.form_list_fragment_7;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_8 = global::SampleProject.Droid.Resource.Id.form_list_fragment_8;
-			global::Intersoft.Crosslight.Android.Resource.Id.form_list_fragment_9 = global::SampleProject.Droid.Resource.Id.form_list_fragment_9;
-			global::Intersoft.Crosslight.Android.Resource.Id.fragmentActivityLayout = global::SampleProject.Droid.Resource.Id.fragmentActivityLayout;
-			global::Intersoft.Crosslight.Android.Resource.Id.fragmentBody = global::SampleProject.Droid.Resource.Id.fragmentBody;
-			global::Intersoft.Crosslight.Android.Resource.Id.fragmentFooter = global::SampleProject.Droid.Resource.Id.fragmentFooter;
-			global::Intersoft.Crosslight.Android.Resource.Id.fragmentHeader = global::SampleProject.Droid.Resource.Id.fragmentHeader;
-			global::Intersoft.Crosslight.Android.Resource.Id.horizontal = global::SampleProject.Droid.Resource.Id.horizontal;
-			global::Intersoft.Crosslight.Android.Resource.Id.image = global::SampleProject.Droid.Resource.Id.image;
-			global::Intersoft.Crosslight.Android.Resource.Id.increase_button = global::SampleProject.Droid.Resource.Id.increase_button;
-			global::Intersoft.Crosslight.Android.Resource.Id.inside = global::SampleProject.Droid.Resource.Id.inside;
-			global::Intersoft.Crosslight.Android.Resource.Id.left_frame = global::SampleProject.Droid.Resource.Id.left_frame;
-			global::Intersoft.Crosslight.Android.Resource.Id.left_navdrawer = global::SampleProject.Droid.Resource.Id.left_navdrawer;
-			global::Intersoft.Crosslight.Android.Resource.Id.listContainer = global::SampleProject.Droid.Resource.Id.listContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.listViewFooter = global::SampleProject.Droid.Resource.Id.listViewFooter;
-			global::Intersoft.Crosslight.Android.Resource.Id.listViewHeader = global::SampleProject.Droid.Resource.Id.listViewHeader;
-			global::Intersoft.Crosslight.Android.Resource.Id.listViewProgressbar = global::SampleProject.Droid.Resource.Id.listViewProgressbar;
-			global::Intersoft.Crosslight.Android.Resource.Id.maincontent_navdrawer = global::SampleProject.Droid.Resource.Id.maincontent_navdrawer;
-			global::Intersoft.Crosslight.Android.Resource.Id.masterFrame = global::SampleProject.Droid.Resource.Id.masterFrame;
-			global::Intersoft.Crosslight.Android.Resource.Id.message_box = global::SampleProject.Droid.Resource.Id.message_box;
-			global::Intersoft.Crosslight.Android.Resource.Id.numeric_box = global::SampleProject.Droid.Resource.Id.numeric_box;
-			global::Intersoft.Crosslight.Android.Resource.Id.outside = global::SampleProject.Droid.Resource.Id.outside;
-			global::Intersoft.Crosslight.Android.Resource.Id.parallax_image = global::SampleProject.Droid.Resource.Id.parallax_image;
-			global::Intersoft.Crosslight.Android.Resource.Id.progressContainer = global::SampleProject.Droid.Resource.Id.progressContainer;
-			global::Intersoft.Crosslight.Android.Resource.Id.progress_bar = global::SampleProject.Droid.Resource.Id.progress_bar;
-			global::Intersoft.Crosslight.Android.Resource.Id.ptr_content = global::SampleProject.Droid.Resource.Id.ptr_content;
-			global::Intersoft.Crosslight.Android.Resource.Id.ptr_progress = global::SampleProject.Droid.Resource.Id.ptr_progress;
-			global::Intersoft.Crosslight.Android.Resource.Id.ptr_text = global::SampleProject.Droid.Resource.Id.ptr_text;
-			global::Intersoft.Crosslight.Android.Resource.Id.right_button = global::SampleProject.Droid.Resource.Id.right_button;
-			global::Intersoft.Crosslight.Android.Resource.Id.right_frame = global::SampleProject.Droid.Resource.Id.right_frame;
-			global::Intersoft.Crosslight.Android.Resource.Id.right_navdrawer = global::SampleProject.Droid.Resource.Id.right_navdrawer;
-			global::Intersoft.Crosslight.Android.Resource.Id.shared_image = global::SampleProject.Droid.Resource.Id.shared_image;
-			global::Intersoft.Crosslight.Android.Resource.Id.spb_interpolator_accelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_accelerate;
-			global::Intersoft.Crosslight.Android.Resource.Id.spb_interpolator_acceleratedecelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_acceleratedecelerate;
-			global::Intersoft.Crosslight.Android.Resource.Id.spb_interpolator_decelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_decelerate;
-			global::Intersoft.Crosslight.Android.Resource.Id.spb_interpolator_linear = global::SampleProject.Droid.Resource.Id.spb_interpolator_linear;
-			global::Intersoft.Crosslight.Android.Resource.Id.subtitle = global::SampleProject.Droid.Resource.Id.subtitle;
-			global::Intersoft.Crosslight.Android.Resource.Id.title = global::SampleProject.Droid.Resource.Id.title;
-			global::Intersoft.Crosslight.Android.Resource.Id.vertical = global::SampleProject.Droid.Resource.Id.vertical;
-			global::Intersoft.Crosslight.Android.Resource.Integer.default_bullet_indicator_orientation = global::SampleProject.Droid.Resource.Integer.default_bullet_indicator_orientation;
-			global::Intersoft.Crosslight.Android.Resource.Integer.default_strip_indicator_fade_delay = global::SampleProject.Droid.Resource.Integer.default_strip_indicator_fade_delay;
-			global::Intersoft.Crosslight.Android.Resource.Integer.default_strip_indicator_fade_length = global::SampleProject.Droid.Resource.Integer.default_strip_indicator_fade_length;
-			global::Intersoft.Crosslight.Android.Resource.Integer.spb_default_interpolator = global::SampleProject.Droid.Resource.Integer.spb_default_interpolator;
-			global::Intersoft.Crosslight.Android.Resource.Integer.spb_default_sections_count = global::SampleProject.Droid.Resource.Integer.spb_default_sections_count;
-			global::Intersoft.Crosslight.Android.Resource.Interpolator.accelerate_quad = global::SampleProject.Droid.Resource.Interpolator.accelerate_quad;
-			global::Intersoft.Crosslight.Android.Resource.Interpolator.decelerate_quad = global::SampleProject.Droid.Resource.Interpolator.decelerate_quad;
-			global::Intersoft.Crosslight.Android.Resource.Layout.activitylargeindicator = global::SampleProject.Droid.Resource.Layout.activitylargeindicator;
-			global::Intersoft.Crosslight.Android.Resource.Layout.activitysmallindicator = global::SampleProject.Droid.Resource.Layout.activitysmallindicator;
-			global::Intersoft.Crosslight.Android.Resource.Layout.activitytranslucentindicator = global::SampleProject.Droid.Resource.Layout.activitytranslucentindicator;
-			global::Intersoft.Crosslight.Android.Resource.Layout.bulletpageindicator = global::SampleProject.Droid.Resource.Layout.bulletpageindicator;
-			global::Intersoft.Crosslight.Android.Resource.Layout.buttonwidget = global::SampleProject.Droid.Resource.Layout.buttonwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.checkboxwidget = global::SampleProject.Droid.Resource.Layout.checkboxwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.childnavigationwidget = global::SampleProject.Droid.Resource.Layout.childnavigationwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.datepickerwidget = global::SampleProject.Droid.Resource.Layout.datepickerwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.datetimepickerlayout = global::SampleProject.Droid.Resource.Layout.datetimepickerlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.datetimepickerwidget = global::SampleProject.Droid.Resource.Layout.datetimepickerwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.default_header = global::SampleProject.Droid.Resource.Layout.default_header;
-			global::Intersoft.Crosslight.Android.Resource.Layout.dialoglayout = global::SampleProject.Droid.Resource.Layout.dialoglayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.dialoglayout_edge = global::SampleProject.Droid.Resource.Layout.dialoglayout_edge;
-			global::Intersoft.Crosslight.Android.Resource.Layout.dialoglayout_fullscreen = global::SampleProject.Droid.Resource.Layout.dialoglayout_fullscreen;
-			global::Intersoft.Crosslight.Android.Resource.Layout.edittextwidget = global::SampleProject.Droid.Resource.Layout.edittextwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.form = global::SampleProject.Droid.Resource.Layout.form;
-			global::Intersoft.Crosslight.Android.Resource.Layout.formlayout = global::SampleProject.Droid.Resource.Layout.formlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.formlayoutdetailonly = global::SampleProject.Droid.Resource.Layout.formlayoutdetailonly;
-			global::Intersoft.Crosslight.Android.Resource.Layout.formlayoutleftdetail = global::SampleProject.Droid.Resource.Layout.formlayoutleftdetail;
-			global::Intersoft.Crosslight.Android.Resource.Layout.formlayoutrightdetail = global::SampleProject.Droid.Resource.Layout.formlayoutrightdetail;
-			global::Intersoft.Crosslight.Android.Resource.Layout.formlayoutrowdetail = global::SampleProject.Droid.Resource.Layout.formlayoutrowdetail;
-			global::Intersoft.Crosslight.Android.Resource.Layout.formsectionlayout = global::SampleProject.Droid.Resource.Layout.formsectionlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.formseparator = global::SampleProject.Droid.Resource.Layout.formseparator;
-			global::Intersoft.Crosslight.Android.Resource.Layout.fragmentactivitylayout = global::SampleProject.Droid.Resource.Layout.fragmentactivitylayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.gridcontent = global::SampleProject.Droid.Resource.Layout.gridcontent;
-			global::Intersoft.Crosslight.Android.Resource.Layout.hyperlinkwidget = global::SampleProject.Droid.Resource.Layout.hyperlinkwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.imagepickerwidget = global::SampleProject.Droid.Resource.Layout.imagepickerwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.imageviewwidget = global::SampleProject.Droid.Resource.Layout.imageviewwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.imagewidget = global::SampleProject.Droid.Resource.Layout.imagewidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.listgroupsectionheaderlayout = global::SampleProject.Droid.Resource.Layout.listgroupsectionheaderlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.listgroupsectionlayout = global::SampleProject.Droid.Resource.Layout.listgroupsectionlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.listviewfooterlayout = global::SampleProject.Droid.Resource.Layout.listviewfooterlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.listviewheaderlayout = global::SampleProject.Droid.Resource.Layout.listviewheaderlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.listviewprogressbarlayout = global::SampleProject.Droid.Resource.Layout.listviewprogressbarlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.listviewwidgetlayout = global::SampleProject.Droid.Resource.Layout.listviewwidgetlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.maincontainer = global::SampleProject.Droid.Resource.Layout.maincontainer;
-			global::Intersoft.Crosslight.Android.Resource.Layout.masterdetailfragmentlayout = global::SampleProject.Droid.Resource.Layout.masterdetailfragmentlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.messageinputviewlayout = global::SampleProject.Droid.Resource.Layout.messageinputviewlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.navigationdrawerlayout = global::SampleProject.Droid.Resource.Layout.navigationdrawerlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.numericstepperlayout = global::SampleProject.Droid.Resource.Layout.numericstepperlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.numericstepperwidget = global::SampleProject.Droid.Resource.Layout.numericstepperwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.paralax_image = global::SampleProject.Droid.Resource.Layout.paralax_image;
-			global::Intersoft.Crosslight.Android.Resource.Layout.radiobuttonwidget = global::SampleProject.Droid.Resource.Layout.radiobuttonwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.roundedbuttonlayout = global::SampleProject.Droid.Resource.Layout.roundedbuttonlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.sectionimageswithfieldslayout = global::SampleProject.Droid.Resource.Layout.sectionimageswithfieldslayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.sectionlayout = global::SampleProject.Droid.Resource.Layout.sectionlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.seekbarwidget = global::SampleProject.Droid.Resource.Layout.seekbarwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.selectionwidget = global::SampleProject.Droid.Resource.Layout.selectionwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.simplegriditem = global::SampleProject.Droid.Resource.Layout.simplegriditem;
-			global::Intersoft.Crosslight.Android.Resource.Layout.simpleimageitem = global::SampleProject.Droid.Resource.Layout.simpleimageitem;
-			global::Intersoft.Crosslight.Android.Resource.Layout.simplelistviewwidget1 = global::SampleProject.Droid.Resource.Layout.simplelistviewwidget1;
-			global::Intersoft.Crosslight.Android.Resource.Layout.simplelistviewwidget2 = global::SampleProject.Droid.Resource.Layout.simplelistviewwidget2;
-			global::Intersoft.Crosslight.Android.Resource.Layout.simplelistviewwidgetimage = global::SampleProject.Droid.Resource.Layout.simplelistviewwidgetimage;
-			global::Intersoft.Crosslight.Android.Resource.Layout.spinnerdropdownitemlayout = global::SampleProject.Droid.Resource.Layout.spinnerdropdownitemlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.spinnerlayout = global::SampleProject.Droid.Resource.Layout.spinnerlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.spinnerwidget = global::SampleProject.Droid.Resource.Layout.spinnerwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.strippageindicator = global::SampleProject.Droid.Resource.Layout.strippageindicator;
-			global::Intersoft.Crosslight.Android.Resource.Layout.switchwidget = global::SampleProject.Droid.Resource.Layout.switchwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.tabcontainer = global::SampleProject.Droid.Resource.Layout.tabcontainer;
-			global::Intersoft.Crosslight.Android.Resource.Layout.tabfragmentlayout = global::SampleProject.Droid.Resource.Layout.tabfragmentlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.tablecellleftdetail = global::SampleProject.Droid.Resource.Layout.tablecellleftdetail;
-			global::Intersoft.Crosslight.Android.Resource.Layout.tablecellrightdetail = global::SampleProject.Droid.Resource.Layout.tablecellrightdetail;
-			global::Intersoft.Crosslight.Android.Resource.Layout.tablecellsubtitle = global::SampleProject.Droid.Resource.Layout.tablecellsubtitle;
-			global::Intersoft.Crosslight.Android.Resource.Layout.tablecellsubtitlewithimage = global::SampleProject.Droid.Resource.Layout.tablecellsubtitlewithimage;
-			global::Intersoft.Crosslight.Android.Resource.Layout.textfieldview = global::SampleProject.Droid.Resource.Layout.textfieldview;
-			global::Intersoft.Crosslight.Android.Resource.Layout.textwidget = global::SampleProject.Droid.Resource.Layout.textwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.timepickerwidget = global::SampleProject.Droid.Resource.Layout.timepickerwidget;
-			global::Intersoft.Crosslight.Android.Resource.Layout.toast = global::SampleProject.Droid.Resource.Layout.toast;
-			global::Intersoft.Crosslight.Android.Resource.Layout.toastlayout = global::SampleProject.Droid.Resource.Layout.toastlayout;
-			global::Intersoft.Crosslight.Android.Resource.Layout.toastshadow = global::SampleProject.Droid.Resource.Layout.toastshadow;
-			global::Intersoft.Crosslight.Android.Resource.Layout.toastshape = global::SampleProject.Droid.Resource.Layout.toastshape;
-			global::Intersoft.Crosslight.Android.Resource.Layout.viewpagerindicatortab = global::SampleProject.Droid.Resource.Layout.viewpagerindicatortab;
-			global::Intersoft.Crosslight.Android.Resource.Layout.viewpagerwithtab = global::SampleProject.Droid.Resource.Layout.viewpagerwithtab;
-			global::Intersoft.Crosslight.Android.Resource.Layout.viewpagerwithtabstrip = global::SampleProject.Droid.Resource.Layout.viewpagerwithtabstrip;
-			global::Intersoft.Crosslight.Android.Resource.Layout.viewslider = global::SampleProject.Droid.Resource.Layout.viewslider;
-			global::Intersoft.Crosslight.Android.Resource.String.Add = global::SampleProject.Droid.Resource.String.Add;
-			global::Intersoft.Crosslight.Android.Resource.String.AddPhoto = global::SampleProject.Droid.Resource.String.AddPhoto;
-			global::Intersoft.Crosslight.Android.Resource.String.Cancel = global::SampleProject.Droid.Resource.String.Cancel;
-			global::Intersoft.Crosslight.Android.Resource.String.CheckAll = global::SampleProject.Droid.Resource.String.CheckAll;
-			global::Intersoft.Crosslight.Android.Resource.String.ChooseFromGallery = global::SampleProject.Droid.Resource.String.ChooseFromGallery;
-			global::Intersoft.Crosslight.Android.Resource.String.CloseDrawer = global::SampleProject.Droid.Resource.String.CloseDrawer;
-			global::Intersoft.Crosslight.Android.Resource.String.Delete = global::SampleProject.Droid.Resource.String.Delete;
-			global::Intersoft.Crosslight.Android.Resource.String.DeleteImage = global::SampleProject.Droid.Resource.String.DeleteImage;
-			global::Intersoft.Crosslight.Android.Resource.String.EditPhoto = global::SampleProject.Droid.Resource.String.EditPhoto;
-			global::Intersoft.Crosslight.Android.Resource.String.More = global::SampleProject.Droid.Resource.String.More;
-			global::Intersoft.Crosslight.Android.Resource.String.OK = global::SampleProject.Droid.Resource.String.OK;
-			global::Intersoft.Crosslight.Android.Resource.String.OpenDrawer = global::SampleProject.Droid.Resource.String.OpenDrawer;
-			global::Intersoft.Crosslight.Android.Resource.String.Save = global::SampleProject.Droid.Resource.String.Save;
-			global::Intersoft.Crosslight.Android.Resource.String.SelectImage = global::SampleProject.Droid.Resource.String.SelectImage;
-			global::Intersoft.Crosslight.Android.Resource.String.TakePhoto = global::SampleProject.Droid.Resource.String.TakePhoto;
-			global::Intersoft.Crosslight.Android.Resource.String.UncheckAll = global::SampleProject.Droid.Resource.String.UncheckAll;
-			global::Intersoft.Crosslight.Android.Resource.String.pull_to_refresh_pull_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_pull_label;
-			global::Intersoft.Crosslight.Android.Resource.String.pull_to_refresh_refreshing_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_refreshing_label;
-			global::Intersoft.Crosslight.Android.Resource.String.pull_to_refresh_release_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_release_label;
-			global::Intersoft.Crosslight.Android.Resource.String.spb_default_speed = global::SampleProject.Droid.Resource.String.spb_default_speed;
-			global::Intersoft.Crosslight.Android.Resource.Style.BulletPageIndicator = global::SampleProject.Droid.Resource.Style.BulletPageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Style.GridItem = global::SampleProject.Droid.Resource.Style.GridItem;
-			global::Intersoft.Crosslight.Android.Resource.Style.ListItem = global::SampleProject.Droid.Resource.Style.ListItem;
-			global::Intersoft.Crosslight.Android.Resource.Style.PageIndicator = global::SampleProject.Droid.Resource.Style.PageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Style.SmoothProgressBar = global::SampleProject.Droid.Resource.Style.SmoothProgressBar;
-			global::Intersoft.Crosslight.Android.Resource.Style.StripPageIndicator = global::SampleProject.Droid.Resource.Style.StripPageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Style.TextAppearance_Custom_PtrHeader_Title = global::SampleProject.Droid.Resource.Style.TextAppearance_Custom_PtrHeader_Title;
-			global::Intersoft.Crosslight.Android.Resource.Style.TextAppearance_Small = global::SampleProject.Droid.Resource.Style.TextAppearance_Small;
-			global::Intersoft.Crosslight.Android.Resource.Style.TextViewStyle = global::SampleProject.Droid.Resource.Style.TextViewStyle;
-			global::Intersoft.Crosslight.Android.Resource.Style.Theme_Holo_CustomPtrHeader = global::SampleProject.Droid.Resource.Style.Theme_Holo_CustomPtrHeader;
-			global::Intersoft.Crosslight.Android.Resource.Style.Theme_PageIndicatorDefaults = global::SampleProject.Droid.Resource.Style.Theme_PageIndicatorDefaults;
-			global::Intersoft.Crosslight.Android.Resource.Style.Theme_SmoothProgressBarDefaults = global::SampleProject.Droid.Resource.Style.Theme_SmoothProgressBarDefaults;
-			global::Intersoft.Crosslight.Android.Resource.Style.ThemeHoloLightDockEdge = global::SampleProject.Droid.Resource.Style.ThemeHoloLightDockEdge;
-			global::Intersoft.Crosslight.Android.Resource.Style.Widget_Custom_PtrHeader = global::SampleProject.Droid.Resource.Style.Widget_Custom_PtrHeader;
-			global::Intersoft.Crosslight.Android.Resource.Style.Widget_ProgressBar_PullToRefresh = global::SampleProject.Droid.Resource.Style.Widget_ProgressBar_PullToRefresh;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_centered = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_centered;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_fillColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_fillColor;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_orientation = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_orientation;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_pageColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_pageColor;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_radius = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_radius;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_snap = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_snap;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_strokeColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_strokeColor;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.BulletPageIndicator_strokeWidth = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_strokeWidth;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView = global::SampleProject.Droid.Resource.Styleable.ListView;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_AnimateOnNewItems = global::SampleProject.Droid.Resource.Styleable.ListView_AnimateOnNewItems;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_FastScrollLetters = global::SampleProject.Droid.Resource.Styleable.ListView_FastScrollLetters;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_FooterLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_FooterLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_GroupItemLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_GroupItemLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_HeaderLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_HeaderLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_InteractionMode = global::SampleProject.Droid.Resource.Styleable.ListView_InteractionMode;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_ItemLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_ItemLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_ProgressBarId = global::SampleProject.Droid.Resource.Styleable.ListView_ProgressBarId;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ListView_ProgressBarLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_ProgressBarLayoutId;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.NumericStepper = global::SampleProject.Droid.Resource.Styleable.NumericStepper;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.NumericStepper_android_value = global::SampleProject.Droid.Resource.Styleable.NumericStepper_android_value;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.NumericStepper_maxValue = global::SampleProject.Droid.Resource.Styleable.NumericStepper_maxValue;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.NumericStepper_minValue = global::SampleProject.Droid.Resource.Styleable.NumericStepper_minValue;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.NumericStepper_step = global::SampleProject.Droid.Resource.Styleable.NumericStepper_step;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PageIndicator = global::SampleProject.Droid.Resource.Styleable.PageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PageIndicator_vpiBulletPageIndicatorStyle = global::SampleProject.Droid.Resource.Styleable.PageIndicator_vpiBulletPageIndicatorStyle;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PageIndicator_vpiStripPageIndicatorStyle = global::SampleProject.Droid.Resource.Styleable.PageIndicator_vpiStripPageIndicatorStyle;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderBackground = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderBackground;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderHeight = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderHeight;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderTitleTextAppearance = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderTitleTextAppearance;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarColor = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarColor;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarHeight = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarHeight;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarStyle = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarStyle;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrPullText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrPullText;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrRefreshingText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrRefreshingText;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshHeader_ptrReleaseText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrReleaseText;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshView = global::SampleProject.Droid.Resource.Styleable.PullToRefreshView;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.PullToRefreshView_ptrViewDelegateClass = global::SampleProject.Droid.Resource.Styleable.PullToRefreshView_ptrViewDelegateClass;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton = global::SampleProject.Droid.Resource.Styleable.RoundedButton;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_android_scaleType = global::SampleProject.Droid.Resource.Styleable.RoundedButton_android_scaleType;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_contentStyle = global::SampleProject.Droid.Resource.Styleable.RoundedButton_contentStyle;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_imageBackground = global::SampleProject.Droid.Resource.Styleable.RoundedButton_imageBackground;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_imageSrc = global::SampleProject.Droid.Resource.Styleable.RoundedButton_imageSrc;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_isToggle = global::SampleProject.Droid.Resource.Styleable.RoundedButton_isToggle;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_subtitleColor = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleColor;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_subtitleText = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleText;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_subtitleTextSize = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleTextSize;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_titleColor = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleColor;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_titleText = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleText;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedButton_titleTextSize = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleTextSize;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedImageView = global::SampleProject.Droid.Resource.Styleable.RoundedImageView;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.RoundedImageView_cornerRadius = global::SampleProject.Droid.Resource.Styleable.RoundedImageView_cornerRadius;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spbStyle = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spbStyle;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_color = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_color;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_colors = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_colors;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_interpolator = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_interpolator;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_mirror_mode = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_mirror_mode;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_reversed = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_reversed;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_sections_count = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_sections_count;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_speed = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_speed;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_stroke_separator_length = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_stroke_separator_length;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.SmoothProgressBar_spb_stroke_width = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_stroke_width;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.StripPageIndicator = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.StripPageIndicator_android_background = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_android_background;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.StripPageIndicator_fadeDelay = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fadeDelay;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.StripPageIndicator_fadeLength = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fadeLength;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.StripPageIndicator_fades = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fades;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.StripPageIndicator_selectedColor = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_selectedColor;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ToogleImageButton = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton;
-			global::Intersoft.Crosslight.Android.Resource.Styleable.ToogleImageButton_checked = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton_checked;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_fade_in = global::SampleProject.Droid.Resource.Animation.dialog_fade_in;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_fade_out = global::SampleProject.Droid.Resource.Animation.dialog_fade_out;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_in_down = global::SampleProject.Droid.Resource.Animation.dialog_push_in_down;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_in_up = global::SampleProject.Droid.Resource.Animation.dialog_push_in_up;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_out_down = global::SampleProject.Droid.Resource.Animation.dialog_push_out_down;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_out_up = global::SampleProject.Droid.Resource.Animation.dialog_push_out_up;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_in_left = global::SampleProject.Droid.Resource.Animation.dialog_slide_in_left;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_in_right = global::SampleProject.Droid.Resource.Animation.dialog_slide_in_right;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_out_left = global::SampleProject.Droid.Resource.Animation.dialog_slide_out_left;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_out_right = global::SampleProject.Droid.Resource.Animation.dialog_slide_out_right;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.slide_in_top = global::SampleProject.Droid.Resource.Animation.slide_in_top;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.slide_out_top = global::SampleProject.Droid.Resource.Animation.slide_out_top;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.toast_enter = global::SampleProject.Droid.Resource.Animation.toast_enter;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.toast_exit = global::SampleProject.Droid.Resource.Animation.toast_exit;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_bottomtop = global::SampleProject.Droid.Resource.Animation.transition_bottomtop;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_fadein = global::SampleProject.Droid.Resource.Animation.transition_fadein;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_fadeout = global::SampleProject.Droid.Resource.Animation.transition_fadeout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_leftright = global::SampleProject.Droid.Resource.Animation.transition_leftright;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_rightleft = global::SampleProject.Droid.Resource.Animation.transition_rightleft;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_topbottom = global::SampleProject.Droid.Resource.Animation.transition_topbottom;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Array.select_image_dialog = global::SampleProject.Droid.Resource.Array.select_image_dialog;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.AnimateOnNewItems = global::SampleProject.Droid.Resource.Attribute.AnimateOnNewItems;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.FastScrollLetters = global::SampleProject.Droid.Resource.Attribute.FastScrollLetters;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.FooterLayoutId = global::SampleProject.Droid.Resource.Attribute.FooterLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.GroupItemLayoutId = global::SampleProject.Droid.Resource.Attribute.GroupItemLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.HeaderLayoutId = global::SampleProject.Droid.Resource.Attribute.HeaderLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.InteractionMode = global::SampleProject.Droid.Resource.Attribute.InteractionMode;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ItemLayoutId = global::SampleProject.Droid.Resource.Attribute.ItemLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ProgressBarId = global::SampleProject.Droid.Resource.Attribute.ProgressBarId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ProgressBarLayoutId = global::SampleProject.Droid.Resource.Attribute.ProgressBarLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.centered = global::SampleProject.Droid.Resource.Attribute.centered;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.@checked = global::SampleProject.Droid.Resource.Attribute.@checked;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.contentStyle = global::SampleProject.Droid.Resource.Attribute.contentStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.cornerRadius = global::SampleProject.Droid.Resource.Attribute.cornerRadius;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fadeDelay = global::SampleProject.Droid.Resource.Attribute.fadeDelay;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fadeLength = global::SampleProject.Droid.Resource.Attribute.fadeLength;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fades = global::SampleProject.Droid.Resource.Attribute.fades;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fillColor = global::SampleProject.Droid.Resource.Attribute.fillColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.imageBackground = global::SampleProject.Droid.Resource.Attribute.imageBackground;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.imageSrc = global::SampleProject.Droid.Resource.Attribute.imageSrc;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.isToggle = global::SampleProject.Droid.Resource.Attribute.isToggle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.maxValue = global::SampleProject.Droid.Resource.Attribute.maxValue;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.minValue = global::SampleProject.Droid.Resource.Attribute.minValue;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.orientation = global::SampleProject.Droid.Resource.Attribute.orientation;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.pageColor = global::SampleProject.Droid.Resource.Attribute.pageColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderBackground = global::SampleProject.Droid.Resource.Attribute.ptrHeaderBackground;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderHeight = global::SampleProject.Droid.Resource.Attribute.ptrHeaderHeight;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderStyle = global::SampleProject.Droid.Resource.Attribute.ptrHeaderStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderTitleTextAppearance = global::SampleProject.Droid.Resource.Attribute.ptrHeaderTitleTextAppearance;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrProgressBarColor = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrProgressBarHeight = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarHeight;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrProgressBarStyle = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrPullText = global::SampleProject.Droid.Resource.Attribute.ptrPullText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrRefreshingText = global::SampleProject.Droid.Resource.Attribute.ptrRefreshingText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrReleaseText = global::SampleProject.Droid.Resource.Attribute.ptrReleaseText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrViewDelegateClass = global::SampleProject.Droid.Resource.Attribute.ptrViewDelegateClass;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.radius = global::SampleProject.Droid.Resource.Attribute.radius;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.selectedColor = global::SampleProject.Droid.Resource.Attribute.selectedColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.snap = global::SampleProject.Droid.Resource.Attribute.snap;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spbStyle = global::SampleProject.Droid.Resource.Attribute.spbStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_color = global::SampleProject.Droid.Resource.Attribute.spb_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_colors = global::SampleProject.Droid.Resource.Attribute.spb_colors;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_interpolator = global::SampleProject.Droid.Resource.Attribute.spb_interpolator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_mirror_mode = global::SampleProject.Droid.Resource.Attribute.spb_mirror_mode;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_reversed = global::SampleProject.Droid.Resource.Attribute.spb_reversed;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_sections_count = global::SampleProject.Droid.Resource.Attribute.spb_sections_count;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_speed = global::SampleProject.Droid.Resource.Attribute.spb_speed;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_stroke_separator_length = global::SampleProject.Droid.Resource.Attribute.spb_stroke_separator_length;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_stroke_width = global::SampleProject.Droid.Resource.Attribute.spb_stroke_width;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.step = global::SampleProject.Droid.Resource.Attribute.step;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.strokeColor = global::SampleProject.Droid.Resource.Attribute.strokeColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.strokeWidth = global::SampleProject.Droid.Resource.Attribute.strokeWidth;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.subtitleColor = global::SampleProject.Droid.Resource.Attribute.subtitleColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.subtitleText = global::SampleProject.Droid.Resource.Attribute.subtitleText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.subtitleTextSize = global::SampleProject.Droid.Resource.Attribute.subtitleTextSize;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.titleColor = global::SampleProject.Droid.Resource.Attribute.titleColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.titleText = global::SampleProject.Droid.Resource.Attribute.titleText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.titleTextSize = global::SampleProject.Droid.Resource.Attribute.titleTextSize;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.vpiBulletPageIndicatorStyle = global::SampleProject.Droid.Resource.Attribute.vpiBulletPageIndicatorStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.vpiStripPageIndicatorStyle = global::SampleProject.Droid.Resource.Attribute.vpiStripPageIndicatorStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.default_bullet_indicator_centered = global::SampleProject.Droid.Resource.Boolean.default_bullet_indicator_centered;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.default_bullet_indicator_snap = global::SampleProject.Droid.Resource.Boolean.default_bullet_indicator_snap;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.default_strip_indicator_fades = global::SampleProject.Droid.Resource.Boolean.default_strip_indicator_fades;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.spb_default_mirror_mode = global::SampleProject.Droid.Resource.Boolean.spb_default_mirror_mode;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.spb_default_reversed = global::SampleProject.Droid.Resource.Boolean.spb_default_reversed;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.bright_foreground_dark = global::SampleProject.Droid.Resource.Color.bright_foreground_dark;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_bullet_indicator_fill_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_fill_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_bullet_indicator_page_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_page_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_bullet_indicator_stroke_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_stroke_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_progress_bar_color = global::SampleProject.Droid.Resource.Color.default_progress_bar_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_strip_indicator_selected_color = global::SampleProject.Droid.Resource.Color.default_strip_indicator_selected_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.gridviewbackgroundselector = global::SampleProject.Droid.Resource.Color.gridviewbackgroundselector;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.holo_dark_green = global::SampleProject.Droid.Resource.Color.holo_dark_green;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.listviewbackgroundselector = global::SampleProject.Droid.Resource.Color.listviewbackgroundselector;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.spb_default_color = global::SampleProject.Droid.Resource.Color.spb_default_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__background_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__background_holo_dark;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__background_holo_light = global::SampleProject.Droid.Resource.Color.vpi__background_holo_light;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_holo_dark;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_holo_light;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__dark_theme = global::SampleProject.Droid.Resource.Color.vpi__dark_theme;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.default_bullet_indicator_radius = global::SampleProject.Droid.Resource.Dimension.default_bullet_indicator_radius;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.default_bullet_indicator_stroke_width = global::SampleProject.Droid.Resource.Dimension.default_bullet_indicator_stroke_width;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.ptr_progress_bar_stroke_width = global::SampleProject.Droid.Resource.Dimension.ptr_progress_bar_stroke_width;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.spb_default_stroke_separator_length = global::SampleProject.Droid.Resource.Dimension.spb_default_stroke_separator_length;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.spb_default_stroke_width = global::SampleProject.Droid.Resource.Dimension.spb_default_stroke_width;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.btn_check_off_focused_holo_dark = global::SampleProject.Droid.Resource.Drawable.btn_check_off_focused_holo_dark;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.btn_check_on_pressed_holo_dark = global::SampleProject.Droid.Resource.Drawable.btn_check_on_pressed_holo_dark;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.ic_drawer = global::SampleProject.Droid.Resource.Drawable.ic_drawer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.leftdrawershadow = global::SampleProject.Droid.Resource.Drawable.leftdrawershadow;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.rightdrawershadow = global::SampleProject.Droid.Resource.Drawable.rightdrawershadow;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedcorner_checked = global::SampleProject.Droid.Resource.Drawable.roundedcorner_checked;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedcorner_default = global::SampleProject.Droid.Resource.Drawable.roundedcorner_default;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedcorner_pressed = global::SampleProject.Droid.Resource.Drawable.roundedcorner_pressed;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedselector = global::SampleProject.Droid.Resource.Drawable.roundedselector;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.toast_frame_holo = global::SampleProject.Droid.Resource.Drawable.toast_frame_holo;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_indicator = global::SampleProject.Droid.Resource.Drawable.vpi__tab_indicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_selected_focused_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_focused_holo;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_selected_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_holo;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_selected_pressed_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_pressed_holo;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_unselected_focused_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_focused_holo;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_unselected_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_holo;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_unselected_pressed_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_pressed_holo;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.BulletPageIndicator = global::SampleProject.Droid.Resource.Id.BulletPageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ButtonContainer = global::SampleProject.Droid.Resource.Id.ButtonContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ButtonWidget = global::SampleProject.Droid.Resource.Id.ButtonWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.CheckBoxWidget = global::SampleProject.Droid.Resource.Id.CheckBoxWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationDetail = global::SampleProject.Droid.Resource.Id.ChildNavigationDetail;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationImage = global::SampleProject.Droid.Resource.Id.ChildNavigationImage;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationLayout = global::SampleProject.Droid.Resource.Id.ChildNavigationLayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationText = global::SampleProject.Droid.Resource.Id.ChildNavigationText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChoiceInput = global::SampleProject.Droid.Resource.Id.ChoiceInput;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ContentContainer = global::SampleProject.Droid.Resource.Id.ContentContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ContentSeparator = global::SampleProject.Droid.Resource.Id.ContentSeparator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ControlsPlaceholder = global::SampleProject.Droid.Resource.Id.ControlsPlaceholder;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DatePickerWidget = global::SampleProject.Droid.Resource.Id.DatePickerWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DateTimePickerDateWidget = global::SampleProject.Droid.Resource.Id.DateTimePickerDateWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DateTimePickerTextView = global::SampleProject.Droid.Resource.Id.DateTimePickerTextView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DateTimePickerTimeWidget = global::SampleProject.Droid.Resource.Id.DateTimePickerTimeWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogFirstSeparator = global::SampleProject.Droid.Resource.Id.DialogFirstSeparator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogNegativeButton = global::SampleProject.Droid.Resource.Id.DialogNegativeButton;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogNeutralButton = global::SampleProject.Droid.Resource.Id.DialogNeutralButton;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogPositiveButton = global::SampleProject.Droid.Resource.Id.DialogPositiveButton;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogRoot = global::SampleProject.Droid.Resource.Id.DialogRoot;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogSecondSeparator = global::SampleProject.Droid.Resource.Id.DialogSecondSeparator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.EditorContainer = global::SampleProject.Droid.Resource.Id.EditorContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FloatingLayout = global::SampleProject.Droid.Resource.Id.FloatingLayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FooterLayout = global::SampleProject.Droid.Resource.Id.FooterLayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FooterText = global::SampleProject.Droid.Resource.Id.FooterText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FormContainer = global::SampleProject.Droid.Resource.Id.FormContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FormPlaceholder = global::SampleProject.Droid.Resource.Id.FormPlaceholder;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FormScrollView = global::SampleProject.Droid.Resource.Id.FormScrollView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.GridView = global::SampleProject.Droid.Resource.Id.GridView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HeaderLayout = global::SampleProject.Droid.Resource.Id.HeaderLayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HeaderSeparator = global::SampleProject.Droid.Resource.Id.HeaderSeparator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HeaderText = global::SampleProject.Droid.Resource.Id.HeaderText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkDetail = global::SampleProject.Droid.Resource.Id.HyperlinkDetail;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkImage = global::SampleProject.Droid.Resource.Id.HyperlinkImage;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkLayout = global::SampleProject.Droid.Resource.Id.HyperlinkLayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkText = global::SampleProject.Droid.Resource.Id.HyperlinkText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImageContainer = global::SampleProject.Droid.Resource.Id.ImageContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImagePlaceholder = global::SampleProject.Droid.Resource.Id.ImagePlaceholder;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImageTextView = global::SampleProject.Droid.Resource.Id.ImageTextView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImageView = global::SampleProject.Droid.Resource.Id.ImageView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.InnerLayout = global::SampleProject.Droid.Resource.Id.InnerLayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.InternalSeekBar = global::SampleProject.Droid.Resource.Id.InternalSeekBar;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Navigation = global::SampleProject.Droid.Resource.Id.Navigation;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.None = global::SampleProject.Droid.Resource.Id.None;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.NumericStepper = global::SampleProject.Droid.Resource.Id.NumericStepper;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.PageIndicatorContainer = global::SampleProject.Droid.Resource.Id.PageIndicatorContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.PagerTabStrip = global::SampleProject.Droid.Resource.Id.PagerTabStrip;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.SelectionWidget = global::SampleProject.Droid.Resource.Id.SelectionWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.SpinnerWidget = global::SampleProject.Droid.Resource.Id.SpinnerWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Standard = global::SampleProject.Droid.Resource.Id.Standard;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.StripPageIndicator = global::SampleProject.Droid.Resource.Id.StripPageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.SubtitleTextView = global::SampleProject.Droid.Resource.Id.SubtitleTextView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Switch = global::SampleProject.Droid.Resource.Id.Switch;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabContainer = global::SampleProject.Droid.Resource.Id.TabContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabIcon = global::SampleProject.Droid.Resource.Id.TabIcon;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabPageIndicator = global::SampleProject.Droid.Resource.Id.TabPageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabTitle = global::SampleProject.Droid.Resource.Id.TabTitle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Text1 = global::SampleProject.Droid.Resource.Id.Text1;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Text2 = global::SampleProject.Droid.Resource.Id.Text2;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TimePickerWidget = global::SampleProject.Droid.Resource.Id.TimePickerWidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TitleContainer = global::SampleProject.Droid.Resource.Id.TitleContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TitleText = global::SampleProject.Droid.Resource.Id.TitleText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TitleTextView = global::SampleProject.Droid.Resource.Id.TitleTextView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ValueText = global::SampleProject.Droid.Resource.Id.ValueText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ViewPager = global::SampleProject.Droid.Resource.Id.ViewPager;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ViewSlider = global::SampleProject.Droid.Resource.Id.ViewSlider;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.center_frame = global::SampleProject.Droid.Resource.Id.center_frame;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.decrease_button = global::SampleProject.Droid.Resource.Id.decrease_button;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.detailFrame = global::SampleProject.Droid.Resource.Id.detailFrame;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.drawer_layout = global::SampleProject.Droid.Resource.Id.drawer_layout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_1 = global::SampleProject.Droid.Resource.Id.form_list_fragment_1;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_10 = global::SampleProject.Droid.Resource.Id.form_list_fragment_10;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_2 = global::SampleProject.Droid.Resource.Id.form_list_fragment_2;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_3 = global::SampleProject.Droid.Resource.Id.form_list_fragment_3;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_4 = global::SampleProject.Droid.Resource.Id.form_list_fragment_4;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_5 = global::SampleProject.Droid.Resource.Id.form_list_fragment_5;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_6 = global::SampleProject.Droid.Resource.Id.form_list_fragment_6;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_7 = global::SampleProject.Droid.Resource.Id.form_list_fragment_7;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_8 = global::SampleProject.Droid.Resource.Id.form_list_fragment_8;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_9 = global::SampleProject.Droid.Resource.Id.form_list_fragment_9;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentActivityLayout = global::SampleProject.Droid.Resource.Id.fragmentActivityLayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentBody = global::SampleProject.Droid.Resource.Id.fragmentBody;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentFooter = global::SampleProject.Droid.Resource.Id.fragmentFooter;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentHeader = global::SampleProject.Droid.Resource.Id.fragmentHeader;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.horizontal = global::SampleProject.Droid.Resource.Id.horizontal;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.image = global::SampleProject.Droid.Resource.Id.image;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.increase_button = global::SampleProject.Droid.Resource.Id.increase_button;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.inside = global::SampleProject.Droid.Resource.Id.inside;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.left_frame = global::SampleProject.Droid.Resource.Id.left_frame;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.left_navdrawer = global::SampleProject.Droid.Resource.Id.left_navdrawer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listContainer = global::SampleProject.Droid.Resource.Id.listContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listViewFooter = global::SampleProject.Droid.Resource.Id.listViewFooter;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listViewHeader = global::SampleProject.Droid.Resource.Id.listViewHeader;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listViewProgressbar = global::SampleProject.Droid.Resource.Id.listViewProgressbar;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.maincontent_navdrawer = global::SampleProject.Droid.Resource.Id.maincontent_navdrawer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.masterFrame = global::SampleProject.Droid.Resource.Id.masterFrame;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.message_box = global::SampleProject.Droid.Resource.Id.message_box;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.numeric_box = global::SampleProject.Droid.Resource.Id.numeric_box;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.outside = global::SampleProject.Droid.Resource.Id.outside;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.parallax_image = global::SampleProject.Droid.Resource.Id.parallax_image;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.progressContainer = global::SampleProject.Droid.Resource.Id.progressContainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.progress_bar = global::SampleProject.Droid.Resource.Id.progress_bar;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ptr_content = global::SampleProject.Droid.Resource.Id.ptr_content;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ptr_progress = global::SampleProject.Droid.Resource.Id.ptr_progress;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ptr_text = global::SampleProject.Droid.Resource.Id.ptr_text;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.right_button = global::SampleProject.Droid.Resource.Id.right_button;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.right_frame = global::SampleProject.Droid.Resource.Id.right_frame;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.right_navdrawer = global::SampleProject.Droid.Resource.Id.right_navdrawer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.shared_image = global::SampleProject.Droid.Resource.Id.shared_image;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_accelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_accelerate;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_acceleratedecelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_acceleratedecelerate;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_decelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_decelerate;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_linear = global::SampleProject.Droid.Resource.Id.spb_interpolator_linear;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.subtitle = global::SampleProject.Droid.Resource.Id.subtitle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.title = global::SampleProject.Droid.Resource.Id.title;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.vertical = global::SampleProject.Droid.Resource.Id.vertical;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.default_bullet_indicator_orientation = global::SampleProject.Droid.Resource.Integer.default_bullet_indicator_orientation;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.default_strip_indicator_fade_delay = global::SampleProject.Droid.Resource.Integer.default_strip_indicator_fade_delay;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.default_strip_indicator_fade_length = global::SampleProject.Droid.Resource.Integer.default_strip_indicator_fade_length;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.spb_default_interpolator = global::SampleProject.Droid.Resource.Integer.spb_default_interpolator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.spb_default_sections_count = global::SampleProject.Droid.Resource.Integer.spb_default_sections_count;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Interpolator.accelerate_quad = global::SampleProject.Droid.Resource.Interpolator.accelerate_quad;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Interpolator.decelerate_quad = global::SampleProject.Droid.Resource.Interpolator.decelerate_quad;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.activitylargeindicator = global::SampleProject.Droid.Resource.Layout.activitylargeindicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.activitysmallindicator = global::SampleProject.Droid.Resource.Layout.activitysmallindicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.activitytranslucentindicator = global::SampleProject.Droid.Resource.Layout.activitytranslucentindicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.bulletpageindicator = global::SampleProject.Droid.Resource.Layout.bulletpageindicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.buttonwidget = global::SampleProject.Droid.Resource.Layout.buttonwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.checkboxwidget = global::SampleProject.Droid.Resource.Layout.checkboxwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.childnavigationwidget = global::SampleProject.Droid.Resource.Layout.childnavigationwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.datepickerwidget = global::SampleProject.Droid.Resource.Layout.datepickerwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.datetimepickerlayout = global::SampleProject.Droid.Resource.Layout.datetimepickerlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.datetimepickerwidget = global::SampleProject.Droid.Resource.Layout.datetimepickerwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.default_header = global::SampleProject.Droid.Resource.Layout.default_header;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.dialoglayout = global::SampleProject.Droid.Resource.Layout.dialoglayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.dialoglayout_edge = global::SampleProject.Droid.Resource.Layout.dialoglayout_edge;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.dialoglayout_fullscreen = global::SampleProject.Droid.Resource.Layout.dialoglayout_fullscreen;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.edittextwidget = global::SampleProject.Droid.Resource.Layout.edittextwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.form = global::SampleProject.Droid.Resource.Layout.form;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayout = global::SampleProject.Droid.Resource.Layout.formlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutdetailonly = global::SampleProject.Droid.Resource.Layout.formlayoutdetailonly;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutleftdetail = global::SampleProject.Droid.Resource.Layout.formlayoutleftdetail;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutrightdetail = global::SampleProject.Droid.Resource.Layout.formlayoutrightdetail;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutrowdetail = global::SampleProject.Droid.Resource.Layout.formlayoutrowdetail;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formsectionlayout = global::SampleProject.Droid.Resource.Layout.formsectionlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formseparator = global::SampleProject.Droid.Resource.Layout.formseparator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.fragmentactivitylayout = global::SampleProject.Droid.Resource.Layout.fragmentactivitylayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.gridcontent = global::SampleProject.Droid.Resource.Layout.gridcontent;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.hyperlinkwidget = global::SampleProject.Droid.Resource.Layout.hyperlinkwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.imagepickerwidget = global::SampleProject.Droid.Resource.Layout.imagepickerwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.imageviewwidget = global::SampleProject.Droid.Resource.Layout.imageviewwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.imagewidget = global::SampleProject.Droid.Resource.Layout.imagewidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listgroupsectionheaderlayout = global::SampleProject.Droid.Resource.Layout.listgroupsectionheaderlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listgroupsectionlayout = global::SampleProject.Droid.Resource.Layout.listgroupsectionlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewfooterlayout = global::SampleProject.Droid.Resource.Layout.listviewfooterlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewheaderlayout = global::SampleProject.Droid.Resource.Layout.listviewheaderlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewprogressbarlayout = global::SampleProject.Droid.Resource.Layout.listviewprogressbarlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewwidgetlayout = global::SampleProject.Droid.Resource.Layout.listviewwidgetlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.maincontainer = global::SampleProject.Droid.Resource.Layout.maincontainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.masterdetailfragmentlayout = global::SampleProject.Droid.Resource.Layout.masterdetailfragmentlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.messageinputviewlayout = global::SampleProject.Droid.Resource.Layout.messageinputviewlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.navigationdrawerlayout = global::SampleProject.Droid.Resource.Layout.navigationdrawerlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.numericstepperlayout = global::SampleProject.Droid.Resource.Layout.numericstepperlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.numericstepperwidget = global::SampleProject.Droid.Resource.Layout.numericstepperwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.paralax_image = global::SampleProject.Droid.Resource.Layout.paralax_image;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.radiobuttonwidget = global::SampleProject.Droid.Resource.Layout.radiobuttonwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.roundedbuttonlayout = global::SampleProject.Droid.Resource.Layout.roundedbuttonlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.sectionimageswithfieldslayout = global::SampleProject.Droid.Resource.Layout.sectionimageswithfieldslayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.sectionlayout = global::SampleProject.Droid.Resource.Layout.sectionlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.seekbarwidget = global::SampleProject.Droid.Resource.Layout.seekbarwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.selectionwidget = global::SampleProject.Droid.Resource.Layout.selectionwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplegriditem = global::SampleProject.Droid.Resource.Layout.simplegriditem;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simpleimageitem = global::SampleProject.Droid.Resource.Layout.simpleimageitem;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplelistviewwidget1 = global::SampleProject.Droid.Resource.Layout.simplelistviewwidget1;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplelistviewwidget2 = global::SampleProject.Droid.Resource.Layout.simplelistviewwidget2;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplelistviewwidgetimage = global::SampleProject.Droid.Resource.Layout.simplelistviewwidgetimage;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.spinnerdropdownitemlayout = global::SampleProject.Droid.Resource.Layout.spinnerdropdownitemlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.spinnerlayout = global::SampleProject.Droid.Resource.Layout.spinnerlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.spinnerwidget = global::SampleProject.Droid.Resource.Layout.spinnerwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.strippageindicator = global::SampleProject.Droid.Resource.Layout.strippageindicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.switchwidget = global::SampleProject.Droid.Resource.Layout.switchwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tabcontainer = global::SampleProject.Droid.Resource.Layout.tabcontainer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tabfragmentlayout = global::SampleProject.Droid.Resource.Layout.tabfragmentlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellleftdetail = global::SampleProject.Droid.Resource.Layout.tablecellleftdetail;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellrightdetail = global::SampleProject.Droid.Resource.Layout.tablecellrightdetail;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellsubtitle = global::SampleProject.Droid.Resource.Layout.tablecellsubtitle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellsubtitlewithimage = global::SampleProject.Droid.Resource.Layout.tablecellsubtitlewithimage;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.textfieldview = global::SampleProject.Droid.Resource.Layout.textfieldview;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.textwidget = global::SampleProject.Droid.Resource.Layout.textwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.timepickerwidget = global::SampleProject.Droid.Resource.Layout.timepickerwidget;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toast = global::SampleProject.Droid.Resource.Layout.toast;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toastlayout = global::SampleProject.Droid.Resource.Layout.toastlayout;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toastshadow = global::SampleProject.Droid.Resource.Layout.toastshadow;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toastshape = global::SampleProject.Droid.Resource.Layout.toastshape;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewpagerindicatortab = global::SampleProject.Droid.Resource.Layout.viewpagerindicatortab;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewpagerwithtab = global::SampleProject.Droid.Resource.Layout.viewpagerwithtab;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewpagerwithtabstrip = global::SampleProject.Droid.Resource.Layout.viewpagerwithtabstrip;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewslider = global::SampleProject.Droid.Resource.Layout.viewslider;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Add = global::SampleProject.Droid.Resource.String.Add;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.AddPhoto = global::SampleProject.Droid.Resource.String.AddPhoto;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.ApplicationName = global::SampleProject.Droid.Resource.String.ApplicationName;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Cancel = global::SampleProject.Droid.Resource.String.Cancel;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.CheckAll = global::SampleProject.Droid.Resource.String.CheckAll;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.ChooseFromGallery = global::SampleProject.Droid.Resource.String.ChooseFromGallery;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.CloseDrawer = global::SampleProject.Droid.Resource.String.CloseDrawer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Delete = global::SampleProject.Droid.Resource.String.Delete;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.DeleteImage = global::SampleProject.Droid.Resource.String.DeleteImage;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.EditPhoto = global::SampleProject.Droid.Resource.String.EditPhoto;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Hello = global::SampleProject.Droid.Resource.String.Hello;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.More = global::SampleProject.Droid.Resource.String.More;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.OK = global::SampleProject.Droid.Resource.String.OK;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.OpenDrawer = global::SampleProject.Droid.Resource.String.OpenDrawer;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Save = global::SampleProject.Droid.Resource.String.Save;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.SelectImage = global::SampleProject.Droid.Resource.String.SelectImage;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.TakePhoto = global::SampleProject.Droid.Resource.String.TakePhoto;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.UncheckAll = global::SampleProject.Droid.Resource.String.UncheckAll;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.pull_to_refresh_pull_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_pull_label;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.pull_to_refresh_refreshing_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_refreshing_label;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.pull_to_refresh_release_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_release_label;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.spb_default_speed = global::SampleProject.Droid.Resource.String.spb_default_speed;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.BulletPageIndicator = global::SampleProject.Droid.Resource.Style.BulletPageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.GridItem = global::SampleProject.Droid.Resource.Style.GridItem;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.ListItem = global::SampleProject.Droid.Resource.Style.ListItem;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.PageIndicator = global::SampleProject.Droid.Resource.Style.PageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.SmoothProgressBar = global::SampleProject.Droid.Resource.Style.SmoothProgressBar;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.StripPageIndicator = global::SampleProject.Droid.Resource.Style.StripPageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.TextAppearance_Custom_PtrHeader_Title = global::SampleProject.Droid.Resource.Style.TextAppearance_Custom_PtrHeader_Title;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.TextAppearance_Small = global::SampleProject.Droid.Resource.Style.TextAppearance_Small;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.TextViewStyle = global::SampleProject.Droid.Resource.Style.TextViewStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Theme_Holo_CustomPtrHeader = global::SampleProject.Droid.Resource.Style.Theme_Holo_CustomPtrHeader;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Theme_PageIndicatorDefaults = global::SampleProject.Droid.Resource.Style.Theme_PageIndicatorDefaults;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Theme_SmoothProgressBarDefaults = global::SampleProject.Droid.Resource.Style.Theme_SmoothProgressBarDefaults;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.ThemeHoloLightDockEdge = global::SampleProject.Droid.Resource.Style.ThemeHoloLightDockEdge;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Widget_Custom_PtrHeader = global::SampleProject.Droid.Resource.Style.Widget_Custom_PtrHeader;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Widget_ProgressBar_PullToRefresh = global::SampleProject.Droid.Resource.Style.Widget_ProgressBar_PullToRefresh;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_centered = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_centered;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_fillColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_fillColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_orientation = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_orientation;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_pageColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_pageColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_radius = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_radius;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_snap = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_snap;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_strokeColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_strokeColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_strokeWidth = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_strokeWidth;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView = global::SampleProject.Droid.Resource.Styleable.ListView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_AnimateOnNewItems = global::SampleProject.Droid.Resource.Styleable.ListView_AnimateOnNewItems;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_FastScrollLetters = global::SampleProject.Droid.Resource.Styleable.ListView_FastScrollLetters;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_FooterLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_FooterLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_GroupItemLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_GroupItemLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_HeaderLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_HeaderLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_InteractionMode = global::SampleProject.Droid.Resource.Styleable.ListView_InteractionMode;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_ItemLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_ItemLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_ProgressBarId = global::SampleProject.Droid.Resource.Styleable.ListView_ProgressBarId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_ProgressBarLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_ProgressBarLayoutId;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper = global::SampleProject.Droid.Resource.Styleable.NumericStepper;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_android_value = global::SampleProject.Droid.Resource.Styleable.NumericStepper_android_value;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_maxValue = global::SampleProject.Droid.Resource.Styleable.NumericStepper_maxValue;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_minValue = global::SampleProject.Droid.Resource.Styleable.NumericStepper_minValue;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_step = global::SampleProject.Droid.Resource.Styleable.NumericStepper_step;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PageIndicator = global::SampleProject.Droid.Resource.Styleable.PageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PageIndicator_vpiBulletPageIndicatorStyle = global::SampleProject.Droid.Resource.Styleable.PageIndicator_vpiBulletPageIndicatorStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PageIndicator_vpiStripPageIndicatorStyle = global::SampleProject.Droid.Resource.Styleable.PageIndicator_vpiStripPageIndicatorStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderBackground = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderBackground;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderHeight = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderHeight;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderTitleTextAppearance = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderTitleTextAppearance;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarColor = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarHeight = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarHeight;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarStyle = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrPullText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrPullText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrRefreshingText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrRefreshingText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrReleaseText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrReleaseText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshView = global::SampleProject.Droid.Resource.Styleable.PullToRefreshView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshView_ptrViewDelegateClass = global::SampleProject.Droid.Resource.Styleable.PullToRefreshView_ptrViewDelegateClass;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton = global::SampleProject.Droid.Resource.Styleable.RoundedButton;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_android_scaleType = global::SampleProject.Droid.Resource.Styleable.RoundedButton_android_scaleType;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_contentStyle = global::SampleProject.Droid.Resource.Styleable.RoundedButton_contentStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_imageBackground = global::SampleProject.Droid.Resource.Styleable.RoundedButton_imageBackground;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_imageSrc = global::SampleProject.Droid.Resource.Styleable.RoundedButton_imageSrc;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_isToggle = global::SampleProject.Droid.Resource.Styleable.RoundedButton_isToggle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_subtitleColor = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_subtitleText = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_subtitleTextSize = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleTextSize;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_titleColor = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_titleText = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleText;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_titleTextSize = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleTextSize;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedImageView = global::SampleProject.Droid.Resource.Styleable.RoundedImageView;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedImageView_cornerRadius = global::SampleProject.Droid.Resource.Styleable.RoundedImageView_cornerRadius;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spbStyle = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spbStyle;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_color = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_color;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_colors = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_colors;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_interpolator = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_interpolator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_mirror_mode = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_mirror_mode;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_reversed = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_reversed;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_sections_count = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_sections_count;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_speed = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_speed;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_stroke_separator_length = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_stroke_separator_length;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_stroke_width = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_stroke_width;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_android_background = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_android_background;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_fadeDelay = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fadeDelay;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_fadeLength = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fadeLength;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_fades = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fades;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_selectedColor = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_selectedColor;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ToogleImageButton = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton;
-			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ToogleImageButton_checked = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton_checked;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::SampleProject.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -946,66 +80,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f04000f
 			public const int design_snackbar_out = 2130968591;
 			
-			// aapt resource value: 0x7f040010
-			public const int dialog_fade_in = 2130968592;
-			
-			// aapt resource value: 0x7f040011
-			public const int dialog_fade_out = 2130968593;
-			
-			// aapt resource value: 0x7f040012
-			public const int dialog_push_in_down = 2130968594;
-			
-			// aapt resource value: 0x7f040013
-			public const int dialog_push_in_up = 2130968595;
-			
-			// aapt resource value: 0x7f040014
-			public const int dialog_push_out_down = 2130968596;
-			
-			// aapt resource value: 0x7f040015
-			public const int dialog_push_out_up = 2130968597;
-			
-			// aapt resource value: 0x7f040016
-			public const int dialog_slide_in_left = 2130968598;
-			
-			// aapt resource value: 0x7f040017
-			public const int dialog_slide_in_right = 2130968599;
-			
-			// aapt resource value: 0x7f040018
-			public const int dialog_slide_out_left = 2130968600;
-			
-			// aapt resource value: 0x7f040019
-			public const int dialog_slide_out_right = 2130968601;
-			
-			// aapt resource value: 0x7f04001a
-			public const int slide_in_top = 2130968602;
-			
-			// aapt resource value: 0x7f04001b
-			public const int slide_out_top = 2130968603;
-			
-			// aapt resource value: 0x7f04001c
-			public const int toast_enter = 2130968604;
-			
-			// aapt resource value: 0x7f04001d
-			public const int toast_exit = 2130968605;
-			
-			// aapt resource value: 0x7f04001e
-			public const int transition_bottomtop = 2130968606;
-			
-			// aapt resource value: 0x7f04001f
-			public const int transition_fadein = 2130968607;
-			
-			// aapt resource value: 0x7f040020
-			public const int transition_fadeout = 2130968608;
-			
-			// aapt resource value: 0x7f040021
-			public const int transition_leftright = 2130968609;
-			
-			// aapt resource value: 0x7f040022
-			public const int transition_rightleft = 2130968610;
-			
-			// aapt resource value: 0x7f040023
-			public const int transition_topbottom = 2130968611;
-			
 			static Animation()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -1032,51 +106,8 @@ namespace SampleProject.Droid
 			}
 		}
 		
-		public partial class Array
-		{
-			
-			// aapt resource value: 0x7f0e0000
-			public const int select_image_dialog = 2131623936;
-			
-			static Array()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Array()
-			{
-			}
-		}
-		
 		public partial class Attribute
 		{
-			
-			// aapt resource value: 0x7f01017e
-			public const int AnimateOnNewItems = 2130772350;
-			
-			// aapt resource value: 0x7f01017d
-			public const int FastScrollLetters = 2130772349;
-			
-			// aapt resource value: 0x7f01017c
-			public const int FooterLayoutId = 2130772348;
-			
-			// aapt resource value: 0x7f010179
-			public const int GroupItemLayoutId = 2130772345;
-			
-			// aapt resource value: 0x7f01017b
-			public const int HeaderLayoutId = 2130772347;
-			
-			// aapt resource value: 0x7f01017a
-			public const int InteractionMode = 2130772346;
-			
-			// aapt resource value: 0x7f010178
-			public const int ItemLayoutId = 2130772344;
-			
-			// aapt resource value: 0x7f010180
-			public const int ProgressBarId = 2130772352;
-			
-			// aapt resource value: 0x7f01017f
-			public const int ProgressBarLayoutId = 2130772351;
 			
 			// aapt resource value: 0x7f01005f
 			public const int actionBarDivider = 2130772063;
@@ -1303,14 +334,8 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f010015
 			public const int cardUseCompatPadding = 2130771989;
 			
-			// aapt resource value: 0x7f010184
-			public const int centered = 2130772356;
-			
 			// aapt resource value: 0x7f0100b1
 			public const int checkboxStyle = 2130772145;
-			
-			// aapt resource value: 0x7f01016a
-			public const int @checked = 2130772330;
 			
 			// aapt resource value: 0x7f0100b2
 			public const int checkedTextViewStyle = 2130772146;
@@ -1402,14 +427,8 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f010112
 			public const int contentScrim = 2130772242;
 			
-			// aapt resource value: 0x7f010173
-			public const int contentStyle = 2130772339;
-			
 			// aapt resource value: 0x7f0100a4
 			public const int controlBackground = 2130772132;
-			
-			// aapt resource value: 0x7f010181
-			public const int cornerRadius = 2130772353;
 			
 			// aapt resource value: 0x7f01014b
 			public const int counterEnabled = 2130772299;
@@ -1513,18 +532,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f010128
 			public const int fabSize = 2130772264;
 			
-			// aapt resource value: 0x7f01018d
-			public const int fadeDelay = 2130772365;
-			
-			// aapt resource value: 0x7f01018e
-			public const int fadeLength = 2130772366;
-			
-			// aapt resource value: 0x7f01018c
-			public const int fades = 2130772364;
-			
-			// aapt resource value: 0x7f010185
-			public const int fillColor = 2130772357;
-			
 			// aapt resource value: 0x7f01012d
 			public const int foregroundInsidePadding = 2130772269;
 			
@@ -1564,14 +571,8 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0100d6
 			public const int iconifiedByDefault = 2130772182;
 			
-			// aapt resource value: 0x7f010170
-			public const int imageBackground = 2130772336;
-			
 			// aapt resource value: 0x7f010089
 			public const int imageButtonStyle = 2130772105;
-			
-			// aapt resource value: 0x7f01016f
-			public const int imageSrc = 2130772335;
 			
 			// aapt resource value: 0x7f01002e
 			public const int indeterminateProgressStyle = 2130772014;
@@ -1584,9 +585,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f01001e
 			public const int isLightTheme = 2130771998;
-			
-			// aapt resource value: 0x7f01016e
-			public const int isToggle = 2130772334;
 			
 			// aapt resource value: 0x7f010131
 			public const int itemBackground = 2130772273;
@@ -1687,9 +685,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0100f5
 			public const int maxButtonHeight = 2130772213;
 			
-			// aapt resource value: 0x7f01016c
-			public const int maxValue = 2130772332;
-			
 			// aapt resource value: 0x7f0100c8
 			public const int measureWithLargestChild = 2130772168;
 			
@@ -1732,9 +727,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f01012e
 			public const int menu = 2130772270;
 			
-			// aapt resource value: 0x7f01016b
-			public const int minValue = 2130772331;
-			
 			// aapt resource value: 0x7f01003f
 			public const int multiChoiceItemLayout = 2130772031;
 			
@@ -1746,9 +738,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f010020
 			public const int navigationMode = 2130772000;
-			
-			// aapt resource value: 0x7f010187
-			public const int orientation = 2130772359;
 			
 			// aapt resource value: 0x7f0100d1
 			public const int overlapAnchor = 2130772177;
@@ -1764,9 +753,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0100d4
 			public const int paddingTopNoTitle = 2130772180;
-			
-			// aapt resource value: 0x7f010186
-			public const int pageColor = 2130772358;
 			
 			// aapt resource value: 0x7f010098
 			public const int panelBackground = 2130772120;
@@ -1813,39 +799,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f01002d
 			public const int progressBarStyle = 2130772013;
 			
-			// aapt resource value: 0x7f010157
-			public const int ptrHeaderBackground = 2130772311;
-			
-			// aapt resource value: 0x7f010158
-			public const int ptrHeaderHeight = 2130772312;
-			
-			// aapt resource value: 0x7f010156
-			public const int ptrHeaderStyle = 2130772310;
-			
-			// aapt resource value: 0x7f010159
-			public const int ptrHeaderTitleTextAppearance = 2130772313;
-			
-			// aapt resource value: 0x7f01015a
-			public const int ptrProgressBarColor = 2130772314;
-			
-			// aapt resource value: 0x7f01015c
-			public const int ptrProgressBarHeight = 2130772316;
-			
-			// aapt resource value: 0x7f01015b
-			public const int ptrProgressBarStyle = 2130772315;
-			
-			// aapt resource value: 0x7f01015d
-			public const int ptrPullText = 2130772317;
-			
-			// aapt resource value: 0x7f01015e
-			public const int ptrRefreshingText = 2130772318;
-			
-			// aapt resource value: 0x7f01015f
-			public const int ptrReleaseText = 2130772319;
-			
-			// aapt resource value: 0x7f010155
-			public const int ptrViewDelegateClass = 2130772309;
-			
 			// aapt resource value: 0x7f0100e0
 			public const int queryBackground = 2130772192;
 			
@@ -1854,9 +807,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0100b4
 			public const int radioButtonStyle = 2130772148;
-			
-			// aapt resource value: 0x7f010188
-			public const int radius = 2130772360;
 			
 			// aapt resource value: 0x7f0100b5
 			public const int ratingBarStyle = 2130772149;
@@ -1897,9 +847,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f01007e
 			public const int selectableItemBackgroundBorderless = 2130772094;
 			
-			// aapt resource value: 0x7f01018f
-			public const int selectedColor = 2130772367;
-			
 			// aapt resource value: 0x7f0100cb
 			public const int showAsAction = 2130772171;
 			
@@ -1915,41 +862,8 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f010040
 			public const int singleChoiceItemLayout = 2130772032;
 			
-			// aapt resource value: 0x7f010189
-			public const int snap = 2130772361;
-			
 			// aapt resource value: 0x7f010001
 			public const int spanCount = 2130771969;
-			
-			// aapt resource value: 0x7f010160
-			public const int spbStyle = 2130772320;
-			
-			// aapt resource value: 0x7f010161
-			public const int spb_color = 2130772321;
-			
-			// aapt resource value: 0x7f010169
-			public const int spb_colors = 2130772329;
-			
-			// aapt resource value: 0x7f010166
-			public const int spb_interpolator = 2130772326;
-			
-			// aapt resource value: 0x7f010168
-			public const int spb_mirror_mode = 2130772328;
-			
-			// aapt resource value: 0x7f010167
-			public const int spb_reversed = 2130772327;
-			
-			// aapt resource value: 0x7f010164
-			public const int spb_sections_count = 2130772324;
-			
-			// aapt resource value: 0x7f010165
-			public const int spb_speed = 2130772325;
-			
-			// aapt resource value: 0x7f010163
-			public const int spb_stroke_separator_length = 2130772323;
-			
-			// aapt resource value: 0x7f010162
-			public const int spb_stroke_width = 2130772322;
 			
 			// aapt resource value: 0x7f0100c1
 			public const int spinBars = 2130772161;
@@ -1984,15 +898,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f010113
 			public const int statusBarScrim = 2130772243;
 			
-			// aapt resource value: 0x7f01016d
-			public const int step = 2130772333;
-			
-			// aapt resource value: 0x7f01018a
-			public const int strokeColor = 2130772362;
-			
-			// aapt resource value: 0x7f01018b
-			public const int strokeWidth = 2130772363;
-			
 			// aapt resource value: 0x7f0100d0
 			public const int subMenuArrow = 2130772176;
 			
@@ -2002,20 +907,11 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f010022
 			public const int subtitle = 2130772002;
 			
-			// aapt resource value: 0x7f010175
-			public const int subtitleColor = 2130772341;
-			
-			// aapt resource value: 0x7f010172
-			public const int subtitleText = 2130772338;
-			
 			// aapt resource value: 0x7f0100ee
 			public const int subtitleTextAppearance = 2130772206;
 			
 			// aapt resource value: 0x7f0100fd
 			public const int subtitleTextColor = 2130772221;
-			
-			// aapt resource value: 0x7f010177
-			public const int subtitleTextSize = 2130772343;
 			
 			// aapt resource value: 0x7f010024
 			public const int subtitleTextStyle = 2130772004;
@@ -2152,9 +1048,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f01001f
 			public const int title = 2130771999;
 			
-			// aapt resource value: 0x7f010174
-			public const int titleColor = 2130772340;
-			
 			// aapt resource value: 0x7f010119
 			public const int titleEnabled = 2130772249;
 			
@@ -2176,17 +1069,11 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0100f4
 			public const int titleMargins = 2130772212;
 			
-			// aapt resource value: 0x7f010171
-			public const int titleText = 2130772337;
-			
 			// aapt resource value: 0x7f0100ed
 			public const int titleTextAppearance = 2130772205;
 			
 			// aapt resource value: 0x7f0100fc
 			public const int titleTextColor = 2130772220;
-			
-			// aapt resource value: 0x7f010176
-			public const int titleTextSize = 2130772342;
 			
 			// aapt resource value: 0x7f010023
 			public const int titleTextStyle = 2130772003;
@@ -2214,12 +1101,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0100dd
 			public const int voiceIcon = 2130772189;
-			
-			// aapt resource value: 0x7f010182
-			public const int vpiBulletPageIndicatorStyle = 2130772354;
-			
-			// aapt resource value: 0x7f010183
-			public const int vpiStripPageIndicatorStyle = 2130772355;
 			
 			// aapt resource value: 0x7f01004a
 			public const int windowActionBar = 2130772042;
@@ -2279,21 +1160,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0d0004
 			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131558404;
 			
-			// aapt resource value: 0x7f0d0007
-			public const int default_bullet_indicator_centered = 2131558407;
-			
-			// aapt resource value: 0x7f0d0008
-			public const int default_bullet_indicator_snap = 2131558408;
-			
-			// aapt resource value: 0x7f0d0009
-			public const int default_strip_indicator_fades = 2131558409;
-			
-			// aapt resource value: 0x7f0d0006
-			public const int spb_default_mirror_mode = 2131558406;
-			
-			// aapt resource value: 0x7f0d0005
-			public const int spb_default_reversed = 2131558405;
-			
 			static Boolean()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -2307,44 +1173,44 @@ namespace SampleProject.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0c005a
-			public const int abc_background_cache_hint_selector_material_dark = 2131492954;
+			// aapt resource value: 0x7f0c004a
+			public const int abc_background_cache_hint_selector_material_dark = 2131492938;
 			
-			// aapt resource value: 0x7f0c005b
-			public const int abc_background_cache_hint_selector_material_light = 2131492955;
+			// aapt resource value: 0x7f0c004b
+			public const int abc_background_cache_hint_selector_material_light = 2131492939;
 			
-			// aapt resource value: 0x7f0c005c
-			public const int abc_btn_colored_borderless_text_material = 2131492956;
+			// aapt resource value: 0x7f0c004c
+			public const int abc_btn_colored_borderless_text_material = 2131492940;
 			
-			// aapt resource value: 0x7f0c005d
-			public const int abc_btn_colored_text_material = 2131492957;
+			// aapt resource value: 0x7f0c004d
+			public const int abc_btn_colored_text_material = 2131492941;
 			
-			// aapt resource value: 0x7f0c005e
-			public const int abc_color_highlight_material = 2131492958;
+			// aapt resource value: 0x7f0c004e
+			public const int abc_color_highlight_material = 2131492942;
 			
-			// aapt resource value: 0x7f0c005f
-			public const int abc_hint_foreground_material_dark = 2131492959;
+			// aapt resource value: 0x7f0c004f
+			public const int abc_hint_foreground_material_dark = 2131492943;
 			
-			// aapt resource value: 0x7f0c0060
-			public const int abc_hint_foreground_material_light = 2131492960;
+			// aapt resource value: 0x7f0c0050
+			public const int abc_hint_foreground_material_light = 2131492944;
 			
 			// aapt resource value: 0x7f0c0005
 			public const int abc_input_method_navigation_guard = 2131492869;
 			
-			// aapt resource value: 0x7f0c0061
-			public const int abc_primary_text_disable_only_material_dark = 2131492961;
+			// aapt resource value: 0x7f0c0051
+			public const int abc_primary_text_disable_only_material_dark = 2131492945;
 			
-			// aapt resource value: 0x7f0c0062
-			public const int abc_primary_text_disable_only_material_light = 2131492962;
+			// aapt resource value: 0x7f0c0052
+			public const int abc_primary_text_disable_only_material_light = 2131492946;
 			
-			// aapt resource value: 0x7f0c0063
-			public const int abc_primary_text_material_dark = 2131492963;
+			// aapt resource value: 0x7f0c0053
+			public const int abc_primary_text_material_dark = 2131492947;
 			
-			// aapt resource value: 0x7f0c0064
-			public const int abc_primary_text_material_light = 2131492964;
+			// aapt resource value: 0x7f0c0054
+			public const int abc_primary_text_material_light = 2131492948;
 			
-			// aapt resource value: 0x7f0c0065
-			public const int abc_search_url_text = 2131492965;
+			// aapt resource value: 0x7f0c0055
+			public const int abc_search_url_text = 2131492949;
 			
 			// aapt resource value: 0x7f0c0006
 			public const int abc_search_url_text_normal = 2131492870;
@@ -2355,32 +1221,32 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0c0008
 			public const int abc_search_url_text_selected = 2131492872;
 			
-			// aapt resource value: 0x7f0c0066
-			public const int abc_secondary_text_material_dark = 2131492966;
+			// aapt resource value: 0x7f0c0056
+			public const int abc_secondary_text_material_dark = 2131492950;
 			
-			// aapt resource value: 0x7f0c0067
-			public const int abc_secondary_text_material_light = 2131492967;
+			// aapt resource value: 0x7f0c0057
+			public const int abc_secondary_text_material_light = 2131492951;
 			
-			// aapt resource value: 0x7f0c0068
-			public const int abc_tint_btn_checkable = 2131492968;
+			// aapt resource value: 0x7f0c0058
+			public const int abc_tint_btn_checkable = 2131492952;
 			
-			// aapt resource value: 0x7f0c0069
-			public const int abc_tint_default = 2131492969;
+			// aapt resource value: 0x7f0c0059
+			public const int abc_tint_default = 2131492953;
 			
-			// aapt resource value: 0x7f0c006a
-			public const int abc_tint_edittext = 2131492970;
+			// aapt resource value: 0x7f0c005a
+			public const int abc_tint_edittext = 2131492954;
 			
-			// aapt resource value: 0x7f0c006b
-			public const int abc_tint_seek_thumb = 2131492971;
+			// aapt resource value: 0x7f0c005b
+			public const int abc_tint_seek_thumb = 2131492955;
 			
-			// aapt resource value: 0x7f0c006c
-			public const int abc_tint_spinner = 2131492972;
+			// aapt resource value: 0x7f0c005c
+			public const int abc_tint_spinner = 2131492956;
 			
-			// aapt resource value: 0x7f0c006d
-			public const int abc_tint_switch_thumb = 2131492973;
+			// aapt resource value: 0x7f0c005d
+			public const int abc_tint_switch_thumb = 2131492957;
 			
-			// aapt resource value: 0x7f0c006e
-			public const int abc_tint_switch_track = 2131492974;
+			// aapt resource value: 0x7f0c005e
+			public const int abc_tint_switch_track = 2131492958;
 			
 			// aapt resource value: 0x7f0c0009
 			public const int accent_material_dark = 2131492873;
@@ -2399,9 +1265,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0c000e
 			public const int background_material_light = 2131492878;
-			
-			// aapt resource value: 0x7f0c004a
-			public const int bright_foreground_dark = 2131492938;
 			
 			// aapt resource value: 0x7f0c000f
 			public const int bright_foreground_disabled_material_dark = 2131492879;
@@ -2439,26 +1302,11 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0c0003
 			public const int cardview_shadow_start_color = 2131492867;
 			
-			// aapt resource value: 0x7f0c0056
-			public const int default_bullet_indicator_fill_color = 2131492950;
-			
-			// aapt resource value: 0x7f0c0057
-			public const int default_bullet_indicator_page_color = 2131492951;
-			
-			// aapt resource value: 0x7f0c0058
-			public const int default_bullet_indicator_stroke_color = 2131492952;
-			
-			// aapt resource value: 0x7f0c004b
-			public const int default_progress_bar_color = 2131492939;
-			
-			// aapt resource value: 0x7f0c0059
-			public const int default_strip_indicator_selected_color = 2131492953;
-			
 			// aapt resource value: 0x7f0c003f
 			public const int design_bottom_navigation_shadow_color = 2131492927;
 			
-			// aapt resource value: 0x7f0c006f
-			public const int design_error = 2131492975;
+			// aapt resource value: 0x7f0c005f
+			public const int design_error = 2131492959;
 			
 			// aapt resource value: 0x7f0c0040
 			public const int design_fab_shadow_end_color = 2131492928;
@@ -2490,8 +1338,8 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0c0049
 			public const int design_textinput_error_color_light = 2131492937;
 			
-			// aapt resource value: 0x7f0c0070
-			public const int design_tint_password_toggle = 2131492976;
+			// aapt resource value: 0x7f0c0060
+			public const int design_tint_password_toggle = 2131492960;
 			
 			// aapt resource value: 0x7f0c0017
 			public const int dim_foreground_disabled_material_dark = 2131492887;
@@ -2511,20 +1359,11 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0c001c
 			public const int foreground_material_light = 2131492892;
 			
-			// aapt resource value: 0x7f0c0071
-			public const int gridviewbackgroundselector = 2131492977;
-			
 			// aapt resource value: 0x7f0c001d
 			public const int highlighted_text_material_dark = 2131492893;
 			
 			// aapt resource value: 0x7f0c001e
 			public const int highlighted_text_material_light = 2131492894;
-			
-			// aapt resource value: 0x7f0c004c
-			public const int holo_dark_green = 2131492940;
-			
-			// aapt resource value: 0x7f0c0072
-			public const int listviewbackgroundselector = 2131492978;
 			
 			// aapt resource value: 0x7f0c001f
 			public const int material_blue_grey_800 = 2131492895;
@@ -2613,53 +1452,23 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0c003a
 			public const int secondary_text_disabled_material_light = 2131492922;
 			
-			// aapt resource value: 0x7f0c004d
-			public const int spb_default_color = 2131492941;
-			
 			// aapt resource value: 0x7f0c003b
 			public const int switch_thumb_disabled_material_dark = 2131492923;
 			
 			// aapt resource value: 0x7f0c003c
 			public const int switch_thumb_disabled_material_light = 2131492924;
 			
-			// aapt resource value: 0x7f0c0073
-			public const int switch_thumb_material_dark = 2131492979;
+			// aapt resource value: 0x7f0c0061
+			public const int switch_thumb_material_dark = 2131492961;
 			
-			// aapt resource value: 0x7f0c0074
-			public const int switch_thumb_material_light = 2131492980;
+			// aapt resource value: 0x7f0c0062
+			public const int switch_thumb_material_light = 2131492962;
 			
 			// aapt resource value: 0x7f0c003d
 			public const int switch_thumb_normal_material_dark = 2131492925;
 			
 			// aapt resource value: 0x7f0c003e
 			public const int switch_thumb_normal_material_light = 2131492926;
-			
-			// aapt resource value: 0x7f0c004e
-			public const int vpi__background_holo_dark = 2131492942;
-			
-			// aapt resource value: 0x7f0c004f
-			public const int vpi__background_holo_light = 2131492943;
-			
-			// aapt resource value: 0x7f0c0052
-			public const int vpi__bright_foreground_disabled_holo_dark = 2131492946;
-			
-			// aapt resource value: 0x7f0c0053
-			public const int vpi__bright_foreground_disabled_holo_light = 2131492947;
-			
-			// aapt resource value: 0x7f0c0050
-			public const int vpi__bright_foreground_holo_dark = 2131492944;
-			
-			// aapt resource value: 0x7f0c0051
-			public const int vpi__bright_foreground_holo_light = 2131492945;
-			
-			// aapt resource value: 0x7f0c0054
-			public const int vpi__bright_foreground_inverse_holo_dark = 2131492948;
-			
-			// aapt resource value: 0x7f0c0055
-			public const int vpi__bright_foreground_inverse_holo_light = 2131492949;
-			
-			// aapt resource value: 0x7f0c0075
-			public const int vpi__dark_theme = 2131492981;
 			
 			static Color()
 			{
@@ -2905,12 +1714,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f07000b
 			public const int cardview_default_radius = 2131165195;
 			
-			// aapt resource value: 0x7f070097
-			public const int default_bullet_indicator_radius = 2131165335;
-			
-			// aapt resource value: 0x7f070098
-			public const int default_bullet_indicator_stroke_width = 2131165336;
-			
 			// aapt resource value: 0x7f070076
 			public const int design_appbar_elevation = 2131165302;
 			
@@ -3123,15 +1926,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f07006d
 			public const int notification_top_pad_large_text = 2131165293;
-			
-			// aapt resource value: 0x7f070096
-			public const int ptr_progress_bar_stroke_width = 2131165334;
-			
-			// aapt resource value: 0x7f070094
-			public const int spb_default_stroke_separator_length = 2131165332;
-			
-			// aapt resource value: 0x7f070095
-			public const int spb_default_stroke_width = 2131165333;
 			
 			static Dimension()
 			{
@@ -3398,632 +2192,581 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02011f
-			public const int avd_hide_password_1 = 2130837791;
+			// aapt resource value: 0x7f02010e
+			public const int avd_hide_password_1 = 2130837774;
 			
-			// aapt resource value: 0x7f020120
-			public const int avd_hide_password_2 = 2130837792;
+			// aapt resource value: 0x7f02010f
+			public const int avd_hide_password_2 = 2130837775;
 			
-			// aapt resource value: 0x7f020121
-			public const int avd_hide_password_3 = 2130837793;
+			// aapt resource value: 0x7f020110
+			public const int avd_hide_password_3 = 2130837776;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020122
-			public const int avd_show_password_1 = 2130837794;
-			
-			// aapt resource value: 0x7f020123
-			public const int avd_show_password_2 = 2130837795;
-			
-			// aapt resource value: 0x7f020124
-			public const int avd_show_password_3 = 2130837796;
-			
-			// aapt resource value: 0x7f020055
-			public const int btn_check_off_focused_holo_dark = 2130837589;
-			
-			// aapt resource value: 0x7f020056
-			public const int btn_check_on_pressed_holo_dark = 2130837590;
-			
-			// aapt resource value: 0x7f020057
-			public const int design_bottom_navigation_item_background = 2130837591;
-			
-			// aapt resource value: 0x7f020058
-			public const int design_fab_background = 2130837592;
-			
-			// aapt resource value: 0x7f020059
-			public const int design_ic_visibility = 2130837593;
-			
-			// aapt resource value: 0x7f02005a
-			public const int design_ic_visibility_off = 2130837594;
-			
-			// aapt resource value: 0x7f02005b
-			public const int design_password_eye = 2130837595;
-			
-			// aapt resource value: 0x7f02005c
-			public const int design_snackbar_background = 2130837596;
-			
-			// aapt resource value: 0x7f02005d
-			public const int ic_audiotrack_dark = 2130837597;
-			
-			// aapt resource value: 0x7f02005e
-			public const int ic_audiotrack_light = 2130837598;
-			
-			// aapt resource value: 0x7f02005f
-			public const int ic_dialog_close_dark = 2130837599;
-			
-			// aapt resource value: 0x7f020060
-			public const int ic_dialog_close_light = 2130837600;
-			
-			// aapt resource value: 0x7f020061
-			public const int ic_drawer = 2130837601;
-			
-			// aapt resource value: 0x7f020062
-			public const int ic_group_collapse_00 = 2130837602;
-			
-			// aapt resource value: 0x7f020063
-			public const int ic_group_collapse_01 = 2130837603;
-			
-			// aapt resource value: 0x7f020064
-			public const int ic_group_collapse_02 = 2130837604;
-			
-			// aapt resource value: 0x7f020065
-			public const int ic_group_collapse_03 = 2130837605;
-			
-			// aapt resource value: 0x7f020066
-			public const int ic_group_collapse_04 = 2130837606;
-			
-			// aapt resource value: 0x7f020067
-			public const int ic_group_collapse_05 = 2130837607;
-			
-			// aapt resource value: 0x7f020068
-			public const int ic_group_collapse_06 = 2130837608;
-			
-			// aapt resource value: 0x7f020069
-			public const int ic_group_collapse_07 = 2130837609;
-			
-			// aapt resource value: 0x7f02006a
-			public const int ic_group_collapse_08 = 2130837610;
-			
-			// aapt resource value: 0x7f02006b
-			public const int ic_group_collapse_09 = 2130837611;
-			
-			// aapt resource value: 0x7f02006c
-			public const int ic_group_collapse_10 = 2130837612;
-			
-			// aapt resource value: 0x7f02006d
-			public const int ic_group_collapse_11 = 2130837613;
-			
-			// aapt resource value: 0x7f02006e
-			public const int ic_group_collapse_12 = 2130837614;
-			
-			// aapt resource value: 0x7f02006f
-			public const int ic_group_collapse_13 = 2130837615;
-			
-			// aapt resource value: 0x7f020070
-			public const int ic_group_collapse_14 = 2130837616;
-			
-			// aapt resource value: 0x7f020071
-			public const int ic_group_collapse_15 = 2130837617;
-			
-			// aapt resource value: 0x7f020072
-			public const int ic_group_expand_00 = 2130837618;
-			
-			// aapt resource value: 0x7f020073
-			public const int ic_group_expand_01 = 2130837619;
-			
-			// aapt resource value: 0x7f020074
-			public const int ic_group_expand_02 = 2130837620;
-			
-			// aapt resource value: 0x7f020075
-			public const int ic_group_expand_03 = 2130837621;
-			
-			// aapt resource value: 0x7f020076
-			public const int ic_group_expand_04 = 2130837622;
-			
-			// aapt resource value: 0x7f020077
-			public const int ic_group_expand_05 = 2130837623;
-			
-			// aapt resource value: 0x7f020078
-			public const int ic_group_expand_06 = 2130837624;
-			
-			// aapt resource value: 0x7f020079
-			public const int ic_group_expand_07 = 2130837625;
-			
-			// aapt resource value: 0x7f02007a
-			public const int ic_group_expand_08 = 2130837626;
-			
-			// aapt resource value: 0x7f02007b
-			public const int ic_group_expand_09 = 2130837627;
-			
-			// aapt resource value: 0x7f02007c
-			public const int ic_group_expand_10 = 2130837628;
-			
-			// aapt resource value: 0x7f02007d
-			public const int ic_group_expand_11 = 2130837629;
-			
-			// aapt resource value: 0x7f02007e
-			public const int ic_group_expand_12 = 2130837630;
-			
-			// aapt resource value: 0x7f02007f
-			public const int ic_group_expand_13 = 2130837631;
-			
-			// aapt resource value: 0x7f020080
-			public const int ic_group_expand_14 = 2130837632;
-			
-			// aapt resource value: 0x7f020081
-			public const int ic_group_expand_15 = 2130837633;
-			
-			// aapt resource value: 0x7f020082
-			public const int ic_media_pause_dark = 2130837634;
-			
-			// aapt resource value: 0x7f020083
-			public const int ic_media_pause_light = 2130837635;
-			
-			// aapt resource value: 0x7f020084
-			public const int ic_media_play_dark = 2130837636;
-			
-			// aapt resource value: 0x7f020085
-			public const int ic_media_play_light = 2130837637;
-			
-			// aapt resource value: 0x7f020086
-			public const int ic_media_stop_dark = 2130837638;
-			
-			// aapt resource value: 0x7f020087
-			public const int ic_media_stop_light = 2130837639;
-			
-			// aapt resource value: 0x7f020088
-			public const int ic_mr_button_connected_00_dark = 2130837640;
-			
-			// aapt resource value: 0x7f020089
-			public const int ic_mr_button_connected_00_light = 2130837641;
-			
-			// aapt resource value: 0x7f02008a
-			public const int ic_mr_button_connected_01_dark = 2130837642;
-			
-			// aapt resource value: 0x7f02008b
-			public const int ic_mr_button_connected_01_light = 2130837643;
-			
-			// aapt resource value: 0x7f02008c
-			public const int ic_mr_button_connected_02_dark = 2130837644;
-			
-			// aapt resource value: 0x7f02008d
-			public const int ic_mr_button_connected_02_light = 2130837645;
-			
-			// aapt resource value: 0x7f02008e
-			public const int ic_mr_button_connected_03_dark = 2130837646;
-			
-			// aapt resource value: 0x7f02008f
-			public const int ic_mr_button_connected_03_light = 2130837647;
-			
-			// aapt resource value: 0x7f020090
-			public const int ic_mr_button_connected_04_dark = 2130837648;
-			
-			// aapt resource value: 0x7f020091
-			public const int ic_mr_button_connected_04_light = 2130837649;
-			
-			// aapt resource value: 0x7f020092
-			public const int ic_mr_button_connected_05_dark = 2130837650;
-			
-			// aapt resource value: 0x7f020093
-			public const int ic_mr_button_connected_05_light = 2130837651;
-			
-			// aapt resource value: 0x7f020094
-			public const int ic_mr_button_connected_06_dark = 2130837652;
-			
-			// aapt resource value: 0x7f020095
-			public const int ic_mr_button_connected_06_light = 2130837653;
-			
-			// aapt resource value: 0x7f020096
-			public const int ic_mr_button_connected_07_dark = 2130837654;
-			
-			// aapt resource value: 0x7f020097
-			public const int ic_mr_button_connected_07_light = 2130837655;
-			
-			// aapt resource value: 0x7f020098
-			public const int ic_mr_button_connected_08_dark = 2130837656;
-			
-			// aapt resource value: 0x7f020099
-			public const int ic_mr_button_connected_08_light = 2130837657;
-			
-			// aapt resource value: 0x7f02009a
-			public const int ic_mr_button_connected_09_dark = 2130837658;
-			
-			// aapt resource value: 0x7f02009b
-			public const int ic_mr_button_connected_09_light = 2130837659;
-			
-			// aapt resource value: 0x7f02009c
-			public const int ic_mr_button_connected_10_dark = 2130837660;
-			
-			// aapt resource value: 0x7f02009d
-			public const int ic_mr_button_connected_10_light = 2130837661;
-			
-			// aapt resource value: 0x7f02009e
-			public const int ic_mr_button_connected_11_dark = 2130837662;
-			
-			// aapt resource value: 0x7f02009f
-			public const int ic_mr_button_connected_11_light = 2130837663;
-			
-			// aapt resource value: 0x7f0200a0
-			public const int ic_mr_button_connected_12_dark = 2130837664;
-			
-			// aapt resource value: 0x7f0200a1
-			public const int ic_mr_button_connected_12_light = 2130837665;
-			
-			// aapt resource value: 0x7f0200a2
-			public const int ic_mr_button_connected_13_dark = 2130837666;
-			
-			// aapt resource value: 0x7f0200a3
-			public const int ic_mr_button_connected_13_light = 2130837667;
-			
-			// aapt resource value: 0x7f0200a4
-			public const int ic_mr_button_connected_14_dark = 2130837668;
-			
-			// aapt resource value: 0x7f0200a5
-			public const int ic_mr_button_connected_14_light = 2130837669;
-			
-			// aapt resource value: 0x7f0200a6
-			public const int ic_mr_button_connected_15_dark = 2130837670;
-			
-			// aapt resource value: 0x7f0200a7
-			public const int ic_mr_button_connected_15_light = 2130837671;
-			
-			// aapt resource value: 0x7f0200a8
-			public const int ic_mr_button_connected_16_dark = 2130837672;
-			
-			// aapt resource value: 0x7f0200a9
-			public const int ic_mr_button_connected_16_light = 2130837673;
-			
-			// aapt resource value: 0x7f0200aa
-			public const int ic_mr_button_connected_17_dark = 2130837674;
-			
-			// aapt resource value: 0x7f0200ab
-			public const int ic_mr_button_connected_17_light = 2130837675;
-			
-			// aapt resource value: 0x7f0200ac
-			public const int ic_mr_button_connected_18_dark = 2130837676;
-			
-			// aapt resource value: 0x7f0200ad
-			public const int ic_mr_button_connected_18_light = 2130837677;
-			
-			// aapt resource value: 0x7f0200ae
-			public const int ic_mr_button_connected_19_dark = 2130837678;
-			
-			// aapt resource value: 0x7f0200af
-			public const int ic_mr_button_connected_19_light = 2130837679;
-			
-			// aapt resource value: 0x7f0200b0
-			public const int ic_mr_button_connected_20_dark = 2130837680;
-			
-			// aapt resource value: 0x7f0200b1
-			public const int ic_mr_button_connected_20_light = 2130837681;
-			
-			// aapt resource value: 0x7f0200b2
-			public const int ic_mr_button_connected_21_dark = 2130837682;
-			
-			// aapt resource value: 0x7f0200b3
-			public const int ic_mr_button_connected_21_light = 2130837683;
-			
-			// aapt resource value: 0x7f0200b4
-			public const int ic_mr_button_connected_22_dark = 2130837684;
-			
-			// aapt resource value: 0x7f0200b5
-			public const int ic_mr_button_connected_22_light = 2130837685;
-			
-			// aapt resource value: 0x7f0200b6
-			public const int ic_mr_button_connecting_00_dark = 2130837686;
-			
-			// aapt resource value: 0x7f0200b7
-			public const int ic_mr_button_connecting_00_light = 2130837687;
-			
-			// aapt resource value: 0x7f0200b8
-			public const int ic_mr_button_connecting_01_dark = 2130837688;
-			
-			// aapt resource value: 0x7f0200b9
-			public const int ic_mr_button_connecting_01_light = 2130837689;
-			
-			// aapt resource value: 0x7f0200ba
-			public const int ic_mr_button_connecting_02_dark = 2130837690;
-			
-			// aapt resource value: 0x7f0200bb
-			public const int ic_mr_button_connecting_02_light = 2130837691;
-			
-			// aapt resource value: 0x7f0200bc
-			public const int ic_mr_button_connecting_03_dark = 2130837692;
-			
-			// aapt resource value: 0x7f0200bd
-			public const int ic_mr_button_connecting_03_light = 2130837693;
-			
-			// aapt resource value: 0x7f0200be
-			public const int ic_mr_button_connecting_04_dark = 2130837694;
-			
-			// aapt resource value: 0x7f0200bf
-			public const int ic_mr_button_connecting_04_light = 2130837695;
-			
-			// aapt resource value: 0x7f0200c0
-			public const int ic_mr_button_connecting_05_dark = 2130837696;
-			
-			// aapt resource value: 0x7f0200c1
-			public const int ic_mr_button_connecting_05_light = 2130837697;
-			
-			// aapt resource value: 0x7f0200c2
-			public const int ic_mr_button_connecting_06_dark = 2130837698;
-			
-			// aapt resource value: 0x7f0200c3
-			public const int ic_mr_button_connecting_06_light = 2130837699;
-			
-			// aapt resource value: 0x7f0200c4
-			public const int ic_mr_button_connecting_07_dark = 2130837700;
-			
-			// aapt resource value: 0x7f0200c5
-			public const int ic_mr_button_connecting_07_light = 2130837701;
-			
-			// aapt resource value: 0x7f0200c6
-			public const int ic_mr_button_connecting_08_dark = 2130837702;
-			
-			// aapt resource value: 0x7f0200c7
-			public const int ic_mr_button_connecting_08_light = 2130837703;
-			
-			// aapt resource value: 0x7f0200c8
-			public const int ic_mr_button_connecting_09_dark = 2130837704;
-			
-			// aapt resource value: 0x7f0200c9
-			public const int ic_mr_button_connecting_09_light = 2130837705;
-			
-			// aapt resource value: 0x7f0200ca
-			public const int ic_mr_button_connecting_10_dark = 2130837706;
-			
-			// aapt resource value: 0x7f0200cb
-			public const int ic_mr_button_connecting_10_light = 2130837707;
-			
-			// aapt resource value: 0x7f0200cc
-			public const int ic_mr_button_connecting_11_dark = 2130837708;
-			
-			// aapt resource value: 0x7f0200cd
-			public const int ic_mr_button_connecting_11_light = 2130837709;
-			
-			// aapt resource value: 0x7f0200ce
-			public const int ic_mr_button_connecting_12_dark = 2130837710;
-			
-			// aapt resource value: 0x7f0200cf
-			public const int ic_mr_button_connecting_12_light = 2130837711;
-			
-			// aapt resource value: 0x7f0200d0
-			public const int ic_mr_button_connecting_13_dark = 2130837712;
-			
-			// aapt resource value: 0x7f0200d1
-			public const int ic_mr_button_connecting_13_light = 2130837713;
-			
-			// aapt resource value: 0x7f0200d2
-			public const int ic_mr_button_connecting_14_dark = 2130837714;
-			
-			// aapt resource value: 0x7f0200d3
-			public const int ic_mr_button_connecting_14_light = 2130837715;
-			
-			// aapt resource value: 0x7f0200d4
-			public const int ic_mr_button_connecting_15_dark = 2130837716;
-			
-			// aapt resource value: 0x7f0200d5
-			public const int ic_mr_button_connecting_15_light = 2130837717;
-			
-			// aapt resource value: 0x7f0200d6
-			public const int ic_mr_button_connecting_16_dark = 2130837718;
-			
-			// aapt resource value: 0x7f0200d7
-			public const int ic_mr_button_connecting_16_light = 2130837719;
-			
-			// aapt resource value: 0x7f0200d8
-			public const int ic_mr_button_connecting_17_dark = 2130837720;
-			
-			// aapt resource value: 0x7f0200d9
-			public const int ic_mr_button_connecting_17_light = 2130837721;
-			
-			// aapt resource value: 0x7f0200da
-			public const int ic_mr_button_connecting_18_dark = 2130837722;
-			
-			// aapt resource value: 0x7f0200db
-			public const int ic_mr_button_connecting_18_light = 2130837723;
-			
-			// aapt resource value: 0x7f0200dc
-			public const int ic_mr_button_connecting_19_dark = 2130837724;
-			
-			// aapt resource value: 0x7f0200dd
-			public const int ic_mr_button_connecting_19_light = 2130837725;
-			
-			// aapt resource value: 0x7f0200de
-			public const int ic_mr_button_connecting_20_dark = 2130837726;
-			
-			// aapt resource value: 0x7f0200df
-			public const int ic_mr_button_connecting_20_light = 2130837727;
-			
-			// aapt resource value: 0x7f0200e0
-			public const int ic_mr_button_connecting_21_dark = 2130837728;
-			
-			// aapt resource value: 0x7f0200e1
-			public const int ic_mr_button_connecting_21_light = 2130837729;
-			
-			// aapt resource value: 0x7f0200e2
-			public const int ic_mr_button_connecting_22_dark = 2130837730;
-			
-			// aapt resource value: 0x7f0200e3
-			public const int ic_mr_button_connecting_22_light = 2130837731;
-			
-			// aapt resource value: 0x7f0200e4
-			public const int ic_mr_button_disabled_dark = 2130837732;
-			
-			// aapt resource value: 0x7f0200e5
-			public const int ic_mr_button_disabled_light = 2130837733;
-			
-			// aapt resource value: 0x7f0200e6
-			public const int ic_mr_button_disconnected_dark = 2130837734;
-			
-			// aapt resource value: 0x7f0200e7
-			public const int ic_mr_button_disconnected_light = 2130837735;
-			
-			// aapt resource value: 0x7f0200e8
-			public const int ic_mr_button_grey = 2130837736;
-			
-			// aapt resource value: 0x7f0200e9
-			public const int ic_vol_type_speaker_dark = 2130837737;
-			
-			// aapt resource value: 0x7f0200ea
-			public const int ic_vol_type_speaker_group_dark = 2130837738;
-			
-			// aapt resource value: 0x7f0200eb
-			public const int ic_vol_type_speaker_group_light = 2130837739;
-			
-			// aapt resource value: 0x7f0200ec
-			public const int ic_vol_type_speaker_light = 2130837740;
-			
-			// aapt resource value: 0x7f0200ed
-			public const int ic_vol_type_tv_dark = 2130837741;
-			
-			// aapt resource value: 0x7f0200ee
-			public const int ic_vol_type_tv_light = 2130837742;
-			
-			// aapt resource value: 0x7f0200ef
-			public const int icon = 2130837743;
-			
-			// aapt resource value: 0x7f0200f0
-			public const int leftdrawershadow = 2130837744;
-			
-			// aapt resource value: 0x7f0200f1
-			public const int mr_button_connected_dark = 2130837745;
-			
-			// aapt resource value: 0x7f0200f2
-			public const int mr_button_connected_light = 2130837746;
-			
-			// aapt resource value: 0x7f0200f3
-			public const int mr_button_connecting_dark = 2130837747;
-			
-			// aapt resource value: 0x7f0200f4
-			public const int mr_button_connecting_light = 2130837748;
-			
-			// aapt resource value: 0x7f0200f5
-			public const int mr_button_dark = 2130837749;
-			
-			// aapt resource value: 0x7f0200f6
-			public const int mr_button_light = 2130837750;
-			
-			// aapt resource value: 0x7f0200f7
-			public const int mr_dialog_close_dark = 2130837751;
-			
-			// aapt resource value: 0x7f0200f8
-			public const int mr_dialog_close_light = 2130837752;
-			
-			// aapt resource value: 0x7f0200f9
-			public const int mr_dialog_material_background_dark = 2130837753;
-			
-			// aapt resource value: 0x7f0200fa
-			public const int mr_dialog_material_background_light = 2130837754;
-			
-			// aapt resource value: 0x7f0200fb
-			public const int mr_group_collapse = 2130837755;
-			
-			// aapt resource value: 0x7f0200fc
-			public const int mr_group_expand = 2130837756;
-			
-			// aapt resource value: 0x7f0200fd
-			public const int mr_media_pause_dark = 2130837757;
-			
-			// aapt resource value: 0x7f0200fe
-			public const int mr_media_pause_light = 2130837758;
-			
-			// aapt resource value: 0x7f0200ff
-			public const int mr_media_play_dark = 2130837759;
-			
-			// aapt resource value: 0x7f020100
-			public const int mr_media_play_light = 2130837760;
-			
-			// aapt resource value: 0x7f020101
-			public const int mr_media_stop_dark = 2130837761;
-			
-			// aapt resource value: 0x7f020102
-			public const int mr_media_stop_light = 2130837762;
-			
-			// aapt resource value: 0x7f020103
-			public const int mr_vol_type_audiotrack_dark = 2130837763;
-			
-			// aapt resource value: 0x7f020104
-			public const int mr_vol_type_audiotrack_light = 2130837764;
-			
-			// aapt resource value: 0x7f020105
-			public const int navigation_empty_icon = 2130837765;
-			
-			// aapt resource value: 0x7f020106
-			public const int notification_action_background = 2130837766;
-			
-			// aapt resource value: 0x7f020107
-			public const int notification_bg = 2130837767;
-			
-			// aapt resource value: 0x7f020108
-			public const int notification_bg_low = 2130837768;
-			
-			// aapt resource value: 0x7f020109
-			public const int notification_bg_low_normal = 2130837769;
-			
-			// aapt resource value: 0x7f02010a
-			public const int notification_bg_low_pressed = 2130837770;
-			
-			// aapt resource value: 0x7f02010b
-			public const int notification_bg_normal = 2130837771;
-			
-			// aapt resource value: 0x7f02010c
-			public const int notification_bg_normal_pressed = 2130837772;
-			
-			// aapt resource value: 0x7f02010d
-			public const int notification_icon_background = 2130837773;
-			
-			// aapt resource value: 0x7f02011d
-			public const int notification_template_icon_bg = 2130837789;
-			
-			// aapt resource value: 0x7f02011e
-			public const int notification_template_icon_low_bg = 2130837790;
-			
-			// aapt resource value: 0x7f02010e
-			public const int notification_tile_bg = 2130837774;
-			
-			// aapt resource value: 0x7f02010f
-			public const int notify_panel_notification_icon_bg = 2130837775;
-			
-			// aapt resource value: 0x7f020110
-			public const int rightdrawershadow = 2130837776;
-			
 			// aapt resource value: 0x7f020111
-			public const int roundedcorner_checked = 2130837777;
+			public const int avd_show_password_1 = 2130837777;
 			
 			// aapt resource value: 0x7f020112
-			public const int roundedcorner_default = 2130837778;
+			public const int avd_show_password_2 = 2130837778;
 			
 			// aapt resource value: 0x7f020113
-			public const int roundedcorner_pressed = 2130837779;
+			public const int avd_show_password_3 = 2130837779;
 			
-			// aapt resource value: 0x7f020114
-			public const int roundedselector = 2130837780;
+			// aapt resource value: 0x7f020055
+			public const int design_bottom_navigation_item_background = 2130837589;
 			
-			// aapt resource value: 0x7f020115
-			public const int toast_frame_holo = 2130837781;
+			// aapt resource value: 0x7f020056
+			public const int design_fab_background = 2130837590;
 			
-			// aapt resource value: 0x7f020116
-			public const int vpi__tab_indicator = 2130837782;
+			// aapt resource value: 0x7f020057
+			public const int design_ic_visibility = 2130837591;
 			
-			// aapt resource value: 0x7f020117
-			public const int vpi__tab_selected_focused_holo = 2130837783;
+			// aapt resource value: 0x7f020058
+			public const int design_ic_visibility_off = 2130837592;
 			
-			// aapt resource value: 0x7f020118
-			public const int vpi__tab_selected_holo = 2130837784;
+			// aapt resource value: 0x7f020059
+			public const int design_password_eye = 2130837593;
 			
-			// aapt resource value: 0x7f020119
-			public const int vpi__tab_selected_pressed_holo = 2130837785;
+			// aapt resource value: 0x7f02005a
+			public const int design_snackbar_background = 2130837594;
 			
-			// aapt resource value: 0x7f02011a
-			public const int vpi__tab_unselected_focused_holo = 2130837786;
+			// aapt resource value: 0x7f02005b
+			public const int ic_audiotrack_dark = 2130837595;
 			
-			// aapt resource value: 0x7f02011b
-			public const int vpi__tab_unselected_holo = 2130837787;
+			// aapt resource value: 0x7f02005c
+			public const int ic_audiotrack_light = 2130837596;
 			
-			// aapt resource value: 0x7f02011c
-			public const int vpi__tab_unselected_pressed_holo = 2130837788;
+			// aapt resource value: 0x7f02005d
+			public const int ic_dialog_close_dark = 2130837597;
+			
+			// aapt resource value: 0x7f02005e
+			public const int ic_dialog_close_light = 2130837598;
+			
+			// aapt resource value: 0x7f02005f
+			public const int ic_group_collapse_00 = 2130837599;
+			
+			// aapt resource value: 0x7f020060
+			public const int ic_group_collapse_01 = 2130837600;
+			
+			// aapt resource value: 0x7f020061
+			public const int ic_group_collapse_02 = 2130837601;
+			
+			// aapt resource value: 0x7f020062
+			public const int ic_group_collapse_03 = 2130837602;
+			
+			// aapt resource value: 0x7f020063
+			public const int ic_group_collapse_04 = 2130837603;
+			
+			// aapt resource value: 0x7f020064
+			public const int ic_group_collapse_05 = 2130837604;
+			
+			// aapt resource value: 0x7f020065
+			public const int ic_group_collapse_06 = 2130837605;
+			
+			// aapt resource value: 0x7f020066
+			public const int ic_group_collapse_07 = 2130837606;
+			
+			// aapt resource value: 0x7f020067
+			public const int ic_group_collapse_08 = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int ic_group_collapse_09 = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int ic_group_collapse_10 = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int ic_group_collapse_11 = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int ic_group_collapse_12 = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int ic_group_collapse_13 = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int ic_group_collapse_14 = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int ic_group_collapse_15 = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int ic_group_expand_00 = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int ic_group_expand_01 = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int ic_group_expand_02 = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int ic_group_expand_03 = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int ic_group_expand_04 = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int ic_group_expand_05 = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int ic_group_expand_06 = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int ic_group_expand_07 = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int ic_group_expand_08 = 2130837623;
+			
+			// aapt resource value: 0x7f020078
+			public const int ic_group_expand_09 = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int ic_group_expand_10 = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int ic_group_expand_11 = 2130837626;
+			
+			// aapt resource value: 0x7f02007b
+			public const int ic_group_expand_12 = 2130837627;
+			
+			// aapt resource value: 0x7f02007c
+			public const int ic_group_expand_13 = 2130837628;
+			
+			// aapt resource value: 0x7f02007d
+			public const int ic_group_expand_14 = 2130837629;
+			
+			// aapt resource value: 0x7f02007e
+			public const int ic_group_expand_15 = 2130837630;
+			
+			// aapt resource value: 0x7f02007f
+			public const int ic_media_pause_dark = 2130837631;
+			
+			// aapt resource value: 0x7f020080
+			public const int ic_media_pause_light = 2130837632;
+			
+			// aapt resource value: 0x7f020081
+			public const int ic_media_play_dark = 2130837633;
+			
+			// aapt resource value: 0x7f020082
+			public const int ic_media_play_light = 2130837634;
+			
+			// aapt resource value: 0x7f020083
+			public const int ic_media_stop_dark = 2130837635;
+			
+			// aapt resource value: 0x7f020084
+			public const int ic_media_stop_light = 2130837636;
+			
+			// aapt resource value: 0x7f020085
+			public const int ic_mr_button_connected_00_dark = 2130837637;
+			
+			// aapt resource value: 0x7f020086
+			public const int ic_mr_button_connected_00_light = 2130837638;
+			
+			// aapt resource value: 0x7f020087
+			public const int ic_mr_button_connected_01_dark = 2130837639;
+			
+			// aapt resource value: 0x7f020088
+			public const int ic_mr_button_connected_01_light = 2130837640;
+			
+			// aapt resource value: 0x7f020089
+			public const int ic_mr_button_connected_02_dark = 2130837641;
+			
+			// aapt resource value: 0x7f02008a
+			public const int ic_mr_button_connected_02_light = 2130837642;
+			
+			// aapt resource value: 0x7f02008b
+			public const int ic_mr_button_connected_03_dark = 2130837643;
+			
+			// aapt resource value: 0x7f02008c
+			public const int ic_mr_button_connected_03_light = 2130837644;
+			
+			// aapt resource value: 0x7f02008d
+			public const int ic_mr_button_connected_04_dark = 2130837645;
+			
+			// aapt resource value: 0x7f02008e
+			public const int ic_mr_button_connected_04_light = 2130837646;
+			
+			// aapt resource value: 0x7f02008f
+			public const int ic_mr_button_connected_05_dark = 2130837647;
+			
+			// aapt resource value: 0x7f020090
+			public const int ic_mr_button_connected_05_light = 2130837648;
+			
+			// aapt resource value: 0x7f020091
+			public const int ic_mr_button_connected_06_dark = 2130837649;
+			
+			// aapt resource value: 0x7f020092
+			public const int ic_mr_button_connected_06_light = 2130837650;
+			
+			// aapt resource value: 0x7f020093
+			public const int ic_mr_button_connected_07_dark = 2130837651;
+			
+			// aapt resource value: 0x7f020094
+			public const int ic_mr_button_connected_07_light = 2130837652;
+			
+			// aapt resource value: 0x7f020095
+			public const int ic_mr_button_connected_08_dark = 2130837653;
+			
+			// aapt resource value: 0x7f020096
+			public const int ic_mr_button_connected_08_light = 2130837654;
+			
+			// aapt resource value: 0x7f020097
+			public const int ic_mr_button_connected_09_dark = 2130837655;
+			
+			// aapt resource value: 0x7f020098
+			public const int ic_mr_button_connected_09_light = 2130837656;
+			
+			// aapt resource value: 0x7f020099
+			public const int ic_mr_button_connected_10_dark = 2130837657;
+			
+			// aapt resource value: 0x7f02009a
+			public const int ic_mr_button_connected_10_light = 2130837658;
+			
+			// aapt resource value: 0x7f02009b
+			public const int ic_mr_button_connected_11_dark = 2130837659;
+			
+			// aapt resource value: 0x7f02009c
+			public const int ic_mr_button_connected_11_light = 2130837660;
+			
+			// aapt resource value: 0x7f02009d
+			public const int ic_mr_button_connected_12_dark = 2130837661;
+			
+			// aapt resource value: 0x7f02009e
+			public const int ic_mr_button_connected_12_light = 2130837662;
+			
+			// aapt resource value: 0x7f02009f
+			public const int ic_mr_button_connected_13_dark = 2130837663;
+			
+			// aapt resource value: 0x7f0200a0
+			public const int ic_mr_button_connected_13_light = 2130837664;
+			
+			// aapt resource value: 0x7f0200a1
+			public const int ic_mr_button_connected_14_dark = 2130837665;
+			
+			// aapt resource value: 0x7f0200a2
+			public const int ic_mr_button_connected_14_light = 2130837666;
+			
+			// aapt resource value: 0x7f0200a3
+			public const int ic_mr_button_connected_15_dark = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int ic_mr_button_connected_15_light = 2130837668;
+			
+			// aapt resource value: 0x7f0200a5
+			public const int ic_mr_button_connected_16_dark = 2130837669;
+			
+			// aapt resource value: 0x7f0200a6
+			public const int ic_mr_button_connected_16_light = 2130837670;
+			
+			// aapt resource value: 0x7f0200a7
+			public const int ic_mr_button_connected_17_dark = 2130837671;
+			
+			// aapt resource value: 0x7f0200a8
+			public const int ic_mr_button_connected_17_light = 2130837672;
+			
+			// aapt resource value: 0x7f0200a9
+			public const int ic_mr_button_connected_18_dark = 2130837673;
+			
+			// aapt resource value: 0x7f0200aa
+			public const int ic_mr_button_connected_18_light = 2130837674;
+			
+			// aapt resource value: 0x7f0200ab
+			public const int ic_mr_button_connected_19_dark = 2130837675;
+			
+			// aapt resource value: 0x7f0200ac
+			public const int ic_mr_button_connected_19_light = 2130837676;
+			
+			// aapt resource value: 0x7f0200ad
+			public const int ic_mr_button_connected_20_dark = 2130837677;
+			
+			// aapt resource value: 0x7f0200ae
+			public const int ic_mr_button_connected_20_light = 2130837678;
+			
+			// aapt resource value: 0x7f0200af
+			public const int ic_mr_button_connected_21_dark = 2130837679;
+			
+			// aapt resource value: 0x7f0200b0
+			public const int ic_mr_button_connected_21_light = 2130837680;
+			
+			// aapt resource value: 0x7f0200b1
+			public const int ic_mr_button_connected_22_dark = 2130837681;
+			
+			// aapt resource value: 0x7f0200b2
+			public const int ic_mr_button_connected_22_light = 2130837682;
+			
+			// aapt resource value: 0x7f0200b3
+			public const int ic_mr_button_connecting_00_dark = 2130837683;
+			
+			// aapt resource value: 0x7f0200b4
+			public const int ic_mr_button_connecting_00_light = 2130837684;
+			
+			// aapt resource value: 0x7f0200b5
+			public const int ic_mr_button_connecting_01_dark = 2130837685;
+			
+			// aapt resource value: 0x7f0200b6
+			public const int ic_mr_button_connecting_01_light = 2130837686;
+			
+			// aapt resource value: 0x7f0200b7
+			public const int ic_mr_button_connecting_02_dark = 2130837687;
+			
+			// aapt resource value: 0x7f0200b8
+			public const int ic_mr_button_connecting_02_light = 2130837688;
+			
+			// aapt resource value: 0x7f0200b9
+			public const int ic_mr_button_connecting_03_dark = 2130837689;
+			
+			// aapt resource value: 0x7f0200ba
+			public const int ic_mr_button_connecting_03_light = 2130837690;
+			
+			// aapt resource value: 0x7f0200bb
+			public const int ic_mr_button_connecting_04_dark = 2130837691;
+			
+			// aapt resource value: 0x7f0200bc
+			public const int ic_mr_button_connecting_04_light = 2130837692;
+			
+			// aapt resource value: 0x7f0200bd
+			public const int ic_mr_button_connecting_05_dark = 2130837693;
+			
+			// aapt resource value: 0x7f0200be
+			public const int ic_mr_button_connecting_05_light = 2130837694;
+			
+			// aapt resource value: 0x7f0200bf
+			public const int ic_mr_button_connecting_06_dark = 2130837695;
+			
+			// aapt resource value: 0x7f0200c0
+			public const int ic_mr_button_connecting_06_light = 2130837696;
+			
+			// aapt resource value: 0x7f0200c1
+			public const int ic_mr_button_connecting_07_dark = 2130837697;
+			
+			// aapt resource value: 0x7f0200c2
+			public const int ic_mr_button_connecting_07_light = 2130837698;
+			
+			// aapt resource value: 0x7f0200c3
+			public const int ic_mr_button_connecting_08_dark = 2130837699;
+			
+			// aapt resource value: 0x7f0200c4
+			public const int ic_mr_button_connecting_08_light = 2130837700;
+			
+			// aapt resource value: 0x7f0200c5
+			public const int ic_mr_button_connecting_09_dark = 2130837701;
+			
+			// aapt resource value: 0x7f0200c6
+			public const int ic_mr_button_connecting_09_light = 2130837702;
+			
+			// aapt resource value: 0x7f0200c7
+			public const int ic_mr_button_connecting_10_dark = 2130837703;
+			
+			// aapt resource value: 0x7f0200c8
+			public const int ic_mr_button_connecting_10_light = 2130837704;
+			
+			// aapt resource value: 0x7f0200c9
+			public const int ic_mr_button_connecting_11_dark = 2130837705;
+			
+			// aapt resource value: 0x7f0200ca
+			public const int ic_mr_button_connecting_11_light = 2130837706;
+			
+			// aapt resource value: 0x7f0200cb
+			public const int ic_mr_button_connecting_12_dark = 2130837707;
+			
+			// aapt resource value: 0x7f0200cc
+			public const int ic_mr_button_connecting_12_light = 2130837708;
+			
+			// aapt resource value: 0x7f0200cd
+			public const int ic_mr_button_connecting_13_dark = 2130837709;
+			
+			// aapt resource value: 0x7f0200ce
+			public const int ic_mr_button_connecting_13_light = 2130837710;
+			
+			// aapt resource value: 0x7f0200cf
+			public const int ic_mr_button_connecting_14_dark = 2130837711;
+			
+			// aapt resource value: 0x7f0200d0
+			public const int ic_mr_button_connecting_14_light = 2130837712;
+			
+			// aapt resource value: 0x7f0200d1
+			public const int ic_mr_button_connecting_15_dark = 2130837713;
+			
+			// aapt resource value: 0x7f0200d2
+			public const int ic_mr_button_connecting_15_light = 2130837714;
+			
+			// aapt resource value: 0x7f0200d3
+			public const int ic_mr_button_connecting_16_dark = 2130837715;
+			
+			// aapt resource value: 0x7f0200d4
+			public const int ic_mr_button_connecting_16_light = 2130837716;
+			
+			// aapt resource value: 0x7f0200d5
+			public const int ic_mr_button_connecting_17_dark = 2130837717;
+			
+			// aapt resource value: 0x7f0200d6
+			public const int ic_mr_button_connecting_17_light = 2130837718;
+			
+			// aapt resource value: 0x7f0200d7
+			public const int ic_mr_button_connecting_18_dark = 2130837719;
+			
+			// aapt resource value: 0x7f0200d8
+			public const int ic_mr_button_connecting_18_light = 2130837720;
+			
+			// aapt resource value: 0x7f0200d9
+			public const int ic_mr_button_connecting_19_dark = 2130837721;
+			
+			// aapt resource value: 0x7f0200da
+			public const int ic_mr_button_connecting_19_light = 2130837722;
+			
+			// aapt resource value: 0x7f0200db
+			public const int ic_mr_button_connecting_20_dark = 2130837723;
+			
+			// aapt resource value: 0x7f0200dc
+			public const int ic_mr_button_connecting_20_light = 2130837724;
+			
+			// aapt resource value: 0x7f0200dd
+			public const int ic_mr_button_connecting_21_dark = 2130837725;
+			
+			// aapt resource value: 0x7f0200de
+			public const int ic_mr_button_connecting_21_light = 2130837726;
+			
+			// aapt resource value: 0x7f0200df
+			public const int ic_mr_button_connecting_22_dark = 2130837727;
+			
+			// aapt resource value: 0x7f0200e0
+			public const int ic_mr_button_connecting_22_light = 2130837728;
+			
+			// aapt resource value: 0x7f0200e1
+			public const int ic_mr_button_disabled_dark = 2130837729;
+			
+			// aapt resource value: 0x7f0200e2
+			public const int ic_mr_button_disabled_light = 2130837730;
+			
+			// aapt resource value: 0x7f0200e3
+			public const int ic_mr_button_disconnected_dark = 2130837731;
+			
+			// aapt resource value: 0x7f0200e4
+			public const int ic_mr_button_disconnected_light = 2130837732;
+			
+			// aapt resource value: 0x7f0200e5
+			public const int ic_mr_button_grey = 2130837733;
+			
+			// aapt resource value: 0x7f0200e6
+			public const int ic_vol_type_speaker_dark = 2130837734;
+			
+			// aapt resource value: 0x7f0200e7
+			public const int ic_vol_type_speaker_group_dark = 2130837735;
+			
+			// aapt resource value: 0x7f0200e8
+			public const int ic_vol_type_speaker_group_light = 2130837736;
+			
+			// aapt resource value: 0x7f0200e9
+			public const int ic_vol_type_speaker_light = 2130837737;
+			
+			// aapt resource value: 0x7f0200ea
+			public const int ic_vol_type_tv_dark = 2130837738;
+			
+			// aapt resource value: 0x7f0200eb
+			public const int ic_vol_type_tv_light = 2130837739;
+			
+			// aapt resource value: 0x7f0200ec
+			public const int icon = 2130837740;
+			
+			// aapt resource value: 0x7f0200ed
+			public const int mr_button_connected_dark = 2130837741;
+			
+			// aapt resource value: 0x7f0200ee
+			public const int mr_button_connected_light = 2130837742;
+			
+			// aapt resource value: 0x7f0200ef
+			public const int mr_button_connecting_dark = 2130837743;
+			
+			// aapt resource value: 0x7f0200f0
+			public const int mr_button_connecting_light = 2130837744;
+			
+			// aapt resource value: 0x7f0200f1
+			public const int mr_button_dark = 2130837745;
+			
+			// aapt resource value: 0x7f0200f2
+			public const int mr_button_light = 2130837746;
+			
+			// aapt resource value: 0x7f0200f3
+			public const int mr_dialog_close_dark = 2130837747;
+			
+			// aapt resource value: 0x7f0200f4
+			public const int mr_dialog_close_light = 2130837748;
+			
+			// aapt resource value: 0x7f0200f5
+			public const int mr_dialog_material_background_dark = 2130837749;
+			
+			// aapt resource value: 0x7f0200f6
+			public const int mr_dialog_material_background_light = 2130837750;
+			
+			// aapt resource value: 0x7f0200f7
+			public const int mr_group_collapse = 2130837751;
+			
+			// aapt resource value: 0x7f0200f8
+			public const int mr_group_expand = 2130837752;
+			
+			// aapt resource value: 0x7f0200f9
+			public const int mr_media_pause_dark = 2130837753;
+			
+			// aapt resource value: 0x7f0200fa
+			public const int mr_media_pause_light = 2130837754;
+			
+			// aapt resource value: 0x7f0200fb
+			public const int mr_media_play_dark = 2130837755;
+			
+			// aapt resource value: 0x7f0200fc
+			public const int mr_media_play_light = 2130837756;
+			
+			// aapt resource value: 0x7f0200fd
+			public const int mr_media_stop_dark = 2130837757;
+			
+			// aapt resource value: 0x7f0200fe
+			public const int mr_media_stop_light = 2130837758;
+			
+			// aapt resource value: 0x7f0200ff
+			public const int mr_vol_type_audiotrack_dark = 2130837759;
+			
+			// aapt resource value: 0x7f020100
+			public const int mr_vol_type_audiotrack_light = 2130837760;
+			
+			// aapt resource value: 0x7f020101
+			public const int navigation_empty_icon = 2130837761;
+			
+			// aapt resource value: 0x7f020102
+			public const int notification_action_background = 2130837762;
+			
+			// aapt resource value: 0x7f020103
+			public const int notification_bg = 2130837763;
+			
+			// aapt resource value: 0x7f020104
+			public const int notification_bg_low = 2130837764;
+			
+			// aapt resource value: 0x7f020105
+			public const int notification_bg_low_normal = 2130837765;
+			
+			// aapt resource value: 0x7f020106
+			public const int notification_bg_low_pressed = 2130837766;
+			
+			// aapt resource value: 0x7f020107
+			public const int notification_bg_normal = 2130837767;
+			
+			// aapt resource value: 0x7f020108
+			public const int notification_bg_normal_pressed = 2130837768;
+			
+			// aapt resource value: 0x7f020109
+			public const int notification_icon_background = 2130837769;
+			
+			// aapt resource value: 0x7f02010c
+			public const int notification_template_icon_bg = 2130837772;
+			
+			// aapt resource value: 0x7f02010d
+			public const int notification_template_icon_low_bg = 2130837773;
+			
+			// aapt resource value: 0x7f02010a
+			public const int notification_tile_bg = 2130837770;
+			
+			// aapt resource value: 0x7f02010b
+			public const int notify_panel_notification_icon_bg = 2130837771;
 			
 			static Drawable()
 			{
@@ -4038,242 +2781,41 @@ namespace SampleProject.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f080085
-			public const int BulletPageIndicator = 2131230853;
-			
-			// aapt resource value: 0x7f0800a3
-			public const int ButtonContainer = 2131230883;
-			
-			// aapt resource value: 0x7f080086
-			public const int ButtonWidget = 2131230854;
-			
-			// aapt resource value: 0x7f080087
-			public const int CheckBoxWidget = 2131230855;
-			
-			// aapt resource value: 0x7f08008b
-			public const int ChildNavigationDetail = 2131230859;
-			
-			// aapt resource value: 0x7f080089
-			public const int ChildNavigationImage = 2131230857;
-			
-			// aapt resource value: 0x7f080088
-			public const int ChildNavigationLayout = 2131230856;
-			
-			// aapt resource value: 0x7f08008a
-			public const int ChildNavigationText = 2131230858;
-			
-			// aapt resource value: 0x7f08004d
-			public const int ChoiceInput = 2131230797;
-			
-			// aapt resource value: 0x7f0800a1
-			public const int ContentContainer = 2131230881;
-			
-			// aapt resource value: 0x7f0800a2
-			public const int ContentSeparator = 2131230882;
-			
-			// aapt resource value: 0x7f080114
-			public const int ControlsPlaceholder = 2131230996;
-			
-			// aapt resource value: 0x7f08008c
-			public const int DatePickerWidget = 2131230860;
-			
-			// aapt resource value: 0x7f08008d
-			public const int DateTimePickerDateWidget = 2131230861;
-			
-			// aapt resource value: 0x7f08008f
-			public const int DateTimePickerTextView = 2131230863;
-			
-			// aapt resource value: 0x7f08008e
-			public const int DateTimePickerTimeWidget = 2131230862;
-			
-			// aapt resource value: 0x7f0800a5
-			public const int DialogFirstSeparator = 2131230885;
-			
-			// aapt resource value: 0x7f0800a4
-			public const int DialogNegativeButton = 2131230884;
-			
-			// aapt resource value: 0x7f0800a6
-			public const int DialogNeutralButton = 2131230886;
-			
-			// aapt resource value: 0x7f0800a8
-			public const int DialogPositiveButton = 2131230888;
-			
 			// aapt resource value: 0x7f08009e
-			public const int DialogRoot = 2131230878;
+			public const int action0 = 2131230878;
 			
-			// aapt resource value: 0x7f0800a7
-			public const int DialogSecondSeparator = 2131230887;
-			
-			// aapt resource value: 0x7f0800ac
-			public const int EditorContainer = 2131230892;
-			
-			// aapt resource value: 0x7f0800a9
-			public const int FloatingLayout = 2131230889;
-			
-			// aapt resource value: 0x7f0800b1
-			public const int FooterLayout = 2131230897;
-			
-			// aapt resource value: 0x7f0800b2
-			public const int FooterText = 2131230898;
-			
-			// aapt resource value: 0x7f0800b0
-			public const int FormContainer = 2131230896;
-			
-			// aapt resource value: 0x7f0800ab
-			public const int FormPlaceholder = 2131230891;
-			
-			// aapt resource value: 0x7f0800aa
-			public const int FormScrollView = 2131230890;
-			
-			// aapt resource value: 0x7f0800b4
-			public const int GridView = 2131230900;
-			
-			// aapt resource value: 0x7f0800ad
-			public const int HeaderLayout = 2131230893;
-			
-			// aapt resource value: 0x7f0800af
-			public const int HeaderSeparator = 2131230895;
-			
-			// aapt resource value: 0x7f0800ae
-			public const int HeaderText = 2131230894;
-			
-			// aapt resource value: 0x7f0800b8
-			public const int HyperlinkDetail = 2131230904;
-			
-			// aapt resource value: 0x7f0800b6
-			public const int HyperlinkImage = 2131230902;
-			
-			// aapt resource value: 0x7f0800b5
-			public const int HyperlinkLayout = 2131230901;
-			
-			// aapt resource value: 0x7f0800b7
-			public const int HyperlinkText = 2131230903;
-			
-			// aapt resource value: 0x7f08010f
-			public const int ImageContainer = 2131230991;
-			
-			// aapt resource value: 0x7f080113
-			public const int ImagePlaceholder = 2131230995;
-			
-			// aapt resource value: 0x7f08010e
-			public const int ImageTextView = 2131230990;
-			
-			// aapt resource value: 0x7f080110
-			public const int ImageView = 2131230992;
-			
-			// aapt resource value: 0x7f08011e
-			public const int InnerLayout = 2131231006;
-			
-			// aapt resource value: 0x7f080115
-			public const int InternalSeekBar = 2131230997;
-			
-			// aapt resource value: 0x7f08004e
-			public const int Navigation = 2131230798;
-			
-			// aapt resource value: 0x7f08004f
-			public const int None = 2131230799;
-			
-			// aapt resource value: 0x7f080100
-			public const int NumericStepper = 2131230976;
-			
-			// aapt resource value: 0x7f080126
-			public const int PageIndicatorContainer = 2131231014;
-			
-			// aapt resource value: 0x7f080124
-			public const int PagerTabStrip = 2131231012;
-			
-			// aapt resource value: 0x7f080116
-			public const int SelectionWidget = 2131230998;
-			
-			// aapt resource value: 0x7f080118
-			public const int SpinnerWidget = 2131231000;
-			
-			// aapt resource value: 0x7f080050
-			public const int Standard = 2131230800;
-			
-			// aapt resource value: 0x7f080119
-			public const int StripPageIndicator = 2131231001;
-			
-			// aapt resource value: 0x7f080112
-			public const int SubtitleTextView = 2131230994;
-			
-			// aapt resource value: 0x7f08011a
-			public const int Switch = 2131231002;
-			
-			// aapt resource value: 0x7f08011c
-			public const int TabContainer = 2131231004;
-			
-			// aapt resource value: 0x7f080120
-			public const int TabIcon = 2131231008;
-			
-			// aapt resource value: 0x7f080122
-			public const int TabPageIndicator = 2131231010;
-			
-			// aapt resource value: 0x7f080121
-			public const int TabTitle = 2131231009;
-			
-			// aapt resource value: 0x7f080084
-			public const int Text1 = 2131230852;
-			
-			// aapt resource value: 0x7f080117
-			public const int Text2 = 2131230999;
-			
-			// aapt resource value: 0x7f08011d
-			public const int TimePickerWidget = 2131231005;
-			
-			// aapt resource value: 0x7f08009f
-			public const int TitleContainer = 2131230879;
-			
-			// aapt resource value: 0x7f0800a0
-			public const int TitleText = 2131230880;
-			
-			// aapt resource value: 0x7f080111
-			public const int TitleTextView = 2131230993;
-			
-			// aapt resource value: 0x7f08010d
-			public const int ValueText = 2131230989;
-			
-			// aapt resource value: 0x7f080123
-			public const int ViewPager = 2131231011;
-			
-			// aapt resource value: 0x7f080125
-			public const int ViewSlider = 2131231013;
-			
-			// aapt resource value: 0x7f0800e9
-			public const int action0 = 2131230953;
-			
-			// aapt resource value: 0x7f080074
-			public const int action_bar = 2131230836;
+			// aapt resource value: 0x7f080064
+			public const int action_bar = 2131230820;
 			
 			// aapt resource value: 0x7f080001
 			public const int action_bar_activity_content = 2131230721;
 			
-			// aapt resource value: 0x7f080073
-			public const int action_bar_container = 2131230835;
+			// aapt resource value: 0x7f080063
+			public const int action_bar_container = 2131230819;
 			
-			// aapt resource value: 0x7f08006f
-			public const int action_bar_root = 2131230831;
+			// aapt resource value: 0x7f08005f
+			public const int action_bar_root = 2131230815;
 			
 			// aapt resource value: 0x7f080002
 			public const int action_bar_spinner = 2131230722;
 			
-			// aapt resource value: 0x7f080054
-			public const int action_bar_subtitle = 2131230804;
+			// aapt resource value: 0x7f080042
+			public const int action_bar_subtitle = 2131230786;
 			
-			// aapt resource value: 0x7f080053
-			public const int action_bar_title = 2131230803;
+			// aapt resource value: 0x7f080041
+			public const int action_bar_title = 2131230785;
 			
-			// aapt resource value: 0x7f0800e6
-			public const int action_container = 2131230950;
+			// aapt resource value: 0x7f08009b
+			public const int action_container = 2131230875;
 			
-			// aapt resource value: 0x7f080075
-			public const int action_context_bar = 2131230837;
+			// aapt resource value: 0x7f080065
+			public const int action_context_bar = 2131230821;
 			
-			// aapt resource value: 0x7f0800ed
-			public const int action_divider = 2131230957;
+			// aapt resource value: 0x7f0800a2
+			public const int action_divider = 2131230882;
 			
-			// aapt resource value: 0x7f0800e7
-			public const int action_image = 2131230951;
+			// aapt resource value: 0x7f08009c
+			public const int action_image = 2131230876;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -4281,416 +2823,311 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f080004
 			public const int action_menu_presenter = 2131230724;
 			
-			// aapt resource value: 0x7f080071
-			public const int action_mode_bar = 2131230833;
+			// aapt resource value: 0x7f080061
+			public const int action_mode_bar = 2131230817;
 			
-			// aapt resource value: 0x7f080070
-			public const int action_mode_bar_stub = 2131230832;
+			// aapt resource value: 0x7f080060
+			public const int action_mode_bar_stub = 2131230816;
 			
-			// aapt resource value: 0x7f080055
-			public const int action_mode_close_button = 2131230805;
+			// aapt resource value: 0x7f080043
+			public const int action_mode_close_button = 2131230787;
 			
-			// aapt resource value: 0x7f0800e8
-			public const int action_text = 2131230952;
+			// aapt resource value: 0x7f08009d
+			public const int action_text = 2131230877;
 			
-			// aapt resource value: 0x7f0800f6
-			public const int actions = 2131230966;
+			// aapt resource value: 0x7f0800ab
+			public const int actions = 2131230891;
 			
-			// aapt resource value: 0x7f080056
-			public const int activity_chooser_view_content = 2131230806;
+			// aapt resource value: 0x7f080044
+			public const int activity_chooser_view_content = 2131230788;
 			
-			// aapt resource value: 0x7f080021
-			public const int add = 2131230753;
-			
-			// aapt resource value: 0x7f080068
-			public const int alertTitle = 2131230824;
-			
-			// aapt resource value: 0x7f080040
-			public const int all = 2131230784;
-			
-			// aapt resource value: 0x7f080026
-			public const int always = 2131230758;
-			
-			// aapt resource value: 0x7f080032
-			public const int auto = 2131230770;
-			
-			// aapt resource value: 0x7f080023
-			public const int beginning = 2131230755;
-			
-			// aapt resource value: 0x7f08002b
-			public const int bottom = 2131230763;
-			
-			// aapt resource value: 0x7f08005b
-			public const int buttonPanel = 2131230811;
-			
-			// aapt resource value: 0x7f0800ea
-			public const int cancel_action = 2131230954;
-			
-			// aapt resource value: 0x7f080033
-			public const int center = 2131230771;
-			
-			// aapt resource value: 0x7f0800c4
-			public const int center_frame = 2131230916;
-			
-			// aapt resource value: 0x7f080034
-			public const int center_horizontal = 2131230772;
-			
-			// aapt resource value: 0x7f080035
-			public const int center_vertical = 2131230773;
-			
-			// aapt resource value: 0x7f08006b
-			public const int checkbox = 2131230827;
-			
-			// aapt resource value: 0x7f0800f2
-			public const int chronometer = 2131230962;
-			
-			// aapt resource value: 0x7f08003c
-			public const int clip_horizontal = 2131230780;
-			
-			// aapt resource value: 0x7f08003d
-			public const int clip_vertical = 2131230781;
-			
-			// aapt resource value: 0x7f080027
-			public const int collapseActionView = 2131230759;
-			
-			// aapt resource value: 0x7f080092
-			public const int container = 2131230866;
-			
-			// aapt resource value: 0x7f08005e
-			public const int contentPanel = 2131230814;
-			
-			// aapt resource value: 0x7f080093
-			public const int coordinator = 2131230867;
-			
-			// aapt resource value: 0x7f080065
-			public const int custom = 2131230821;
-			
-			// aapt resource value: 0x7f080064
-			public const int customPanel = 2131230820;
-			
-			// aapt resource value: 0x7f080072
-			public const int decor_content_parent = 2131230834;
-			
-			// aapt resource value: 0x7f0800fe
-			public const int decrease_button = 2131230974;
+			// aapt resource value: 0x7f08001e
+			public const int add = 2131230750;
 			
 			// aapt resource value: 0x7f080058
-			public const int default_activity_button = 2131230808;
+			public const int alertTitle = 2131230808;
 			
-			// aapt resource value: 0x7f080095
-			public const int design_bottom_sheet = 2131230869;
+			// aapt resource value: 0x7f08003d
+			public const int all = 2131230781;
 			
-			// aapt resource value: 0x7f08009c
-			public const int design_menu_item_action_area = 2131230876;
-			
-			// aapt resource value: 0x7f08009b
-			public const int design_menu_item_action_area_stub = 2131230875;
-			
-			// aapt resource value: 0x7f08009a
-			public const int design_menu_item_text = 2131230874;
-			
-			// aapt resource value: 0x7f080099
-			public const int design_navigation_view = 2131230873;
-			
-			// aapt resource value: 0x7f0800c2
-			public const int detailFrame = 2131230914;
-			
-			// aapt resource value: 0x7f080015
-			public const int disableHome = 2131230741;
-			
-			// aapt resource value: 0x7f0800e2
-			public const int drawer_layout = 2131230946;
-			
-			// aapt resource value: 0x7f080076
-			public const int edit_query = 2131230838;
-			
-			// aapt resource value: 0x7f080024
-			public const int end = 2131230756;
-			
-			// aapt resource value: 0x7f0800fc
-			public const int end_padder = 2131230972;
-			
-			// aapt resource value: 0x7f08002d
-			public const int enterAlways = 2131230765;
-			
-			// aapt resource value: 0x7f08002e
-			public const int enterAlwaysCollapsed = 2131230766;
+			// aapt resource value: 0x7f080023
+			public const int always = 2131230755;
 			
 			// aapt resource value: 0x7f08002f
-			public const int exitUntilCollapsed = 2131230767;
+			public const int auto = 2131230767;
 			
-			// aapt resource value: 0x7f080057
-			public const int expand_activities_button = 2131230807;
+			// aapt resource value: 0x7f080020
+			public const int beginning = 2131230752;
 			
-			// aapt resource value: 0x7f08006a
-			public const int expanded_menu = 2131230826;
+			// aapt resource value: 0x7f080028
+			public const int bottom = 2131230760;
 			
-			// aapt resource value: 0x7f08003e
-			public const int fill = 2131230782;
+			// aapt resource value: 0x7f08004b
+			public const int buttonPanel = 2131230795;
+			
+			// aapt resource value: 0x7f08009f
+			public const int cancel_action = 2131230879;
+			
+			// aapt resource value: 0x7f080030
+			public const int center = 2131230768;
+			
+			// aapt resource value: 0x7f080031
+			public const int center_horizontal = 2131230769;
+			
+			// aapt resource value: 0x7f080032
+			public const int center_vertical = 2131230770;
+			
+			// aapt resource value: 0x7f08005b
+			public const int checkbox = 2131230811;
+			
+			// aapt resource value: 0x7f0800a7
+			public const int chronometer = 2131230887;
+			
+			// aapt resource value: 0x7f080039
+			public const int clip_horizontal = 2131230777;
+			
+			// aapt resource value: 0x7f08003a
+			public const int clip_vertical = 2131230778;
+			
+			// aapt resource value: 0x7f080024
+			public const int collapseActionView = 2131230756;
+			
+			// aapt resource value: 0x7f080075
+			public const int container = 2131230837;
+			
+			// aapt resource value: 0x7f08004e
+			public const int contentPanel = 2131230798;
+			
+			// aapt resource value: 0x7f080076
+			public const int coordinator = 2131230838;
+			
+			// aapt resource value: 0x7f080055
+			public const int custom = 2131230805;
+			
+			// aapt resource value: 0x7f080054
+			public const int customPanel = 2131230804;
+			
+			// aapt resource value: 0x7f080062
+			public const int decor_content_parent = 2131230818;
+			
+			// aapt resource value: 0x7f080047
+			public const int default_activity_button = 2131230791;
+			
+			// aapt resource value: 0x7f080078
+			public const int design_bottom_sheet = 2131230840;
+			
+			// aapt resource value: 0x7f08007f
+			public const int design_menu_item_action_area = 2131230847;
+			
+			// aapt resource value: 0x7f08007e
+			public const int design_menu_item_action_area_stub = 2131230846;
+			
+			// aapt resource value: 0x7f08007d
+			public const int design_menu_item_text = 2131230845;
+			
+			// aapt resource value: 0x7f08007c
+			public const int design_navigation_view = 2131230844;
+			
+			// aapt resource value: 0x7f080012
+			public const int disableHome = 2131230738;
+			
+			// aapt resource value: 0x7f080066
+			public const int edit_query = 2131230822;
+			
+			// aapt resource value: 0x7f080021
+			public const int end = 2131230753;
+			
+			// aapt resource value: 0x7f0800b1
+			public const int end_padder = 2131230897;
+			
+			// aapt resource value: 0x7f08002a
+			public const int enterAlways = 2131230762;
+			
+			// aapt resource value: 0x7f08002b
+			public const int enterAlwaysCollapsed = 2131230763;
+			
+			// aapt resource value: 0x7f08002c
+			public const int exitUntilCollapsed = 2131230764;
+			
+			// aapt resource value: 0x7f080045
+			public const int expand_activities_button = 2131230789;
+			
+			// aapt resource value: 0x7f08005a
+			public const int expanded_menu = 2131230810;
+			
+			// aapt resource value: 0x7f08003b
+			public const int fill = 2131230779;
+			
+			// aapt resource value: 0x7f08003c
+			public const int fill_horizontal = 2131230780;
+			
+			// aapt resource value: 0x7f080033
+			public const int fill_vertical = 2131230771;
 			
 			// aapt resource value: 0x7f08003f
-			public const int fill_horizontal = 2131230783;
-			
-			// aapt resource value: 0x7f080036
-			public const int fill_vertical = 2131230774;
-			
-			// aapt resource value: 0x7f080042
-			public const int @fixed = 2131230786;
-			
-			// aapt resource value: 0x7f080103
-			public const int form_list_fragment_1 = 2131230979;
-			
-			// aapt resource value: 0x7f08010c
-			public const int form_list_fragment_10 = 2131230988;
-			
-			// aapt resource value: 0x7f080104
-			public const int form_list_fragment_2 = 2131230980;
-			
-			// aapt resource value: 0x7f080105
-			public const int form_list_fragment_3 = 2131230981;
-			
-			// aapt resource value: 0x7f080106
-			public const int form_list_fragment_4 = 2131230982;
-			
-			// aapt resource value: 0x7f080107
-			public const int form_list_fragment_5 = 2131230983;
-			
-			// aapt resource value: 0x7f080108
-			public const int form_list_fragment_6 = 2131230984;
-			
-			// aapt resource value: 0x7f080109
-			public const int form_list_fragment_7 = 2131230985;
-			
-			// aapt resource value: 0x7f08010a
-			public const int form_list_fragment_8 = 2131230986;
-			
-			// aapt resource value: 0x7f08010b
-			public const int form_list_fragment_9 = 2131230987;
-			
-			// aapt resource value: 0x7f0800b3
-			public const int fragmentActivityLayout = 2131230899;
-			
-			// aapt resource value: 0x7f0800bf
-			public const int fragmentBody = 2131230911;
-			
-			// aapt resource value: 0x7f0800c0
-			public const int fragmentFooter = 2131230912;
-			
-			// aapt resource value: 0x7f0800be
-			public const int fragmentHeader = 2131230910;
+			public const int @fixed = 2131230783;
 			
 			// aapt resource value: 0x7f080005
 			public const int home = 2131230725;
 			
-			// aapt resource value: 0x7f080016
-			public const int homeAsUp = 2131230742;
+			// aapt resource value: 0x7f080013
+			public const int homeAsUp = 2131230739;
 			
-			// aapt resource value: 0x7f080051
-			public const int horizontal = 2131230801;
+			// aapt resource value: 0x7f080049
+			public const int icon = 2131230793;
 			
-			// aapt resource value: 0x7f08005a
-			public const int icon = 2131230810;
+			// aapt resource value: 0x7f0800ac
+			public const int icon_group = 2131230892;
 			
-			// aapt resource value: 0x7f0800f7
-			public const int icon_group = 2131230967;
+			// aapt resource value: 0x7f080025
+			public const int ifRoom = 2131230757;
 			
-			// aapt resource value: 0x7f080028
-			public const int ifRoom = 2131230760;
+			// aapt resource value: 0x7f080046
+			public const int image = 2131230790;
 			
-			// aapt resource value: 0x7f08004a
-			public const int image = 2131230794;
-			
-			// aapt resource value: 0x7f0800fd
-			public const int increase_button = 2131230973;
-			
-			// aapt resource value: 0x7f0800f3
-			public const int info = 2131230963;
-			
-			// aapt resource value: 0x7f080044
-			public const int inside = 2131230788;
+			// aapt resource value: 0x7f0800a8
+			public const int info = 2131230888;
 			
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f080091
-			public const int largeLabel = 2131230865;
+			// aapt resource value: 0x7f080074
+			public const int largeLabel = 2131230836;
 			
-			// aapt resource value: 0x7f080037
-			public const int left = 2131230775;
+			// aapt resource value: 0x7f080034
+			public const int left = 2131230772;
 			
-			// aapt resource value: 0x7f0800c3
-			public const int left_frame = 2131230915;
+			// aapt resource value: 0x7f0800ad
+			public const int line1 = 2131230893;
 			
-			// aapt resource value: 0x7f0800e4
-			public const int left_navdrawer = 2131230948;
+			// aapt resource value: 0x7f0800af
+			public const int line3 = 2131230895;
 			
-			// aapt resource value: 0x7f0800f8
-			public const int line1 = 2131230968;
+			// aapt resource value: 0x7f08000f
+			public const int listMode = 2131230735;
 			
-			// aapt resource value: 0x7f0800fa
-			public const int line3 = 2131230970;
+			// aapt resource value: 0x7f080048
+			public const int list_item = 2131230792;
 			
-			// aapt resource value: 0x7f0800ba
-			public const int listContainer = 2131230906;
+			// aapt resource value: 0x7f0800b5
+			public const int masked = 2131230901;
 			
-			// aapt resource value: 0x7f080012
-			public const int listMode = 2131230738;
+			// aapt resource value: 0x7f0800a1
+			public const int media_actions = 2131230881;
 			
-			// aapt resource value: 0x7f0800bb
-			public const int listViewFooter = 2131230907;
+			// aapt resource value: 0x7f080022
+			public const int middle = 2131230754;
 			
-			// aapt resource value: 0x7f0800bc
-			public const int listViewHeader = 2131230908;
+			// aapt resource value: 0x7f08003e
+			public const int mini = 2131230782;
 			
-			// aapt resource value: 0x7f0800bd
-			public const int listViewProgressbar = 2131230909;
+			// aapt resource value: 0x7f08008d
+			public const int mr_art = 2131230861;
 			
-			// aapt resource value: 0x7f080059
-			public const int list_item = 2131230809;
+			// aapt resource value: 0x7f080082
+			public const int mr_chooser_list = 2131230850;
 			
-			// aapt resource value: 0x7f0800e3
-			public const int maincontent_navdrawer = 2131230947;
-			
-			// aapt resource value: 0x7f080128
-			public const int masked = 2131231016;
-			
-			// aapt resource value: 0x7f0800c1
-			public const int masterFrame = 2131230913;
-			
-			// aapt resource value: 0x7f0800ec
-			public const int media_actions = 2131230956;
-			
-			// aapt resource value: 0x7f0800c7
-			public const int message_box = 2131230919;
-			
-			// aapt resource value: 0x7f080025
-			public const int middle = 2131230757;
-			
-			// aapt resource value: 0x7f080041
-			public const int mini = 2131230785;
-			
-			// aapt resource value: 0x7f0800d4
-			public const int mr_art = 2131230932;
-			
-			// aapt resource value: 0x7f0800c9
-			public const int mr_chooser_list = 2131230921;
-			
-			// aapt resource value: 0x7f0800cc
-			public const int mr_chooser_route_desc = 2131230924;
-			
-			// aapt resource value: 0x7f0800ca
-			public const int mr_chooser_route_icon = 2131230922;
-			
-			// aapt resource value: 0x7f0800cb
-			public const int mr_chooser_route_name = 2131230923;
-			
-			// aapt resource value: 0x7f0800c8
-			public const int mr_chooser_title = 2131230920;
-			
-			// aapt resource value: 0x7f0800d1
-			public const int mr_close = 2131230929;
-			
-			// aapt resource value: 0x7f0800d7
-			public const int mr_control_divider = 2131230935;
-			
-			// aapt resource value: 0x7f0800dd
-			public const int mr_control_playback_ctrl = 2131230941;
-			
-			// aapt resource value: 0x7f0800e0
-			public const int mr_control_subtitle = 2131230944;
-			
-			// aapt resource value: 0x7f0800df
-			public const int mr_control_title = 2131230943;
-			
-			// aapt resource value: 0x7f0800de
-			public const int mr_control_title_container = 2131230942;
-			
-			// aapt resource value: 0x7f0800d2
-			public const int mr_custom_control = 2131230930;
-			
-			// aapt resource value: 0x7f0800d3
-			public const int mr_default_control = 2131230931;
-			
-			// aapt resource value: 0x7f0800ce
-			public const int mr_dialog_area = 2131230926;
-			
-			// aapt resource value: 0x7f0800cd
-			public const int mr_expandable_area = 2131230925;
-			
-			// aapt resource value: 0x7f0800e1
-			public const int mr_group_expand_collapse = 2131230945;
-			
-			// aapt resource value: 0x7f0800d5
-			public const int mr_media_main_control = 2131230933;
-			
-			// aapt resource value: 0x7f0800d0
-			public const int mr_name = 2131230928;
-			
-			// aapt resource value: 0x7f0800d6
-			public const int mr_playback_control = 2131230934;
-			
-			// aapt resource value: 0x7f0800cf
-			public const int mr_title_bar = 2131230927;
-			
-			// aapt resource value: 0x7f0800d8
-			public const int mr_volume_control = 2131230936;
-			
-			// aapt resource value: 0x7f0800d9
-			public const int mr_volume_group_list = 2131230937;
-			
-			// aapt resource value: 0x7f0800db
-			public const int mr_volume_item_icon = 2131230939;
-			
-			// aapt resource value: 0x7f0800dc
-			public const int mr_volume_slider = 2131230940;
-			
-			// aapt resource value: 0x7f08001c
-			public const int multiply = 2131230748;
-			
-			// aapt resource value: 0x7f080098
-			public const int navigation_header_container = 2131230872;
-			
-			// aapt resource value: 0x7f080029
-			public const int never = 2131230761;
-			
-			// aapt resource value: 0x7f080017
-			public const int none = 2131230743;
-			
-			// aapt resource value: 0x7f080013
-			public const int normal = 2131230739;
-			
-			// aapt resource value: 0x7f0800f5
-			public const int notification_background = 2131230965;
-			
-			// aapt resource value: 0x7f0800ef
-			public const int notification_main_column = 2131230959;
-			
-			// aapt resource value: 0x7f0800ee
-			public const int notification_main_column_container = 2131230958;
-			
-			// aapt resource value: 0x7f0800ff
-			public const int numeric_box = 2131230975;
-			
-			// aapt resource value: 0x7f080045
-			public const int outside = 2131230789;
-			
-			// aapt resource value: 0x7f08003a
-			public const int parallax = 2131230778;
-			
-			// aapt resource value: 0x7f080101
-			public const int parallax_image = 2131230977;
-			
-			// aapt resource value: 0x7f08005d
-			public const int parentPanel = 2131230813;
-			
-			// aapt resource value: 0x7f08003b
-			public const int pin = 2131230779;
-			
-			// aapt resource value: 0x7f0800b9
-			public const int progressContainer = 2131230905;
+			// aapt resource value: 0x7f080085
+			public const int mr_chooser_route_desc = 2131230853;
 			
 			// aapt resource value: 0x7f080083
-			public const int progress_bar = 2131230851;
+			public const int mr_chooser_route_icon = 2131230851;
+			
+			// aapt resource value: 0x7f080084
+			public const int mr_chooser_route_name = 2131230852;
+			
+			// aapt resource value: 0x7f080081
+			public const int mr_chooser_title = 2131230849;
+			
+			// aapt resource value: 0x7f08008a
+			public const int mr_close = 2131230858;
+			
+			// aapt resource value: 0x7f080090
+			public const int mr_control_divider = 2131230864;
+			
+			// aapt resource value: 0x7f080096
+			public const int mr_control_playback_ctrl = 2131230870;
+			
+			// aapt resource value: 0x7f080099
+			public const int mr_control_subtitle = 2131230873;
+			
+			// aapt resource value: 0x7f080098
+			public const int mr_control_title = 2131230872;
+			
+			// aapt resource value: 0x7f080097
+			public const int mr_control_title_container = 2131230871;
+			
+			// aapt resource value: 0x7f08008b
+			public const int mr_custom_control = 2131230859;
+			
+			// aapt resource value: 0x7f08008c
+			public const int mr_default_control = 2131230860;
+			
+			// aapt resource value: 0x7f080087
+			public const int mr_dialog_area = 2131230855;
+			
+			// aapt resource value: 0x7f080086
+			public const int mr_expandable_area = 2131230854;
+			
+			// aapt resource value: 0x7f08009a
+			public const int mr_group_expand_collapse = 2131230874;
+			
+			// aapt resource value: 0x7f08008e
+			public const int mr_media_main_control = 2131230862;
+			
+			// aapt resource value: 0x7f080089
+			public const int mr_name = 2131230857;
+			
+			// aapt resource value: 0x7f08008f
+			public const int mr_playback_control = 2131230863;
+			
+			// aapt resource value: 0x7f080088
+			public const int mr_title_bar = 2131230856;
+			
+			// aapt resource value: 0x7f080091
+			public const int mr_volume_control = 2131230865;
+			
+			// aapt resource value: 0x7f080092
+			public const int mr_volume_group_list = 2131230866;
+			
+			// aapt resource value: 0x7f080094
+			public const int mr_volume_item_icon = 2131230868;
+			
+			// aapt resource value: 0x7f080095
+			public const int mr_volume_slider = 2131230869;
+			
+			// aapt resource value: 0x7f080019
+			public const int multiply = 2131230745;
+			
+			// aapt resource value: 0x7f08007b
+			public const int navigation_header_container = 2131230843;
+			
+			// aapt resource value: 0x7f080026
+			public const int never = 2131230758;
+			
+			// aapt resource value: 0x7f080014
+			public const int none = 2131230740;
+			
+			// aapt resource value: 0x7f080010
+			public const int normal = 2131230736;
+			
+			// aapt resource value: 0x7f0800aa
+			public const int notification_background = 2131230890;
+			
+			// aapt resource value: 0x7f0800a4
+			public const int notification_main_column = 2131230884;
+			
+			// aapt resource value: 0x7f0800a3
+			public const int notification_main_column_container = 2131230883;
+			
+			// aapt resource value: 0x7f080037
+			public const int parallax = 2131230775;
+			
+			// aapt resource value: 0x7f08004d
+			public const int parentPanel = 2131230797;
+			
+			// aapt resource value: 0x7f080038
+			public const int pin = 2131230776;
 			
 			// aapt resource value: 0x7f080006
 			public const int progress_circular = 2131230726;
@@ -4698,176 +3135,140 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f080007
 			public const int progress_horizontal = 2131230727;
 			
-			// aapt resource value: 0x7f08000f
-			public const int ptr_content = 2131230735;
+			// aapt resource value: 0x7f08005d
+			public const int radio = 2131230813;
 			
-			// aapt resource value: 0x7f080011
-			public const int ptr_progress = 2131230737;
+			// aapt resource value: 0x7f080035
+			public const int right = 2131230773;
 			
-			// aapt resource value: 0x7f080010
-			public const int ptr_text = 2131230736;
+			// aapt resource value: 0x7f0800a9
+			public const int right_icon = 2131230889;
 			
-			// aapt resource value: 0x7f08006d
-			public const int radio = 2131230829;
-			
-			// aapt resource value: 0x7f080038
-			public const int right = 2131230776;
-			
-			// aapt resource value: 0x7f0800c6
-			public const int right_button = 2131230918;
-			
-			// aapt resource value: 0x7f0800c5
-			public const int right_frame = 2131230917;
-			
-			// aapt resource value: 0x7f0800f4
-			public const int right_icon = 2131230964;
-			
-			// aapt resource value: 0x7f0800e5
-			public const int right_navdrawer = 2131230949;
-			
-			// aapt resource value: 0x7f0800f0
-			public const int right_side = 2131230960;
-			
-			// aapt resource value: 0x7f08001d
-			public const int screen = 2131230749;
-			
-			// aapt resource value: 0x7f080030
-			public const int scroll = 2131230768;
-			
-			// aapt resource value: 0x7f080063
-			public const int scrollIndicatorDown = 2131230819;
-			
-			// aapt resource value: 0x7f08005f
-			public const int scrollIndicatorUp = 2131230815;
-			
-			// aapt resource value: 0x7f080060
-			public const int scrollView = 2131230816;
-			
-			// aapt resource value: 0x7f080043
-			public const int scrollable = 2131230787;
-			
-			// aapt resource value: 0x7f080078
-			public const int search_badge = 2131230840;
-			
-			// aapt resource value: 0x7f080077
-			public const int search_bar = 2131230839;
-			
-			// aapt resource value: 0x7f080079
-			public const int search_button = 2131230841;
-			
-			// aapt resource value: 0x7f08007e
-			public const int search_close_btn = 2131230846;
-			
-			// aapt resource value: 0x7f08007a
-			public const int search_edit_frame = 2131230842;
-			
-			// aapt resource value: 0x7f080080
-			public const int search_go_btn = 2131230848;
-			
-			// aapt resource value: 0x7f08007b
-			public const int search_mag_icon = 2131230843;
-			
-			// aapt resource value: 0x7f08007c
-			public const int search_plate = 2131230844;
-			
-			// aapt resource value: 0x7f08007d
-			public const int search_src_text = 2131230845;
-			
-			// aapt resource value: 0x7f080081
-			public const int search_voice_btn = 2131230849;
-			
-			// aapt resource value: 0x7f080082
-			public const int select_dialog_listview = 2131230850;
-			
-			// aapt resource value: 0x7f080102
-			public const int shared_image = 2131230978;
-			
-			// aapt resource value: 0x7f08006c
-			public const int shortcut = 2131230828;
-			
-			// aapt resource value: 0x7f080018
-			public const int showCustom = 2131230744;
-			
-			// aapt resource value: 0x7f080019
-			public const int showHome = 2131230745;
+			// aapt resource value: 0x7f0800a5
+			public const int right_side = 2131230885;
 			
 			// aapt resource value: 0x7f08001a
-			public const int showTitle = 2131230746;
+			public const int screen = 2131230746;
 			
-			// aapt resource value: 0x7f08011b
-			public const int sliding_tabs = 2131231003;
+			// aapt resource value: 0x7f08002d
+			public const int scroll = 2131230765;
 			
-			// aapt resource value: 0x7f080090
-			public const int smallLabel = 2131230864;
+			// aapt resource value: 0x7f080053
+			public const int scrollIndicatorDown = 2131230803;
 			
-			// aapt resource value: 0x7f080097
-			public const int snackbar_action = 2131230871;
+			// aapt resource value: 0x7f08004f
+			public const int scrollIndicatorUp = 2131230799;
 			
-			// aapt resource value: 0x7f080096
-			public const int snackbar_text = 2131230870;
+			// aapt resource value: 0x7f080050
+			public const int scrollView = 2131230800;
 			
-			// aapt resource value: 0x7f080031
-			public const int snap = 2131230769;
+			// aapt resource value: 0x7f080040
+			public const int scrollable = 2131230784;
+			
+			// aapt resource value: 0x7f080068
+			public const int search_badge = 2131230824;
+			
+			// aapt resource value: 0x7f080067
+			public const int search_bar = 2131230823;
+			
+			// aapt resource value: 0x7f080069
+			public const int search_button = 2131230825;
+			
+			// aapt resource value: 0x7f08006e
+			public const int search_close_btn = 2131230830;
+			
+			// aapt resource value: 0x7f08006a
+			public const int search_edit_frame = 2131230826;
+			
+			// aapt resource value: 0x7f080070
+			public const int search_go_btn = 2131230832;
+			
+			// aapt resource value: 0x7f08006b
+			public const int search_mag_icon = 2131230827;
+			
+			// aapt resource value: 0x7f08006c
+			public const int search_plate = 2131230828;
+			
+			// aapt resource value: 0x7f08006d
+			public const int search_src_text = 2131230829;
+			
+			// aapt resource value: 0x7f080071
+			public const int search_voice_btn = 2131230833;
+			
+			// aapt resource value: 0x7f080072
+			public const int select_dialog_listview = 2131230834;
 			
 			// aapt resource value: 0x7f08005c
-			public const int spacer = 2131230812;
+			public const int shortcut = 2131230812;
 			
-			// aapt resource value: 0x7f080046
-			public const int spb_interpolator_accelerate = 2131230790;
+			// aapt resource value: 0x7f080015
+			public const int showCustom = 2131230741;
 			
-			// aapt resource value: 0x7f080047
-			public const int spb_interpolator_acceleratedecelerate = 2131230791;
+			// aapt resource value: 0x7f080016
+			public const int showHome = 2131230742;
 			
-			// aapt resource value: 0x7f080048
-			public const int spb_interpolator_decelerate = 2131230792;
+			// aapt resource value: 0x7f080017
+			public const int showTitle = 2131230743;
 			
-			// aapt resource value: 0x7f080049
-			public const int spb_interpolator_linear = 2131230793;
+			// aapt resource value: 0x7f0800b2
+			public const int sliding_tabs = 2131230898;
+			
+			// aapt resource value: 0x7f080073
+			public const int smallLabel = 2131230835;
+			
+			// aapt resource value: 0x7f08007a
+			public const int snackbar_action = 2131230842;
+			
+			// aapt resource value: 0x7f080079
+			public const int snackbar_text = 2131230841;
+			
+			// aapt resource value: 0x7f08002e
+			public const int snap = 2131230766;
+			
+			// aapt resource value: 0x7f08004c
+			public const int spacer = 2131230796;
 			
 			// aapt resource value: 0x7f080008
 			public const int split_action_bar = 2131230728;
 			
-			// aapt resource value: 0x7f08001e
-			public const int src_atop = 2131230750;
+			// aapt resource value: 0x7f08001b
+			public const int src_atop = 2131230747;
 			
-			// aapt resource value: 0x7f08001f
-			public const int src_in = 2131230751;
+			// aapt resource value: 0x7f08001c
+			public const int src_in = 2131230748;
 			
-			// aapt resource value: 0x7f080020
-			public const int src_over = 2131230752;
+			// aapt resource value: 0x7f08001d
+			public const int src_over = 2131230749;
 			
-			// aapt resource value: 0x7f080039
-			public const int start = 2131230777;
+			// aapt resource value: 0x7f080036
+			public const int start = 2131230774;
 			
-			// aapt resource value: 0x7f0800eb
-			public const int status_bar_latest_event_content = 2131230955;
+			// aapt resource value: 0x7f0800a0
+			public const int status_bar_latest_event_content = 2131230880;
 			
-			// aapt resource value: 0x7f08006e
-			public const int submenuarrow = 2131230830;
+			// aapt resource value: 0x7f08005e
+			public const int submenuarrow = 2131230814;
 			
-			// aapt resource value: 0x7f08007f
-			public const int submit_area = 2131230847;
+			// aapt resource value: 0x7f08006f
+			public const int submit_area = 2131230831;
 			
-			// aapt resource value: 0x7f08004b
-			public const int subtitle = 2131230795;
+			// aapt resource value: 0x7f080011
+			public const int tabMode = 2131230737;
 			
-			// aapt resource value: 0x7f080014
-			public const int tabMode = 2131230740;
+			// aapt resource value: 0x7f0800b0
+			public const int text = 2131230896;
 			
-			// aapt resource value: 0x7f0800fb
-			public const int text = 2131230971;
+			// aapt resource value: 0x7f0800ae
+			public const int text2 = 2131230894;
 			
-			// aapt resource value: 0x7f0800f9
-			public const int text2 = 2131230969;
+			// aapt resource value: 0x7f080052
+			public const int textSpacerNoButtons = 2131230802;
 			
-			// aapt resource value: 0x7f080062
-			public const int textSpacerNoButtons = 2131230818;
+			// aapt resource value: 0x7f080051
+			public const int textSpacerNoTitle = 2131230801;
 			
-			// aapt resource value: 0x7f080061
-			public const int textSpacerNoTitle = 2131230817;
-			
-			// aapt resource value: 0x7f08009d
-			public const int text_input_password_toggle = 2131230877;
+			// aapt resource value: 0x7f080080
+			public const int text_input_password_toggle = 2131230848;
 			
 			// aapt resource value: 0x7f08000c
 			public const int textinput_counter = 2131230732;
@@ -4875,29 +3276,29 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f08000d
 			public const int textinput_error = 2131230733;
 			
-			// aapt resource value: 0x7f0800f1
-			public const int time = 2131230961;
+			// aapt resource value: 0x7f0800a6
+			public const int time = 2131230886;
 			
-			// aapt resource value: 0x7f08004c
-			public const int title = 2131230796;
+			// aapt resource value: 0x7f08004a
+			public const int title = 2131230794;
 			
-			// aapt resource value: 0x7f080069
-			public const int titleDividerNoCustom = 2131230825;
+			// aapt resource value: 0x7f080059
+			public const int titleDividerNoCustom = 2131230809;
 			
-			// aapt resource value: 0x7f080067
-			public const int title_template = 2131230823;
+			// aapt resource value: 0x7f080057
+			public const int title_template = 2131230807;
 			
-			// aapt resource value: 0x7f08011f
-			public const int toolbar = 2131231007;
+			// aapt resource value: 0x7f0800b3
+			public const int toolbar = 2131230899;
 			
-			// aapt resource value: 0x7f08002c
-			public const int top = 2131230764;
+			// aapt resource value: 0x7f080029
+			public const int top = 2131230761;
 			
-			// aapt resource value: 0x7f080066
-			public const int topPanel = 2131230822;
+			// aapt resource value: 0x7f080056
+			public const int topPanel = 2131230806;
 			
-			// aapt resource value: 0x7f080094
-			public const int touch_outside = 2131230868;
+			// aapt resource value: 0x7f080077
+			public const int touch_outside = 2131230839;
 			
 			// aapt resource value: 0x7f08000a
 			public const int transition_current_scene = 2131230730;
@@ -4908,26 +3309,23 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f080009
 			public const int up = 2131230729;
 			
-			// aapt resource value: 0x7f08001b
-			public const int useLogo = 2131230747;
-			
-			// aapt resource value: 0x7f080052
-			public const int vertical = 2131230802;
+			// aapt resource value: 0x7f080018
+			public const int useLogo = 2131230744;
 			
 			// aapt resource value: 0x7f08000e
 			public const int view_offset_helper = 2131230734;
 			
-			// aapt resource value: 0x7f080127
-			public const int visible = 2131231015;
+			// aapt resource value: 0x7f0800b4
+			public const int visible = 2131230900;
 			
-			// aapt resource value: 0x7f0800da
-			public const int volume_item_container = 2131230938;
+			// aapt resource value: 0x7f080093
+			public const int volume_item_container = 2131230867;
 			
-			// aapt resource value: 0x7f08002a
-			public const int withText = 2131230762;
+			// aapt resource value: 0x7f080027
+			public const int withText = 2131230759;
 			
-			// aapt resource value: 0x7f080022
-			public const int wrap_content = 2131230754;
+			// aapt resource value: 0x7f08001f
+			public const int wrap_content = 2131230751;
 			
 			static Id()
 			{
@@ -4957,15 +3355,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0a0005
 			public const int cancel_button_image_alpha = 2131361797;
 			
-			// aapt resource value: 0x7f0a000e
-			public const int default_bullet_indicator_orientation = 2131361806;
-			
-			// aapt resource value: 0x7f0a000f
-			public const int default_strip_indicator_fade_delay = 2131361807;
-			
-			// aapt resource value: 0x7f0a0010
-			public const int default_strip_indicator_fade_length = 2131361808;
-			
 			// aapt resource value: 0x7f0a0007
 			public const int design_snackbar_text_max_lines = 2131361799;
 			
@@ -4984,12 +3373,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0a000b
 			public const int show_password_duration = 2131361803;
 			
-			// aapt resource value: 0x7f0a000d
-			public const int spb_default_interpolator = 2131361805;
-			
-			// aapt resource value: 0x7f0a000c
-			public const int spb_default_sections_count = 2131361804;
-			
 			// aapt resource value: 0x7f0a0006
 			public const int status_bar_notification_info_maxnum = 2131361798;
 			
@@ -5007,16 +3390,10 @@ namespace SampleProject.Droid
 		{
 			
 			// aapt resource value: 0x7f060000
-			public const int accelerate_quad = 2131099648;
+			public const int mr_fast_out_slow_in = 2131099648;
 			
 			// aapt resource value: 0x7f060001
-			public const int decelerate_quad = 2131099649;
-			
-			// aapt resource value: 0x7f060002
-			public const int mr_fast_out_slow_in = 2131099650;
-			
-			// aapt resource value: 0x7f060003
-			public const int mr_linear_out_slow_in = 2131099651;
+			public const int mr_linear_out_slow_in = 2131099649;
 			
 			static Interpolator()
 			{
@@ -5113,352 +3490,127 @@ namespace SampleProject.Droid
 			public const int abc_select_dialog_material = 2130903066;
 			
 			// aapt resource value: 0x7f03001b
-			public const int activitylargeindicator = 2130903067;
+			public const int design_bottom_navigation_item = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int activitysmallindicator = 2130903068;
+			public const int design_bottom_sheet_dialog = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
-			public const int activitytranslucentindicator = 2130903069;
+			public const int design_layout_snackbar = 2130903069;
 			
 			// aapt resource value: 0x7f03001e
-			public const int bulletpageindicator = 2130903070;
+			public const int design_layout_snackbar_include = 2130903070;
 			
 			// aapt resource value: 0x7f03001f
-			public const int buttonwidget = 2130903071;
+			public const int design_layout_tab_icon = 2130903071;
 			
 			// aapt resource value: 0x7f030020
-			public const int checkboxwidget = 2130903072;
+			public const int design_layout_tab_text = 2130903072;
 			
 			// aapt resource value: 0x7f030021
-			public const int childnavigationwidget = 2130903073;
+			public const int design_menu_item_action_area = 2130903073;
 			
 			// aapt resource value: 0x7f030022
-			public const int datepickerwidget = 2130903074;
+			public const int design_navigation_item = 2130903074;
 			
 			// aapt resource value: 0x7f030023
-			public const int datetimepickerlayout = 2130903075;
+			public const int design_navigation_item_header = 2130903075;
 			
 			// aapt resource value: 0x7f030024
-			public const int datetimepickerwidget = 2130903076;
+			public const int design_navigation_item_separator = 2130903076;
 			
 			// aapt resource value: 0x7f030025
-			public const int default_header = 2130903077;
+			public const int design_navigation_item_subheader = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int design_bottom_navigation_item = 2130903078;
+			public const int design_navigation_menu = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int design_bottom_sheet_dialog = 2130903079;
+			public const int design_navigation_menu_item = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int design_layout_snackbar = 2130903080;
+			public const int design_text_input_password_icon = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int design_layout_snackbar_include = 2130903081;
+			public const int mr_chooser_dialog = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int design_layout_tab_icon = 2130903082;
+			public const int mr_chooser_list_item = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int design_layout_tab_text = 2130903083;
+			public const int mr_controller_material_dialog_b = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int design_menu_item_action_area = 2130903084;
+			public const int mr_controller_volume_item = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int design_navigation_item = 2130903085;
+			public const int mr_playback_control = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int design_navigation_item_header = 2130903086;
+			public const int mr_volume_control = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int design_navigation_item_separator = 2130903087;
+			public const int notification_action = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int design_navigation_item_subheader = 2130903088;
+			public const int notification_action_tombstone = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int design_navigation_menu = 2130903089;
+			public const int notification_media_action = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int design_navigation_menu_item = 2130903090;
+			public const int notification_media_cancel_action = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int design_text_input_password_icon = 2130903091;
+			public const int notification_template_big_media = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int dialoglayout = 2130903092;
+			public const int notification_template_big_media_custom = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int dialoglayout_edge = 2130903093;
+			public const int notification_template_big_media_narrow = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int dialoglayout_fullscreen = 2130903094;
+			public const int notification_template_big_media_narrow_custom = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int edittextwidget = 2130903095;
+			public const int notification_template_custom_big = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int form = 2130903096;
+			public const int notification_template_icon_group = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int formlayout = 2130903097;
+			public const int notification_template_lines_media = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int formlayoutdetailonly = 2130903098;
+			public const int notification_template_media = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int formlayoutleftdetail = 2130903099;
+			public const int notification_template_media_custom = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int formlayoutrightdetail = 2130903100;
+			public const int notification_template_part_chronometer = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int formlayoutrowdetail = 2130903101;
+			public const int notification_template_part_time = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int formsectionlayout = 2130903102;
+			public const int select_dialog_item_material = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int formseparator = 2130903103;
+			public const int select_dialog_multichoice_material = 2130903103;
 			
 			// aapt resource value: 0x7f030040
-			public const int fragmentactivitylayout = 2130903104;
+			public const int select_dialog_singlechoice_material = 2130903104;
 			
 			// aapt resource value: 0x7f030041
-			public const int gridcontent = 2130903105;
+			public const int support_simple_spinner_dropdown_item = 2130903105;
 			
 			// aapt resource value: 0x7f030042
-			public const int hyperlinkwidget = 2130903106;
+			public const int Tabbar = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int imagepickerwidget = 2130903107;
-			
-			// aapt resource value: 0x7f030044
-			public const int imageviewwidget = 2130903108;
-			
-			// aapt resource value: 0x7f030045
-			public const int imagewidget = 2130903109;
-			
-			// aapt resource value: 0x7f030046
-			public const int listgroupsectionheaderlayout = 2130903110;
-			
-			// aapt resource value: 0x7f030047
-			public const int listgroupsectionlayout = 2130903111;
-			
-			// aapt resource value: 0x7f030048
-			public const int listviewfooterlayout = 2130903112;
-			
-			// aapt resource value: 0x7f030049
-			public const int listviewheaderlayout = 2130903113;
-			
-			// aapt resource value: 0x7f03004a
-			public const int listviewprogressbarlayout = 2130903114;
-			
-			// aapt resource value: 0x7f03004b
-			public const int listviewwidgetlayout = 2130903115;
-			
-			// aapt resource value: 0x7f03004c
-			public const int maincontainer = 2130903116;
-			
-			// aapt resource value: 0x7f03004d
-			public const int masterdetailfragmentlayout = 2130903117;
-			
-			// aapt resource value: 0x7f03004e
-			public const int messageinputviewlayout = 2130903118;
-			
-			// aapt resource value: 0x7f03004f
-			public const int mr_chooser_dialog = 2130903119;
-			
-			// aapt resource value: 0x7f030050
-			public const int mr_chooser_list_item = 2130903120;
-			
-			// aapt resource value: 0x7f030051
-			public const int mr_controller_material_dialog_b = 2130903121;
-			
-			// aapt resource value: 0x7f030052
-			public const int mr_controller_volume_item = 2130903122;
-			
-			// aapt resource value: 0x7f030053
-			public const int mr_playback_control = 2130903123;
-			
-			// aapt resource value: 0x7f030054
-			public const int mr_volume_control = 2130903124;
-			
-			// aapt resource value: 0x7f030055
-			public const int navigationdrawerlayout = 2130903125;
-			
-			// aapt resource value: 0x7f030056
-			public const int notification_action = 2130903126;
-			
-			// aapt resource value: 0x7f030057
-			public const int notification_action_tombstone = 2130903127;
-			
-			// aapt resource value: 0x7f030058
-			public const int notification_media_action = 2130903128;
-			
-			// aapt resource value: 0x7f030059
-			public const int notification_media_cancel_action = 2130903129;
-			
-			// aapt resource value: 0x7f03005a
-			public const int notification_template_big_media = 2130903130;
-			
-			// aapt resource value: 0x7f03005b
-			public const int notification_template_big_media_custom = 2130903131;
-			
-			// aapt resource value: 0x7f03005c
-			public const int notification_template_big_media_narrow = 2130903132;
-			
-			// aapt resource value: 0x7f03005d
-			public const int notification_template_big_media_narrow_custom = 2130903133;
-			
-			// aapt resource value: 0x7f03005e
-			public const int notification_template_custom_big = 2130903134;
-			
-			// aapt resource value: 0x7f03005f
-			public const int notification_template_icon_group = 2130903135;
-			
-			// aapt resource value: 0x7f030060
-			public const int notification_template_lines_media = 2130903136;
-			
-			// aapt resource value: 0x7f030061
-			public const int notification_template_media = 2130903137;
-			
-			// aapt resource value: 0x7f030062
-			public const int notification_template_media_custom = 2130903138;
-			
-			// aapt resource value: 0x7f030063
-			public const int notification_template_part_chronometer = 2130903139;
-			
-			// aapt resource value: 0x7f030064
-			public const int notification_template_part_time = 2130903140;
-			
-			// aapt resource value: 0x7f030065
-			public const int numericstepperlayout = 2130903141;
-			
-			// aapt resource value: 0x7f030066
-			public const int numericstepperwidget = 2130903142;
-			
-			// aapt resource value: 0x7f030067
-			public const int paralax_image = 2130903143;
-			
-			// aapt resource value: 0x7f030068
-			public const int radiobuttonwidget = 2130903144;
-			
-			// aapt resource value: 0x7f030069
-			public const int roundedbuttonlayout = 2130903145;
-			
-			// aapt resource value: 0x7f03006a
-			public const int sectionimageswithfieldslayout = 2130903146;
-			
-			// aapt resource value: 0x7f03006b
-			public const int sectionlayout = 2130903147;
-			
-			// aapt resource value: 0x7f03006c
-			public const int seekbarwidget = 2130903148;
-			
-			// aapt resource value: 0x7f03006d
-			public const int select_dialog_item_material = 2130903149;
-			
-			// aapt resource value: 0x7f03006e
-			public const int select_dialog_multichoice_material = 2130903150;
-			
-			// aapt resource value: 0x7f03006f
-			public const int select_dialog_singlechoice_material = 2130903151;
-			
-			// aapt resource value: 0x7f030070
-			public const int selectionwidget = 2130903152;
-			
-			// aapt resource value: 0x7f030071
-			public const int simplegriditem = 2130903153;
-			
-			// aapt resource value: 0x7f030072
-			public const int simpleimageitem = 2130903154;
-			
-			// aapt resource value: 0x7f030073
-			public const int simplelistviewwidget1 = 2130903155;
-			
-			// aapt resource value: 0x7f030074
-			public const int simplelistviewwidget2 = 2130903156;
-			
-			// aapt resource value: 0x7f030075
-			public const int simplelistviewwidgetimage = 2130903157;
-			
-			// aapt resource value: 0x7f030076
-			public const int spinnerdropdownitemlayout = 2130903158;
-			
-			// aapt resource value: 0x7f030077
-			public const int spinnerlayout = 2130903159;
-			
-			// aapt resource value: 0x7f030078
-			public const int spinnerwidget = 2130903160;
-			
-			// aapt resource value: 0x7f030079
-			public const int strippageindicator = 2130903161;
-			
-			// aapt resource value: 0x7f03007a
-			public const int support_simple_spinner_dropdown_item = 2130903162;
-			
-			// aapt resource value: 0x7f03007b
-			public const int switchwidget = 2130903163;
-			
-			// aapt resource value: 0x7f03007c
-			public const int Tabbar = 2130903164;
-			
-			// aapt resource value: 0x7f03007d
-			public const int tabcontainer = 2130903165;
-			
-			// aapt resource value: 0x7f03007e
-			public const int tabfragmentlayout = 2130903166;
-			
-			// aapt resource value: 0x7f03007f
-			public const int tablecellleftdetail = 2130903167;
-			
-			// aapt resource value: 0x7f030080
-			public const int tablecellrightdetail = 2130903168;
-			
-			// aapt resource value: 0x7f030081
-			public const int tablecellsubtitle = 2130903169;
-			
-			// aapt resource value: 0x7f030082
-			public const int tablecellsubtitlewithimage = 2130903170;
-			
-			// aapt resource value: 0x7f030083
-			public const int textfieldview = 2130903171;
-			
-			// aapt resource value: 0x7f030084
-			public const int textwidget = 2130903172;
-			
-			// aapt resource value: 0x7f030085
-			public const int timepickerwidget = 2130903173;
-			
-			// aapt resource value: 0x7f030086
-			public const int toast = 2130903174;
-			
-			// aapt resource value: 0x7f030087
-			public const int toastlayout = 2130903175;
-			
-			// aapt resource value: 0x7f030088
-			public const int toastshadow = 2130903176;
-			
-			// aapt resource value: 0x7f030089
-			public const int toastshape = 2130903177;
-			
-			// aapt resource value: 0x7f03008a
-			public const int Toolbar = 2130903178;
-			
-			// aapt resource value: 0x7f03008b
-			public const int viewpagerindicatortab = 2130903179;
-			
-			// aapt resource value: 0x7f03008c
-			public const int viewpagerwithtab = 2130903180;
-			
-			// aapt resource value: 0x7f03008d
-			public const int viewpagerwithtabstrip = 2130903181;
-			
-			// aapt resource value: 0x7f03008e
-			public const int viewslider = 2130903182;
+			public const int Toolbar = 2130903107;
 			
 			static Layout()
 			{
@@ -5472,60 +3624,6 @@ namespace SampleProject.Droid
 		
 		public partial class String
 		{
-			
-			// aapt resource value: 0x7f090041
-			public const int Add = 2131296321;
-			
-			// aapt resource value: 0x7f090052
-			public const int AddPhoto = 2131296338;
-			
-			// aapt resource value: 0x7f09003f
-			public const int ApplicationName = 2131296319;
-			
-			// aapt resource value: 0x7f090042
-			public const int Cancel = 2131296322;
-			
-			// aapt resource value: 0x7f090043
-			public const int CheckAll = 2131296323;
-			
-			// aapt resource value: 0x7f090044
-			public const int ChooseFromGallery = 2131296324;
-			
-			// aapt resource value: 0x7f090045
-			public const int CloseDrawer = 2131296325;
-			
-			// aapt resource value: 0x7f090046
-			public const int Delete = 2131296326;
-			
-			// aapt resource value: 0x7f090047
-			public const int DeleteImage = 2131296327;
-			
-			// aapt resource value: 0x7f090053
-			public const int EditPhoto = 2131296339;
-			
-			// aapt resource value: 0x7f09003e
-			public const int Hello = 2131296318;
-			
-			// aapt resource value: 0x7f090048
-			public const int More = 2131296328;
-			
-			// aapt resource value: 0x7f090049
-			public const int OK = 2131296329;
-			
-			// aapt resource value: 0x7f09004a
-			public const int OpenDrawer = 2131296330;
-			
-			// aapt resource value: 0x7f09004b
-			public const int Save = 2131296331;
-			
-			// aapt resource value: 0x7f09004c
-			public const int SelectImage = 2131296332;
-			
-			// aapt resource value: 0x7f09004d
-			public const int TakePhoto = 2131296333;
-			
-			// aapt resource value: 0x7f09004e
-			public const int UncheckAll = 2131296334;
 			
 			// aapt resource value: 0x7f090015
 			public const int abc_action_bar_home_description = 2131296277;
@@ -5707,20 +3805,8 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f09003d
 			public const int path_password_strike_through = 2131296317;
 			
-			// aapt resource value: 0x7f09004f
-			public const int pull_to_refresh_pull_label = 2131296335;
-			
-			// aapt resource value: 0x7f090051
-			public const int pull_to_refresh_refreshing_label = 2131296337;
-			
-			// aapt resource value: 0x7f090050
-			public const int pull_to_refresh_release_label = 2131296336;
-			
 			// aapt resource value: 0x7f090028
 			public const int search_menu_title = 2131296296;
-			
-			// aapt resource value: 0x7f090040
-			public const int spb_default_speed = 2131296320;
 			
 			// aapt resource value: 0x7f090029
 			public const int status_bar_notification_info_overflow = 2131296297;
@@ -5753,8 +3839,8 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0b0170
 			public const int Animation_Design_BottomSheetDialog = 2131427696;
 			
-			// aapt resource value: 0x7f0b019a
-			public const int AppCompatDialogStyle = 2131427738;
+			// aapt resource value: 0x7f0b018b
+			public const int AppCompatDialogStyle = 2131427723;
 			
 			// aapt resource value: 0x7f0b00b2
 			public const int Base_AlertDialog_AppCompat = 2131427506;
@@ -6221,9 +4307,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0b0172
 			public const int Base_Widget_Design_TabLayout = 2131427698;
 			
-			// aapt resource value: 0x7f0b0196
-			public const int BulletPageIndicator = 2131427734;
-			
 			// aapt resource value: 0x7f0b000b
 			public const int CardView = 2131427339;
 			
@@ -6233,20 +4316,11 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0b000e
 			public const int CardView_Light = 2131427342;
 			
-			// aapt resource value: 0x7f0b018a
-			public const int GridItem = 2131427722;
-			
 			// aapt resource value: 0x7f0b0189
-			public const int ListItem = 2131427721;
+			public const int MainTheme = 2131427721;
 			
-			// aapt resource value: 0x7f0b0198
-			public const int MainTheme = 2131427736;
-			
-			// aapt resource value: 0x7f0b0199
-			public const int MainTheme_Base = 2131427737;
-			
-			// aapt resource value: 0x7f0b0195
-			public const int PageIndicator = 2131427733;
+			// aapt resource value: 0x7f0b018a
+			public const int MainTheme_Base = 2131427722;
 			
 			// aapt resource value: 0x7f0b002d
 			public const int Platform_AppCompat = 2131427373;
@@ -6331,12 +4405,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0b004d
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131427405;
-			
-			// aapt resource value: 0x7f0b018c
-			public const int SmoothProgressBar = 2131427724;
-			
-			// aapt resource value: 0x7f0b0197
-			public const int StripPageIndicator = 2131427735;
 			
 			// aapt resource value: 0x7f0b00dd
 			public const int TextAppearance_AppCompat = 2131427549;
@@ -6509,9 +4577,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0b010d
 			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131427597;
 			
-			// aapt resource value: 0x7f0b018d
-			public const int TextAppearance_Custom_PtrHeader_Title = 2131427725;
-			
 			// aapt resource value: 0x7f0b0173
 			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131427699;
 			
@@ -6542,9 +4607,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0b0002
 			public const int TextAppearance_MediaRouter_Title = 2131427330;
 			
-			// aapt resource value: 0x7f0b018b
-			public const int TextAppearance_Small = 2131427723;
-			
 			// aapt resource value: 0x7f0b003b
 			public const int TextAppearance_StatusBar_EventContent = 2131427387;
 			
@@ -6568,9 +4630,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0b0110
 			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131427600;
-			
-			// aapt resource value: 0x7f0b018e
-			public const int TextViewStyle = 2131427726;
 			
 			// aapt resource value: 0x7f0b0111
 			public const int Theme_AppCompat = 2131427601;
@@ -6653,9 +4712,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0b017f
 			public const int Theme_Design_NoActionBar = 2131427711;
 			
-			// aapt resource value: 0x7f0b018f
-			public const int Theme_Holo_CustomPtrHeader = 2131427727;
-			
 			// aapt resource value: 0x7f0b0003
 			public const int Theme_MediaRouter = 2131427331;
 			
@@ -6667,15 +4723,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0b0006
 			public const int Theme_MediaRouter_LightControlPanel = 2131427334;
-			
-			// aapt resource value: 0x7f0b0194
-			public const int Theme_PageIndicatorDefaults = 2131427732;
-			
-			// aapt resource value: 0x7f0b0190
-			public const int Theme_SmoothProgressBarDefaults = 2131427728;
-			
-			// aapt resource value: 0x7f0b0193
-			public const int ThemeHoloLightDockEdge = 2131427731;
 			
 			// aapt resource value: 0x7f0b011f
 			public const int ThemeOverlay_AppCompat = 2131427615;
@@ -6926,9 +4973,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f0b016d
 			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131427693;
 			
-			// aapt resource value: 0x7f0b0192
-			public const int Widget_Custom_PtrHeader = 2131427730;
-			
 			// aapt resource value: 0x7f0b016f
 			public const int Widget_Design_AppBarLayout = 2131427695;
 			
@@ -6967,9 +5011,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0x7f0b000a
 			public const int Widget_MediaRouter_MediaRouteButton = 2131427338;
-			
-			// aapt resource value: 0x7f0b0191
-			public const int Widget_ProgressBar_PullToRefresh = 2131427729;
 			
 			static Style()
 			{
@@ -7794,40 +5835,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 2
 			public const int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
 			
-			public static int[] BulletPageIndicator = new int[] {
-					2130772356,
-					2130772357,
-					2130772358,
-					2130772359,
-					2130772360,
-					2130772361,
-					2130772362,
-					2130772363};
-			
-			// aapt resource value: 0
-			public const int BulletPageIndicator_centered = 0;
-			
-			// aapt resource value: 1
-			public const int BulletPageIndicator_fillColor = 1;
-			
-			// aapt resource value: 3
-			public const int BulletPageIndicator_orientation = 3;
-			
-			// aapt resource value: 2
-			public const int BulletPageIndicator_pageColor = 2;
-			
-			// aapt resource value: 4
-			public const int BulletPageIndicator_radius = 4;
-			
-			// aapt resource value: 5
-			public const int BulletPageIndicator_snap = 5;
-			
-			// aapt resource value: 6
-			public const int BulletPageIndicator_strokeColor = 6;
-			
-			// aapt resource value: 7
-			public const int BulletPageIndicator_strokeWidth = 7;
-			
 			public static int[] ButtonBarLayout = new int[] {
 					2130772156};
 			
@@ -8200,44 +6207,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
-			public static int[] ListView = new int[] {
-					2130772344,
-					2130772345,
-					2130772346,
-					2130772347,
-					2130772348,
-					2130772349,
-					2130772350,
-					2130772351,
-					2130772352};
-			
-			// aapt resource value: 6
-			public const int ListView_AnimateOnNewItems = 6;
-			
-			// aapt resource value: 5
-			public const int ListView_FastScrollLetters = 5;
-			
-			// aapt resource value: 4
-			public const int ListView_FooterLayoutId = 4;
-			
-			// aapt resource value: 1
-			public const int ListView_GroupItemLayoutId = 1;
-			
-			// aapt resource value: 3
-			public const int ListView_HeaderLayoutId = 3;
-			
-			// aapt resource value: 2
-			public const int ListView_InteractionMode = 2;
-			
-			// aapt resource value: 0
-			public const int ListView_ItemLayoutId = 0;
-			
-			// aapt resource value: 8
-			public const int ListView_ProgressBarId = 8;
-			
-			// aapt resource value: 7
-			public const int ListView_ProgressBarLayoutId = 7;
-			
 			public static int[] MediaRouteButton = new int[] {
 					16843071,
 					16843072,
@@ -8432,34 +6401,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 4
 			public const int NavigationView_menu = 4;
 			
-			public static int[] NumericStepper = new int[] {
-					16842788,
-					2130772331,
-					2130772332,
-					2130772333};
-			
-			// aapt resource value: 0
-			public const int NumericStepper_android_value = 0;
-			
-			// aapt resource value: 2
-			public const int NumericStepper_maxValue = 2;
-			
-			// aapt resource value: 1
-			public const int NumericStepper_minValue = 1;
-			
-			// aapt resource value: 3
-			public const int NumericStepper_step = 3;
-			
-			public static int[] PageIndicator = new int[] {
-					2130772354,
-					2130772355};
-			
-			// aapt resource value: 0
-			public const int PageIndicator_vpiBulletPageIndicatorStyle = 0;
-			
-			// aapt resource value: 1
-			public const int PageIndicator_vpiStripPageIndicatorStyle = 1;
-			
 			public static int[] PopupWindow = new int[] {
 					16843126,
 					16843465,
@@ -8479,50 +6420,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
-			
-			public static int[] PullToRefreshHeader = new int[] {
-					2130772311,
-					2130772312,
-					2130772313,
-					2130772314,
-					2130772315,
-					2130772316,
-					2130772317,
-					2130772318,
-					2130772319};
-			
-			// aapt resource value: 0
-			public const int PullToRefreshHeader_ptrHeaderBackground = 0;
-			
-			// aapt resource value: 1
-			public const int PullToRefreshHeader_ptrHeaderHeight = 1;
-			
-			// aapt resource value: 2
-			public const int PullToRefreshHeader_ptrHeaderTitleTextAppearance = 2;
-			
-			// aapt resource value: 3
-			public const int PullToRefreshHeader_ptrProgressBarColor = 3;
-			
-			// aapt resource value: 5
-			public const int PullToRefreshHeader_ptrProgressBarHeight = 5;
-			
-			// aapt resource value: 4
-			public const int PullToRefreshHeader_ptrProgressBarStyle = 4;
-			
-			// aapt resource value: 6
-			public const int PullToRefreshHeader_ptrPullText = 6;
-			
-			// aapt resource value: 7
-			public const int PullToRefreshHeader_ptrRefreshingText = 7;
-			
-			// aapt resource value: 8
-			public const int PullToRefreshHeader_ptrReleaseText = 8;
-			
-			public static int[] PullToRefreshView = new int[] {
-					2130772309};
-			
-			// aapt resource value: 0
-			public const int PullToRefreshView_ptrViewDelegateClass = 0;
 			
 			public static int[] RecycleListView = new int[] {
 					2130772179,
@@ -8559,58 +6456,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 5
 			public const int RecyclerView_stackFromEnd = 5;
-			
-			public static int[] RoundedButton = new int[] {
-					16843037,
-					2130772334,
-					2130772335,
-					2130772336,
-					2130772337,
-					2130772338,
-					2130772339,
-					2130772340,
-					2130772341,
-					2130772342,
-					2130772343};
-			
-			// aapt resource value: 0
-			public const int RoundedButton_android_scaleType = 0;
-			
-			// aapt resource value: 6
-			public const int RoundedButton_contentStyle = 6;
-			
-			// aapt resource value: 3
-			public const int RoundedButton_imageBackground = 3;
-			
-			// aapt resource value: 2
-			public const int RoundedButton_imageSrc = 2;
-			
-			// aapt resource value: 1
-			public const int RoundedButton_isToggle = 1;
-			
-			// aapt resource value: 8
-			public const int RoundedButton_subtitleColor = 8;
-			
-			// aapt resource value: 5
-			public const int RoundedButton_subtitleText = 5;
-			
-			// aapt resource value: 10
-			public const int RoundedButton_subtitleTextSize = 10;
-			
-			// aapt resource value: 7
-			public const int RoundedButton_titleColor = 7;
-			
-			// aapt resource value: 4
-			public const int RoundedButton_titleText = 4;
-			
-			// aapt resource value: 9
-			public const int RoundedButton_titleTextSize = 9;
-			
-			public static int[] RoundedImageView = new int[] {
-					2130772353};
-			
-			// aapt resource value: 0
-			public const int RoundedImageView_cornerRadius = 0;
 			
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130772276};
@@ -8694,48 +6539,6 @@ namespace SampleProject.Droid
 			// aapt resource value: 12
 			public const int SearchView_voiceIcon = 12;
 			
-			public static int[] SmoothProgressBar = new int[] {
-					2130772320,
-					2130772321,
-					2130772322,
-					2130772323,
-					2130772324,
-					2130772325,
-					2130772326,
-					2130772327,
-					2130772328,
-					2130772329};
-			
-			// aapt resource value: 0
-			public const int SmoothProgressBar_spbStyle = 0;
-			
-			// aapt resource value: 1
-			public const int SmoothProgressBar_spb_color = 1;
-			
-			// aapt resource value: 9
-			public const int SmoothProgressBar_spb_colors = 9;
-			
-			// aapt resource value: 6
-			public const int SmoothProgressBar_spb_interpolator = 6;
-			
-			// aapt resource value: 8
-			public const int SmoothProgressBar_spb_mirror_mode = 8;
-			
-			// aapt resource value: 7
-			public const int SmoothProgressBar_spb_reversed = 7;
-			
-			// aapt resource value: 4
-			public const int SmoothProgressBar_spb_sections_count = 4;
-			
-			// aapt resource value: 5
-			public const int SmoothProgressBar_spb_speed = 5;
-			
-			// aapt resource value: 3
-			public const int SmoothProgressBar_spb_stroke_separator_length = 3;
-			
-			// aapt resource value: 2
-			public const int SmoothProgressBar_spb_stroke_width = 2;
-			
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
 					2130772024,
@@ -8771,28 +6574,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 4
 			public const int Spinner_popupTheme = 4;
-			
-			public static int[] StripPageIndicator = new int[] {
-					16842964,
-					2130772364,
-					2130772365,
-					2130772366,
-					2130772367};
-			
-			// aapt resource value: 0
-			public const int StripPageIndicator_android_background = 0;
-			
-			// aapt resource value: 2
-			public const int StripPageIndicator_fadeDelay = 2;
-			
-			// aapt resource value: 3
-			public const int StripPageIndicator_fadeLength = 3;
-			
-			// aapt resource value: 1
-			public const int StripPageIndicator_fades = 1;
-			
-			// aapt resource value: 4
-			public const int StripPageIndicator_selectedColor = 4;
 			
 			public static int[] SwitchCompat = new int[] {
 					16843044,
@@ -9039,12 +6820,6 @@ namespace SampleProject.Droid
 			
 			// aapt resource value: 15
 			public const int TextInputLayout_passwordToggleTintMode = 15;
-			
-			public static int[] ToogleImageButton = new int[] {
-					2130772330};
-			
-			// aapt resource value: 0
-			public const int ToogleImageButton_checked = 0;
 			
 			public static int[] Toolbar = new int[] {
 					16842927,

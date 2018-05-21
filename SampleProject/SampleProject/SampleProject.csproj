@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="TemplateClasses\CustomElements\PageElements\InnerElements\InnerElementsRoundedEntry.cs" />
+    <Compile Remove="TemplateClasses\CustomElements\PageElements\RoundedEntry.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
     <PackageReference Include="Xamarin.Forms" Version="2.5.0.280555" />
   </ItemGroup>
@@ -19,6 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="TemplateClasses\CustomElements\Charts\" />
+    <Folder Include="TemplateClasses\CustomElements\Pages\" />
   </ItemGroup>
 </Project>

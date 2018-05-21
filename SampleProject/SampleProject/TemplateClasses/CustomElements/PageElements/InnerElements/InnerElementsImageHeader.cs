@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace SampleProject.TemplateClasses.CustomElements
+namespace SampleProject.TemplateClasses.CustomElements.PageElements.InnerElements
 {
     public class InnerElementsImageHeader : View
     {

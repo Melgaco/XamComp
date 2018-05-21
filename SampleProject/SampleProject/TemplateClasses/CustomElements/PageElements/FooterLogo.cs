@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Xamarin.Forms;
 
-namespace SampleProject.TemplateClasses.CustomElements
+namespace SampleProject.TemplateClasses.CustomElements.PageElements
 {
     public class FooterLogo : ContentView
     {

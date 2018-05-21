@@ -1,5 +1,6 @@
 ﻿using SampleProject.TemplateClasses;
 using SampleProject.TemplateClasses.CustomElements;
+using SampleProject.TemplateClasses.CustomElements.Contents;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +31,13 @@ namespace SampleProject
             };
             var fl = listContent.MountFooterLogo(footerList);
             MainGrid.Children.Add(fl);*/
+
+            //TESTING ROUNDED ENTRY
+            /*var roundedEntry = listContent.MountRoundedEntry(
+                new Entry() { WidthRequest = 200  }, "https://image.flaticon.com/icons/png/16/34/34202.png",
+                100, LayoutOptions.Center, LayoutOptions.Center);
+
+            MainGrid.Children.Add(roundedEntry);*/
         }
 
     }

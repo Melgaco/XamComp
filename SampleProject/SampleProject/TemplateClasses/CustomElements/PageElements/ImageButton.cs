@@ -1,9 +1,10 @@
-﻿using System;
+﻿using SampleProject.TemplateClasses.CustomElements.PageElements.InnerElements;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
 
-namespace SampleProject.TemplateClasses.CustomElements
+namespace SampleProject.TemplateClasses.CustomElements.PageElements
 {
     public class ImageButton : Frame
     {

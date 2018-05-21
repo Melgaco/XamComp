@@ -1,12 +1,14 @@
 ﻿using Newtonsoft.Json;
 using SampleProject.TemplateClasses.CustomElements;
+using SampleProject.TemplateClasses.CustomElements.PageElements;
+using SampleProject.TemplateClasses.CustomElements.PageElements.InnerElements;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace SampleProject.TemplateClasses
+namespace SampleProject.TemplateClasses.CustomElements.Contents
 {
     public partial class ListContent
     {

@@ -458,6 +458,440 @@ namespace SampleProject.Droid
 			global::Intersoft.Crosslight.Android.Resource.Styleable.StripPageIndicator_selectedColor = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_selectedColor;
 			global::Intersoft.Crosslight.Android.Resource.Styleable.ToogleImageButton = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton;
 			global::Intersoft.Crosslight.Android.Resource.Styleable.ToogleImageButton_checked = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton_checked;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_fade_in = global::SampleProject.Droid.Resource.Animation.dialog_fade_in;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_fade_out = global::SampleProject.Droid.Resource.Animation.dialog_fade_out;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_in_down = global::SampleProject.Droid.Resource.Animation.dialog_push_in_down;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_in_up = global::SampleProject.Droid.Resource.Animation.dialog_push_in_up;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_out_down = global::SampleProject.Droid.Resource.Animation.dialog_push_out_down;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_push_out_up = global::SampleProject.Droid.Resource.Animation.dialog_push_out_up;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_in_left = global::SampleProject.Droid.Resource.Animation.dialog_slide_in_left;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_in_right = global::SampleProject.Droid.Resource.Animation.dialog_slide_in_right;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_out_left = global::SampleProject.Droid.Resource.Animation.dialog_slide_out_left;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.dialog_slide_out_right = global::SampleProject.Droid.Resource.Animation.dialog_slide_out_right;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.slide_in_top = global::SampleProject.Droid.Resource.Animation.slide_in_top;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.slide_out_top = global::SampleProject.Droid.Resource.Animation.slide_out_top;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.toast_enter = global::SampleProject.Droid.Resource.Animation.toast_enter;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.toast_exit = global::SampleProject.Droid.Resource.Animation.toast_exit;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_bottomtop = global::SampleProject.Droid.Resource.Animation.transition_bottomtop;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_fadein = global::SampleProject.Droid.Resource.Animation.transition_fadein;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_fadeout = global::SampleProject.Droid.Resource.Animation.transition_fadeout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_leftright = global::SampleProject.Droid.Resource.Animation.transition_leftright;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_rightleft = global::SampleProject.Droid.Resource.Animation.transition_rightleft;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Animation.transition_topbottom = global::SampleProject.Droid.Resource.Animation.transition_topbottom;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Array.select_image_dialog = global::SampleProject.Droid.Resource.Array.select_image_dialog;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.AnimateOnNewItems = global::SampleProject.Droid.Resource.Attribute.AnimateOnNewItems;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.FastScrollLetters = global::SampleProject.Droid.Resource.Attribute.FastScrollLetters;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.FooterLayoutId = global::SampleProject.Droid.Resource.Attribute.FooterLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.GroupItemLayoutId = global::SampleProject.Droid.Resource.Attribute.GroupItemLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.HeaderLayoutId = global::SampleProject.Droid.Resource.Attribute.HeaderLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.InteractionMode = global::SampleProject.Droid.Resource.Attribute.InteractionMode;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ItemLayoutId = global::SampleProject.Droid.Resource.Attribute.ItemLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ProgressBarId = global::SampleProject.Droid.Resource.Attribute.ProgressBarId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ProgressBarLayoutId = global::SampleProject.Droid.Resource.Attribute.ProgressBarLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.centered = global::SampleProject.Droid.Resource.Attribute.centered;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.@checked = global::SampleProject.Droid.Resource.Attribute.@checked;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.contentStyle = global::SampleProject.Droid.Resource.Attribute.contentStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.cornerRadius = global::SampleProject.Droid.Resource.Attribute.cornerRadius;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fadeDelay = global::SampleProject.Droid.Resource.Attribute.fadeDelay;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fadeLength = global::SampleProject.Droid.Resource.Attribute.fadeLength;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fades = global::SampleProject.Droid.Resource.Attribute.fades;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.fillColor = global::SampleProject.Droid.Resource.Attribute.fillColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.imageBackground = global::SampleProject.Droid.Resource.Attribute.imageBackground;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.imageSrc = global::SampleProject.Droid.Resource.Attribute.imageSrc;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.isToggle = global::SampleProject.Droid.Resource.Attribute.isToggle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.maxValue = global::SampleProject.Droid.Resource.Attribute.maxValue;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.minValue = global::SampleProject.Droid.Resource.Attribute.minValue;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.orientation = global::SampleProject.Droid.Resource.Attribute.orientation;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.pageColor = global::SampleProject.Droid.Resource.Attribute.pageColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderBackground = global::SampleProject.Droid.Resource.Attribute.ptrHeaderBackground;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderHeight = global::SampleProject.Droid.Resource.Attribute.ptrHeaderHeight;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderStyle = global::SampleProject.Droid.Resource.Attribute.ptrHeaderStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrHeaderTitleTextAppearance = global::SampleProject.Droid.Resource.Attribute.ptrHeaderTitleTextAppearance;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrProgressBarColor = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrProgressBarHeight = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarHeight;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrProgressBarStyle = global::SampleProject.Droid.Resource.Attribute.ptrProgressBarStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrPullText = global::SampleProject.Droid.Resource.Attribute.ptrPullText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrRefreshingText = global::SampleProject.Droid.Resource.Attribute.ptrRefreshingText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrReleaseText = global::SampleProject.Droid.Resource.Attribute.ptrReleaseText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.ptrViewDelegateClass = global::SampleProject.Droid.Resource.Attribute.ptrViewDelegateClass;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.radius = global::SampleProject.Droid.Resource.Attribute.radius;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.selectedColor = global::SampleProject.Droid.Resource.Attribute.selectedColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.snap = global::SampleProject.Droid.Resource.Attribute.snap;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spbStyle = global::SampleProject.Droid.Resource.Attribute.spbStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_color = global::SampleProject.Droid.Resource.Attribute.spb_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_colors = global::SampleProject.Droid.Resource.Attribute.spb_colors;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_interpolator = global::SampleProject.Droid.Resource.Attribute.spb_interpolator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_mirror_mode = global::SampleProject.Droid.Resource.Attribute.spb_mirror_mode;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_reversed = global::SampleProject.Droid.Resource.Attribute.spb_reversed;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_sections_count = global::SampleProject.Droid.Resource.Attribute.spb_sections_count;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_speed = global::SampleProject.Droid.Resource.Attribute.spb_speed;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_stroke_separator_length = global::SampleProject.Droid.Resource.Attribute.spb_stroke_separator_length;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.spb_stroke_width = global::SampleProject.Droid.Resource.Attribute.spb_stroke_width;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.step = global::SampleProject.Droid.Resource.Attribute.step;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.strokeColor = global::SampleProject.Droid.Resource.Attribute.strokeColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.strokeWidth = global::SampleProject.Droid.Resource.Attribute.strokeWidth;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.subtitleColor = global::SampleProject.Droid.Resource.Attribute.subtitleColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.subtitleText = global::SampleProject.Droid.Resource.Attribute.subtitleText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.subtitleTextSize = global::SampleProject.Droid.Resource.Attribute.subtitleTextSize;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.titleColor = global::SampleProject.Droid.Resource.Attribute.titleColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.titleText = global::SampleProject.Droid.Resource.Attribute.titleText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.titleTextSize = global::SampleProject.Droid.Resource.Attribute.titleTextSize;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.vpiBulletPageIndicatorStyle = global::SampleProject.Droid.Resource.Attribute.vpiBulletPageIndicatorStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Attribute.vpiStripPageIndicatorStyle = global::SampleProject.Droid.Resource.Attribute.vpiStripPageIndicatorStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.default_bullet_indicator_centered = global::SampleProject.Droid.Resource.Boolean.default_bullet_indicator_centered;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.default_bullet_indicator_snap = global::SampleProject.Droid.Resource.Boolean.default_bullet_indicator_snap;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.default_strip_indicator_fades = global::SampleProject.Droid.Resource.Boolean.default_strip_indicator_fades;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.spb_default_mirror_mode = global::SampleProject.Droid.Resource.Boolean.spb_default_mirror_mode;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Boolean.spb_default_reversed = global::SampleProject.Droid.Resource.Boolean.spb_default_reversed;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.bright_foreground_dark = global::SampleProject.Droid.Resource.Color.bright_foreground_dark;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_bullet_indicator_fill_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_fill_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_bullet_indicator_page_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_page_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_bullet_indicator_stroke_color = global::SampleProject.Droid.Resource.Color.default_bullet_indicator_stroke_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_progress_bar_color = global::SampleProject.Droid.Resource.Color.default_progress_bar_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.default_strip_indicator_selected_color = global::SampleProject.Droid.Resource.Color.default_strip_indicator_selected_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.gridviewbackgroundselector = global::SampleProject.Droid.Resource.Color.gridviewbackgroundselector;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.holo_dark_green = global::SampleProject.Droid.Resource.Color.holo_dark_green;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.listviewbackgroundselector = global::SampleProject.Droid.Resource.Color.listviewbackgroundselector;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.spb_default_color = global::SampleProject.Droid.Resource.Color.spb_default_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__background_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__background_holo_dark;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__background_holo_light = global::SampleProject.Droid.Resource.Color.vpi__background_holo_light;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_holo_dark;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_holo_light;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::SampleProject.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Color.vpi__dark_theme = global::SampleProject.Droid.Resource.Color.vpi__dark_theme;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.default_bullet_indicator_radius = global::SampleProject.Droid.Resource.Dimension.default_bullet_indicator_radius;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.default_bullet_indicator_stroke_width = global::SampleProject.Droid.Resource.Dimension.default_bullet_indicator_stroke_width;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.ptr_progress_bar_stroke_width = global::SampleProject.Droid.Resource.Dimension.ptr_progress_bar_stroke_width;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.spb_default_stroke_separator_length = global::SampleProject.Droid.Resource.Dimension.spb_default_stroke_separator_length;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Dimension.spb_default_stroke_width = global::SampleProject.Droid.Resource.Dimension.spb_default_stroke_width;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.btn_check_off_focused_holo_dark = global::SampleProject.Droid.Resource.Drawable.btn_check_off_focused_holo_dark;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.btn_check_on_pressed_holo_dark = global::SampleProject.Droid.Resource.Drawable.btn_check_on_pressed_holo_dark;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.ic_drawer = global::SampleProject.Droid.Resource.Drawable.ic_drawer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.leftdrawershadow = global::SampleProject.Droid.Resource.Drawable.leftdrawershadow;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.rightdrawershadow = global::SampleProject.Droid.Resource.Drawable.rightdrawershadow;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedcorner_checked = global::SampleProject.Droid.Resource.Drawable.roundedcorner_checked;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedcorner_default = global::SampleProject.Droid.Resource.Drawable.roundedcorner_default;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedcorner_pressed = global::SampleProject.Droid.Resource.Drawable.roundedcorner_pressed;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.roundedselector = global::SampleProject.Droid.Resource.Drawable.roundedselector;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.toast_frame_holo = global::SampleProject.Droid.Resource.Drawable.toast_frame_holo;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_indicator = global::SampleProject.Droid.Resource.Drawable.vpi__tab_indicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_selected_focused_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_focused_holo;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_selected_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_holo;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_selected_pressed_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_selected_pressed_holo;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_unselected_focused_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_focused_holo;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_unselected_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_holo;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Drawable.vpi__tab_unselected_pressed_holo = global::SampleProject.Droid.Resource.Drawable.vpi__tab_unselected_pressed_holo;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.BulletPageIndicator = global::SampleProject.Droid.Resource.Id.BulletPageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ButtonContainer = global::SampleProject.Droid.Resource.Id.ButtonContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ButtonWidget = global::SampleProject.Droid.Resource.Id.ButtonWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.CheckBoxWidget = global::SampleProject.Droid.Resource.Id.CheckBoxWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationDetail = global::SampleProject.Droid.Resource.Id.ChildNavigationDetail;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationImage = global::SampleProject.Droid.Resource.Id.ChildNavigationImage;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationLayout = global::SampleProject.Droid.Resource.Id.ChildNavigationLayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChildNavigationText = global::SampleProject.Droid.Resource.Id.ChildNavigationText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ChoiceInput = global::SampleProject.Droid.Resource.Id.ChoiceInput;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ContentContainer = global::SampleProject.Droid.Resource.Id.ContentContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ContentSeparator = global::SampleProject.Droid.Resource.Id.ContentSeparator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ControlsPlaceholder = global::SampleProject.Droid.Resource.Id.ControlsPlaceholder;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DatePickerWidget = global::SampleProject.Droid.Resource.Id.DatePickerWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DateTimePickerDateWidget = global::SampleProject.Droid.Resource.Id.DateTimePickerDateWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DateTimePickerTextView = global::SampleProject.Droid.Resource.Id.DateTimePickerTextView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DateTimePickerTimeWidget = global::SampleProject.Droid.Resource.Id.DateTimePickerTimeWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogFirstSeparator = global::SampleProject.Droid.Resource.Id.DialogFirstSeparator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogNegativeButton = global::SampleProject.Droid.Resource.Id.DialogNegativeButton;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogNeutralButton = global::SampleProject.Droid.Resource.Id.DialogNeutralButton;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogPositiveButton = global::SampleProject.Droid.Resource.Id.DialogPositiveButton;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogRoot = global::SampleProject.Droid.Resource.Id.DialogRoot;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.DialogSecondSeparator = global::SampleProject.Droid.Resource.Id.DialogSecondSeparator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.EditorContainer = global::SampleProject.Droid.Resource.Id.EditorContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FloatingLayout = global::SampleProject.Droid.Resource.Id.FloatingLayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FooterLayout = global::SampleProject.Droid.Resource.Id.FooterLayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FooterText = global::SampleProject.Droid.Resource.Id.FooterText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FormContainer = global::SampleProject.Droid.Resource.Id.FormContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FormPlaceholder = global::SampleProject.Droid.Resource.Id.FormPlaceholder;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.FormScrollView = global::SampleProject.Droid.Resource.Id.FormScrollView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.GridView = global::SampleProject.Droid.Resource.Id.GridView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HeaderLayout = global::SampleProject.Droid.Resource.Id.HeaderLayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HeaderSeparator = global::SampleProject.Droid.Resource.Id.HeaderSeparator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HeaderText = global::SampleProject.Droid.Resource.Id.HeaderText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkDetail = global::SampleProject.Droid.Resource.Id.HyperlinkDetail;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkImage = global::SampleProject.Droid.Resource.Id.HyperlinkImage;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkLayout = global::SampleProject.Droid.Resource.Id.HyperlinkLayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.HyperlinkText = global::SampleProject.Droid.Resource.Id.HyperlinkText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImageContainer = global::SampleProject.Droid.Resource.Id.ImageContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImagePlaceholder = global::SampleProject.Droid.Resource.Id.ImagePlaceholder;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImageTextView = global::SampleProject.Droid.Resource.Id.ImageTextView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ImageView = global::SampleProject.Droid.Resource.Id.ImageView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.InnerLayout = global::SampleProject.Droid.Resource.Id.InnerLayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.InternalSeekBar = global::SampleProject.Droid.Resource.Id.InternalSeekBar;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Navigation = global::SampleProject.Droid.Resource.Id.Navigation;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.None = global::SampleProject.Droid.Resource.Id.None;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.NumericStepper = global::SampleProject.Droid.Resource.Id.NumericStepper;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.PageIndicatorContainer = global::SampleProject.Droid.Resource.Id.PageIndicatorContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.PagerTabStrip = global::SampleProject.Droid.Resource.Id.PagerTabStrip;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.SelectionWidget = global::SampleProject.Droid.Resource.Id.SelectionWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.SpinnerWidget = global::SampleProject.Droid.Resource.Id.SpinnerWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Standard = global::SampleProject.Droid.Resource.Id.Standard;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.StripPageIndicator = global::SampleProject.Droid.Resource.Id.StripPageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.SubtitleTextView = global::SampleProject.Droid.Resource.Id.SubtitleTextView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Switch = global::SampleProject.Droid.Resource.Id.Switch;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabContainer = global::SampleProject.Droid.Resource.Id.TabContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabIcon = global::SampleProject.Droid.Resource.Id.TabIcon;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabPageIndicator = global::SampleProject.Droid.Resource.Id.TabPageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TabTitle = global::SampleProject.Droid.Resource.Id.TabTitle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Text1 = global::SampleProject.Droid.Resource.Id.Text1;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.Text2 = global::SampleProject.Droid.Resource.Id.Text2;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TimePickerWidget = global::SampleProject.Droid.Resource.Id.TimePickerWidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TitleContainer = global::SampleProject.Droid.Resource.Id.TitleContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TitleText = global::SampleProject.Droid.Resource.Id.TitleText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.TitleTextView = global::SampleProject.Droid.Resource.Id.TitleTextView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ValueText = global::SampleProject.Droid.Resource.Id.ValueText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ViewPager = global::SampleProject.Droid.Resource.Id.ViewPager;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ViewSlider = global::SampleProject.Droid.Resource.Id.ViewSlider;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.center_frame = global::SampleProject.Droid.Resource.Id.center_frame;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.decrease_button = global::SampleProject.Droid.Resource.Id.decrease_button;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.detailFrame = global::SampleProject.Droid.Resource.Id.detailFrame;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.drawer_layout = global::SampleProject.Droid.Resource.Id.drawer_layout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_1 = global::SampleProject.Droid.Resource.Id.form_list_fragment_1;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_10 = global::SampleProject.Droid.Resource.Id.form_list_fragment_10;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_2 = global::SampleProject.Droid.Resource.Id.form_list_fragment_2;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_3 = global::SampleProject.Droid.Resource.Id.form_list_fragment_3;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_4 = global::SampleProject.Droid.Resource.Id.form_list_fragment_4;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_5 = global::SampleProject.Droid.Resource.Id.form_list_fragment_5;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_6 = global::SampleProject.Droid.Resource.Id.form_list_fragment_6;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_7 = global::SampleProject.Droid.Resource.Id.form_list_fragment_7;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_8 = global::SampleProject.Droid.Resource.Id.form_list_fragment_8;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.form_list_fragment_9 = global::SampleProject.Droid.Resource.Id.form_list_fragment_9;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentActivityLayout = global::SampleProject.Droid.Resource.Id.fragmentActivityLayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentBody = global::SampleProject.Droid.Resource.Id.fragmentBody;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentFooter = global::SampleProject.Droid.Resource.Id.fragmentFooter;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.fragmentHeader = global::SampleProject.Droid.Resource.Id.fragmentHeader;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.horizontal = global::SampleProject.Droid.Resource.Id.horizontal;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.image = global::SampleProject.Droid.Resource.Id.image;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.increase_button = global::SampleProject.Droid.Resource.Id.increase_button;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.inside = global::SampleProject.Droid.Resource.Id.inside;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.left_frame = global::SampleProject.Droid.Resource.Id.left_frame;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.left_navdrawer = global::SampleProject.Droid.Resource.Id.left_navdrawer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listContainer = global::SampleProject.Droid.Resource.Id.listContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listViewFooter = global::SampleProject.Droid.Resource.Id.listViewFooter;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listViewHeader = global::SampleProject.Droid.Resource.Id.listViewHeader;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.listViewProgressbar = global::SampleProject.Droid.Resource.Id.listViewProgressbar;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.maincontent_navdrawer = global::SampleProject.Droid.Resource.Id.maincontent_navdrawer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.masterFrame = global::SampleProject.Droid.Resource.Id.masterFrame;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.message_box = global::SampleProject.Droid.Resource.Id.message_box;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.numeric_box = global::SampleProject.Droid.Resource.Id.numeric_box;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.outside = global::SampleProject.Droid.Resource.Id.outside;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.parallax_image = global::SampleProject.Droid.Resource.Id.parallax_image;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.progressContainer = global::SampleProject.Droid.Resource.Id.progressContainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.progress_bar = global::SampleProject.Droid.Resource.Id.progress_bar;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ptr_content = global::SampleProject.Droid.Resource.Id.ptr_content;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ptr_progress = global::SampleProject.Droid.Resource.Id.ptr_progress;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.ptr_text = global::SampleProject.Droid.Resource.Id.ptr_text;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.right_button = global::SampleProject.Droid.Resource.Id.right_button;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.right_frame = global::SampleProject.Droid.Resource.Id.right_frame;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.right_navdrawer = global::SampleProject.Droid.Resource.Id.right_navdrawer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.shared_image = global::SampleProject.Droid.Resource.Id.shared_image;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_accelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_accelerate;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_acceleratedecelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_acceleratedecelerate;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_decelerate = global::SampleProject.Droid.Resource.Id.spb_interpolator_decelerate;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.spb_interpolator_linear = global::SampleProject.Droid.Resource.Id.spb_interpolator_linear;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.subtitle = global::SampleProject.Droid.Resource.Id.subtitle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.title = global::SampleProject.Droid.Resource.Id.title;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Id.vertical = global::SampleProject.Droid.Resource.Id.vertical;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.default_bullet_indicator_orientation = global::SampleProject.Droid.Resource.Integer.default_bullet_indicator_orientation;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.default_strip_indicator_fade_delay = global::SampleProject.Droid.Resource.Integer.default_strip_indicator_fade_delay;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.default_strip_indicator_fade_length = global::SampleProject.Droid.Resource.Integer.default_strip_indicator_fade_length;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.spb_default_interpolator = global::SampleProject.Droid.Resource.Integer.spb_default_interpolator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Integer.spb_default_sections_count = global::SampleProject.Droid.Resource.Integer.spb_default_sections_count;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Interpolator.accelerate_quad = global::SampleProject.Droid.Resource.Interpolator.accelerate_quad;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Interpolator.decelerate_quad = global::SampleProject.Droid.Resource.Interpolator.decelerate_quad;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.activitylargeindicator = global::SampleProject.Droid.Resource.Layout.activitylargeindicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.activitysmallindicator = global::SampleProject.Droid.Resource.Layout.activitysmallindicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.activitytranslucentindicator = global::SampleProject.Droid.Resource.Layout.activitytranslucentindicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.bulletpageindicator = global::SampleProject.Droid.Resource.Layout.bulletpageindicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.buttonwidget = global::SampleProject.Droid.Resource.Layout.buttonwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.checkboxwidget = global::SampleProject.Droid.Resource.Layout.checkboxwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.childnavigationwidget = global::SampleProject.Droid.Resource.Layout.childnavigationwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.datepickerwidget = global::SampleProject.Droid.Resource.Layout.datepickerwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.datetimepickerlayout = global::SampleProject.Droid.Resource.Layout.datetimepickerlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.datetimepickerwidget = global::SampleProject.Droid.Resource.Layout.datetimepickerwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.default_header = global::SampleProject.Droid.Resource.Layout.default_header;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.dialoglayout = global::SampleProject.Droid.Resource.Layout.dialoglayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.dialoglayout_edge = global::SampleProject.Droid.Resource.Layout.dialoglayout_edge;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.dialoglayout_fullscreen = global::SampleProject.Droid.Resource.Layout.dialoglayout_fullscreen;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.edittextwidget = global::SampleProject.Droid.Resource.Layout.edittextwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.form = global::SampleProject.Droid.Resource.Layout.form;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayout = global::SampleProject.Droid.Resource.Layout.formlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutdetailonly = global::SampleProject.Droid.Resource.Layout.formlayoutdetailonly;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutleftdetail = global::SampleProject.Droid.Resource.Layout.formlayoutleftdetail;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutrightdetail = global::SampleProject.Droid.Resource.Layout.formlayoutrightdetail;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formlayoutrowdetail = global::SampleProject.Droid.Resource.Layout.formlayoutrowdetail;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formsectionlayout = global::SampleProject.Droid.Resource.Layout.formsectionlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.formseparator = global::SampleProject.Droid.Resource.Layout.formseparator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.fragmentactivitylayout = global::SampleProject.Droid.Resource.Layout.fragmentactivitylayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.gridcontent = global::SampleProject.Droid.Resource.Layout.gridcontent;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.hyperlinkwidget = global::SampleProject.Droid.Resource.Layout.hyperlinkwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.imagepickerwidget = global::SampleProject.Droid.Resource.Layout.imagepickerwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.imageviewwidget = global::SampleProject.Droid.Resource.Layout.imageviewwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.imagewidget = global::SampleProject.Droid.Resource.Layout.imagewidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listgroupsectionheaderlayout = global::SampleProject.Droid.Resource.Layout.listgroupsectionheaderlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listgroupsectionlayout = global::SampleProject.Droid.Resource.Layout.listgroupsectionlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewfooterlayout = global::SampleProject.Droid.Resource.Layout.listviewfooterlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewheaderlayout = global::SampleProject.Droid.Resource.Layout.listviewheaderlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewprogressbarlayout = global::SampleProject.Droid.Resource.Layout.listviewprogressbarlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.listviewwidgetlayout = global::SampleProject.Droid.Resource.Layout.listviewwidgetlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.maincontainer = global::SampleProject.Droid.Resource.Layout.maincontainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.masterdetailfragmentlayout = global::SampleProject.Droid.Resource.Layout.masterdetailfragmentlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.messageinputviewlayout = global::SampleProject.Droid.Resource.Layout.messageinputviewlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.navigationdrawerlayout = global::SampleProject.Droid.Resource.Layout.navigationdrawerlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.numericstepperlayout = global::SampleProject.Droid.Resource.Layout.numericstepperlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.numericstepperwidget = global::SampleProject.Droid.Resource.Layout.numericstepperwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.paralax_image = global::SampleProject.Droid.Resource.Layout.paralax_image;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.radiobuttonwidget = global::SampleProject.Droid.Resource.Layout.radiobuttonwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.roundedbuttonlayout = global::SampleProject.Droid.Resource.Layout.roundedbuttonlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.sectionimageswithfieldslayout = global::SampleProject.Droid.Resource.Layout.sectionimageswithfieldslayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.sectionlayout = global::SampleProject.Droid.Resource.Layout.sectionlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.seekbarwidget = global::SampleProject.Droid.Resource.Layout.seekbarwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.selectionwidget = global::SampleProject.Droid.Resource.Layout.selectionwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplegriditem = global::SampleProject.Droid.Resource.Layout.simplegriditem;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simpleimageitem = global::SampleProject.Droid.Resource.Layout.simpleimageitem;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplelistviewwidget1 = global::SampleProject.Droid.Resource.Layout.simplelistviewwidget1;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplelistviewwidget2 = global::SampleProject.Droid.Resource.Layout.simplelistviewwidget2;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.simplelistviewwidgetimage = global::SampleProject.Droid.Resource.Layout.simplelistviewwidgetimage;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.spinnerdropdownitemlayout = global::SampleProject.Droid.Resource.Layout.spinnerdropdownitemlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.spinnerlayout = global::SampleProject.Droid.Resource.Layout.spinnerlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.spinnerwidget = global::SampleProject.Droid.Resource.Layout.spinnerwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.strippageindicator = global::SampleProject.Droid.Resource.Layout.strippageindicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.switchwidget = global::SampleProject.Droid.Resource.Layout.switchwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tabcontainer = global::SampleProject.Droid.Resource.Layout.tabcontainer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tabfragmentlayout = global::SampleProject.Droid.Resource.Layout.tabfragmentlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellleftdetail = global::SampleProject.Droid.Resource.Layout.tablecellleftdetail;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellrightdetail = global::SampleProject.Droid.Resource.Layout.tablecellrightdetail;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellsubtitle = global::SampleProject.Droid.Resource.Layout.tablecellsubtitle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.tablecellsubtitlewithimage = global::SampleProject.Droid.Resource.Layout.tablecellsubtitlewithimage;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.textfieldview = global::SampleProject.Droid.Resource.Layout.textfieldview;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.textwidget = global::SampleProject.Droid.Resource.Layout.textwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.timepickerwidget = global::SampleProject.Droid.Resource.Layout.timepickerwidget;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toast = global::SampleProject.Droid.Resource.Layout.toast;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toastlayout = global::SampleProject.Droid.Resource.Layout.toastlayout;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toastshadow = global::SampleProject.Droid.Resource.Layout.toastshadow;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.toastshape = global::SampleProject.Droid.Resource.Layout.toastshape;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewpagerindicatortab = global::SampleProject.Droid.Resource.Layout.viewpagerindicatortab;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewpagerwithtab = global::SampleProject.Droid.Resource.Layout.viewpagerwithtab;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewpagerwithtabstrip = global::SampleProject.Droid.Resource.Layout.viewpagerwithtabstrip;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Layout.viewslider = global::SampleProject.Droid.Resource.Layout.viewslider;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Add = global::SampleProject.Droid.Resource.String.Add;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.AddPhoto = global::SampleProject.Droid.Resource.String.AddPhoto;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.ApplicationName = global::SampleProject.Droid.Resource.String.ApplicationName;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Cancel = global::SampleProject.Droid.Resource.String.Cancel;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.CheckAll = global::SampleProject.Droid.Resource.String.CheckAll;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.ChooseFromGallery = global::SampleProject.Droid.Resource.String.ChooseFromGallery;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.CloseDrawer = global::SampleProject.Droid.Resource.String.CloseDrawer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Delete = global::SampleProject.Droid.Resource.String.Delete;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.DeleteImage = global::SampleProject.Droid.Resource.String.DeleteImage;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.EditPhoto = global::SampleProject.Droid.Resource.String.EditPhoto;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Hello = global::SampleProject.Droid.Resource.String.Hello;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.More = global::SampleProject.Droid.Resource.String.More;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.OK = global::SampleProject.Droid.Resource.String.OK;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.OpenDrawer = global::SampleProject.Droid.Resource.String.OpenDrawer;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.Save = global::SampleProject.Droid.Resource.String.Save;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.SelectImage = global::SampleProject.Droid.Resource.String.SelectImage;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.TakePhoto = global::SampleProject.Droid.Resource.String.TakePhoto;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.UncheckAll = global::SampleProject.Droid.Resource.String.UncheckAll;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.pull_to_refresh_pull_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_pull_label;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.pull_to_refresh_refreshing_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_refreshing_label;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.pull_to_refresh_release_label = global::SampleProject.Droid.Resource.String.pull_to_refresh_release_label;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.String.spb_default_speed = global::SampleProject.Droid.Resource.String.spb_default_speed;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.BulletPageIndicator = global::SampleProject.Droid.Resource.Style.BulletPageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.GridItem = global::SampleProject.Droid.Resource.Style.GridItem;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.ListItem = global::SampleProject.Droid.Resource.Style.ListItem;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.PageIndicator = global::SampleProject.Droid.Resource.Style.PageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.SmoothProgressBar = global::SampleProject.Droid.Resource.Style.SmoothProgressBar;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.StripPageIndicator = global::SampleProject.Droid.Resource.Style.StripPageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.TextAppearance_Custom_PtrHeader_Title = global::SampleProject.Droid.Resource.Style.TextAppearance_Custom_PtrHeader_Title;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.TextAppearance_Small = global::SampleProject.Droid.Resource.Style.TextAppearance_Small;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.TextViewStyle = global::SampleProject.Droid.Resource.Style.TextViewStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Theme_Holo_CustomPtrHeader = global::SampleProject.Droid.Resource.Style.Theme_Holo_CustomPtrHeader;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Theme_PageIndicatorDefaults = global::SampleProject.Droid.Resource.Style.Theme_PageIndicatorDefaults;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Theme_SmoothProgressBarDefaults = global::SampleProject.Droid.Resource.Style.Theme_SmoothProgressBarDefaults;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.ThemeHoloLightDockEdge = global::SampleProject.Droid.Resource.Style.ThemeHoloLightDockEdge;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Widget_Custom_PtrHeader = global::SampleProject.Droid.Resource.Style.Widget_Custom_PtrHeader;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Style.Widget_ProgressBar_PullToRefresh = global::SampleProject.Droid.Resource.Style.Widget_ProgressBar_PullToRefresh;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_centered = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_centered;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_fillColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_fillColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_orientation = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_orientation;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_pageColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_pageColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_radius = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_radius;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_snap = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_snap;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_strokeColor = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_strokeColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.BulletPageIndicator_strokeWidth = global::SampleProject.Droid.Resource.Styleable.BulletPageIndicator_strokeWidth;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView = global::SampleProject.Droid.Resource.Styleable.ListView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_AnimateOnNewItems = global::SampleProject.Droid.Resource.Styleable.ListView_AnimateOnNewItems;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_FastScrollLetters = global::SampleProject.Droid.Resource.Styleable.ListView_FastScrollLetters;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_FooterLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_FooterLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_GroupItemLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_GroupItemLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_HeaderLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_HeaderLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_InteractionMode = global::SampleProject.Droid.Resource.Styleable.ListView_InteractionMode;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_ItemLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_ItemLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_ProgressBarId = global::SampleProject.Droid.Resource.Styleable.ListView_ProgressBarId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ListView_ProgressBarLayoutId = global::SampleProject.Droid.Resource.Styleable.ListView_ProgressBarLayoutId;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper = global::SampleProject.Droid.Resource.Styleable.NumericStepper;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_android_value = global::SampleProject.Droid.Resource.Styleable.NumericStepper_android_value;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_maxValue = global::SampleProject.Droid.Resource.Styleable.NumericStepper_maxValue;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_minValue = global::SampleProject.Droid.Resource.Styleable.NumericStepper_minValue;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.NumericStepper_step = global::SampleProject.Droid.Resource.Styleable.NumericStepper_step;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PageIndicator = global::SampleProject.Droid.Resource.Styleable.PageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PageIndicator_vpiBulletPageIndicatorStyle = global::SampleProject.Droid.Resource.Styleable.PageIndicator_vpiBulletPageIndicatorStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PageIndicator_vpiStripPageIndicatorStyle = global::SampleProject.Droid.Resource.Styleable.PageIndicator_vpiStripPageIndicatorStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderBackground = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderBackground;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderHeight = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderHeight;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrHeaderTitleTextAppearance = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrHeaderTitleTextAppearance;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarColor = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarHeight = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarHeight;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrProgressBarStyle = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrProgressBarStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrPullText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrPullText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrRefreshingText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrRefreshingText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshHeader_ptrReleaseText = global::SampleProject.Droid.Resource.Styleable.PullToRefreshHeader_ptrReleaseText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshView = global::SampleProject.Droid.Resource.Styleable.PullToRefreshView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.PullToRefreshView_ptrViewDelegateClass = global::SampleProject.Droid.Resource.Styleable.PullToRefreshView_ptrViewDelegateClass;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton = global::SampleProject.Droid.Resource.Styleable.RoundedButton;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_android_scaleType = global::SampleProject.Droid.Resource.Styleable.RoundedButton_android_scaleType;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_contentStyle = global::SampleProject.Droid.Resource.Styleable.RoundedButton_contentStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_imageBackground = global::SampleProject.Droid.Resource.Styleable.RoundedButton_imageBackground;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_imageSrc = global::SampleProject.Droid.Resource.Styleable.RoundedButton_imageSrc;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_isToggle = global::SampleProject.Droid.Resource.Styleable.RoundedButton_isToggle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_subtitleColor = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_subtitleText = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_subtitleTextSize = global::SampleProject.Droid.Resource.Styleable.RoundedButton_subtitleTextSize;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_titleColor = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_titleText = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleText;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedButton_titleTextSize = global::SampleProject.Droid.Resource.Styleable.RoundedButton_titleTextSize;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedImageView = global::SampleProject.Droid.Resource.Styleable.RoundedImageView;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.RoundedImageView_cornerRadius = global::SampleProject.Droid.Resource.Styleable.RoundedImageView_cornerRadius;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spbStyle = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spbStyle;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_color = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_color;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_colors = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_colors;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_interpolator = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_interpolator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_mirror_mode = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_mirror_mode;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_reversed = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_reversed;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_sections_count = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_sections_count;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_speed = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_speed;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_stroke_separator_length = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_stroke_separator_length;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.SmoothProgressBar_spb_stroke_width = global::SampleProject.Droid.Resource.Styleable.SmoothProgressBar_spb_stroke_width;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_android_background = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_android_background;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_fadeDelay = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fadeDelay;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_fadeLength = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fadeLength;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_fades = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_fades;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.StripPageIndicator_selectedColor = global::SampleProject.Droid.Resource.Styleable.StripPageIndicator_selectedColor;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ToogleImageButton = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton;
+			global::Intersoft.Crosslight.UI.DataVisualization.Android.Resource.Styleable.ToogleImageButton_checked = global::SampleProject.Droid.Resource.Styleable.ToogleImageButton_checked;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::SampleProject.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -5039,53 +5473,59 @@ namespace SampleProject.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f09003f
-			public const int Add = 2131296319;
-			
-			// aapt resource value: 0x7f090050
-			public const int AddPhoto = 2131296336;
-			
-			// aapt resource value: 0x7f090040
-			public const int Cancel = 2131296320;
-			
 			// aapt resource value: 0x7f090041
-			public const int CheckAll = 2131296321;
+			public const int Add = 2131296321;
+			
+			// aapt resource value: 0x7f090052
+			public const int AddPhoto = 2131296338;
+			
+			// aapt resource value: 0x7f09003f
+			public const int ApplicationName = 2131296319;
 			
 			// aapt resource value: 0x7f090042
-			public const int ChooseFromGallery = 2131296322;
+			public const int Cancel = 2131296322;
 			
 			// aapt resource value: 0x7f090043
-			public const int CloseDrawer = 2131296323;
+			public const int CheckAll = 2131296323;
 			
 			// aapt resource value: 0x7f090044
-			public const int Delete = 2131296324;
+			public const int ChooseFromGallery = 2131296324;
 			
 			// aapt resource value: 0x7f090045
-			public const int DeleteImage = 2131296325;
-			
-			// aapt resource value: 0x7f090051
-			public const int EditPhoto = 2131296337;
+			public const int CloseDrawer = 2131296325;
 			
 			// aapt resource value: 0x7f090046
-			public const int More = 2131296326;
+			public const int Delete = 2131296326;
 			
 			// aapt resource value: 0x7f090047
-			public const int OK = 2131296327;
+			public const int DeleteImage = 2131296327;
+			
+			// aapt resource value: 0x7f090053
+			public const int EditPhoto = 2131296339;
+			
+			// aapt resource value: 0x7f09003e
+			public const int Hello = 2131296318;
 			
 			// aapt resource value: 0x7f090048
-			public const int OpenDrawer = 2131296328;
+			public const int More = 2131296328;
 			
 			// aapt resource value: 0x7f090049
-			public const int Save = 2131296329;
+			public const int OK = 2131296329;
 			
 			// aapt resource value: 0x7f09004a
-			public const int SelectImage = 2131296330;
+			public const int OpenDrawer = 2131296330;
 			
 			// aapt resource value: 0x7f09004b
-			public const int TakePhoto = 2131296331;
+			public const int Save = 2131296331;
 			
 			// aapt resource value: 0x7f09004c
-			public const int UncheckAll = 2131296332;
+			public const int SelectImage = 2131296332;
+			
+			// aapt resource value: 0x7f09004d
+			public const int TakePhoto = 2131296333;
+			
+			// aapt resource value: 0x7f09004e
+			public const int UncheckAll = 2131296334;
 			
 			// aapt resource value: 0x7f090015
 			public const int abc_action_bar_home_description = 2131296277;
@@ -5267,20 +5707,20 @@ namespace SampleProject.Droid
 			// aapt resource value: 0x7f09003d
 			public const int path_password_strike_through = 2131296317;
 			
-			// aapt resource value: 0x7f09004d
-			public const int pull_to_refresh_pull_label = 2131296333;
-			
 			// aapt resource value: 0x7f09004f
-			public const int pull_to_refresh_refreshing_label = 2131296335;
+			public const int pull_to_refresh_pull_label = 2131296335;
 			
-			// aapt resource value: 0x7f09004e
-			public const int pull_to_refresh_release_label = 2131296334;
+			// aapt resource value: 0x7f090051
+			public const int pull_to_refresh_refreshing_label = 2131296337;
+			
+			// aapt resource value: 0x7f090050
+			public const int pull_to_refresh_release_label = 2131296336;
 			
 			// aapt resource value: 0x7f090028
 			public const int search_menu_title = 2131296296;
 			
-			// aapt resource value: 0x7f09003e
-			public const int spb_default_speed = 2131296318;
+			// aapt resource value: 0x7f090040
+			public const int spb_default_speed = 2131296320;
 			
 			// aapt resource value: 0x7f090029
 			public const int status_bar_notification_info_overflow = 2131296297;

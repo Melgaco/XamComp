@@ -30,10 +30,7 @@ namespace SampleProject
             };
             var fl = listContent.MountFooterLogo(footerList);
             MainGrid.Children.Add(fl);*/
-
-            //TESTING CHARTS
-
-            
         }
+
     }
 }

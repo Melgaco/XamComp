@@ -17,6 +17,7 @@ namespace SampleProject
 			InitializeComponent();
 
             var listContent = new ListContent();
+            #region testElements
             /*//TESTING IMAGEBUTTON
             var imageButton = listContent.MountImageButton("https://www.al-murad.co.uk/3805/gloss-black-square-48cm-x-48cm-wall-mosaic.jpg", 108, 108, new Label(), 0, Color.Black);
             MainGrid.Children.Add(imageButton);*/
@@ -38,6 +39,10 @@ namespace SampleProject
                 100, LayoutOptions.Center, LayoutOptions.Center);
 
             MainGrid.Children.Add(roundedEntry);*/
+            #endregion
+
+
+
         }
 
     }

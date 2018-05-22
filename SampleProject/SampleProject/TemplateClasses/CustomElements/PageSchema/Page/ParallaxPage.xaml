@@ -1,10 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SampleProject.TemplateClasses.CustomElements.PageSchema.Controls.Parallax.Controls; assembly=Parallax"
              x:Class="SampleProject.TemplateClasses.CustomElements.PageSchema.Page.ParallaxPage">
     <ContentPage.Content>
-        <StackLayout>
-            
-        </StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="200" x:Name="Row1Header"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid RowSpacing="0" ColumnSpacing="0" x:Name="HeaderView">
+                <!-- SEU CONTEÚDO AQUI -->
+            </Grid>
+            <local:ParallaxControl x:Name="MainScroll" Grid.RowSpan="2">
+                <Grid RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid VerticalOptions="End" HorizontalOptions="FillAndExpand">
+                        <StackLayout x:Name="MainStack" Padding="16" Spacing="0" 
+                                     VerticalOptions="End" HorizontalOptions="FillAndExpand">
+                            <!-- SEU TÍTULO AQUI -->
+                            <!-- SEU SUBTÍTULO AQUI -->
+                        </StackLayout>
+                    </Grid>
+                    <StackLayout x:Name="mainStackListLabel" Grid.Row="1" Spacing="0">
+                        <StackLayout x:Name="stackBar" Padding="16" 
+                                     BackgroundColor="Silver" HeightRequest="30">
+                            <!-- CONTEÚDO DA BARRA -->
+                        </StackLayout>
+                        <StackLayout x:Name="listLabel" Padding="16" BackgroundColor="White">
+                            <!-- SUA LISTA AQUI -->
+                        </StackLayout>
+                    </StackLayout>
+                </Grid>
+            </local:ParallaxControl>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

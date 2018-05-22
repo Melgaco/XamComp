@@ -13,7 +13,7 @@ namespace SampleProject
 		{
 			InitializeComponent();
 
-			MainPage = new SampleProject.MainPage();
+			MainPage = new SampleProject.TemplateClasses.CustomElements.PageSchema.Page.ParallaxPage();
 		}
 
 		protected override void OnStart ()

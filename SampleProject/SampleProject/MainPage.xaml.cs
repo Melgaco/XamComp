@@ -41,8 +41,6 @@ namespace SampleProject
             MainGrid.Children.Add(roundedEntry);*/
             #endregion
 
-
-
         }
 
     }

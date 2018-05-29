@@ -5,12 +5,12 @@
              BackgroundImage="bg_tree">
     <ContentPage.Content>
         <StackLayout>
-            <Grid>
-                <Grid.RowDefinitions>
+            <Grid x:Name="centerView">
+                <!--<Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
-                </Grid.RowDefinitions>
+                </Grid.RowDefinitions>-->
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="10"/>
                     <ColumnDefinition Width="*"/>
@@ -22,7 +22,7 @@
                 <Grid Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="10"/>
-                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="50"/>
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="Auto"/>
@@ -32,8 +32,8 @@
                     <Image Grid.Row="1" Source="icon.png" />
                     <Entry Grid.Row="2" WidthRequest="250" Placeholder="Login" BackgroundColor="Transparent" VerticalOptions="StartAndExpand"/>
                     <Entry Grid.Row="3" WidthRequest="250" Placeholder="Senha" BackgroundColor="Transparent" VerticalOptions="StartAndExpand"/>
-                    <Image Grid.Row="4" Source="fb_login_default.png" HorizontalOptions="Center" VerticalOptions="Center" />
-                    <Image Grid.Row="5" Source="sign_in_with_google.png" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Image Grid.Row="4" Source="fb_login_default.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill" />
+                    <Image Grid.Row="5" Source="sign_in_with_google.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill"/>
                 </Grid>
             </Grid>
         </StackLayout>

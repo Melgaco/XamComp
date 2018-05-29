@@ -18,15 +18,15 @@ namespace SampleProject.TemplateClasses.CustomElements.Contents
         //{
         //    RoundedEntry roundedEntry = new RoundedEntry()
         //    {
-        //        grid = new Grid()
+        //grid = new Grid()
+        //{
+        //    RowDefinitions =
         //        {
-        //            RowDefinitions =
-        //        {
-        //            new RowDefinition { Height = new GridLength(1, GridUnitType.Star) },
+        //        new RowDefinition { Height = new GridLength(1, GridUnitType.Star) },
         //        },
         //            ColumnDefinitions =
         //        {
-        //            new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) },
+        //        new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) },
         //            new ColumnDefinition { Width = new GridLength(1, GridUnitType.Auto) }
         //        },
         //            VerticalOptions = verticalLayoutOptions,

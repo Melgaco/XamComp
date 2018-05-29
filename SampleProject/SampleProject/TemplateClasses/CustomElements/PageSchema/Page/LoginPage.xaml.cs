@@ -27,6 +27,9 @@ namespace SampleProject.TemplateClasses.CustomElements.PageSchema.Page
 
             imageLogo.Source = "logo.png";//your logo name here
             imageLogo.HeightRequest = 144;//Your image height here
+            var btn = centerView.Children.OfType<Grid>().First().Children.OfType<Button>().First() ;
+
+            btn.BackgroundColor = Color.FromHex("#9CCC65");
 
         }
 	}

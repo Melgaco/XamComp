@@ -29,13 +29,29 @@
                         <RowDefinition Height="*"/>
                         <RowDefinition Height="*"/>
                         <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
                     </Grid.RowDefinitions>
                     <Image x:Name="imageLogo" Grid.Row="1" />
                     <Entry Grid.Row="2" WidthRequest="250" Placeholder="Login" BackgroundColor="Transparent" VerticalOptions="StartAndExpand"/>
                     <Entry Grid.Row="3" WidthRequest="250" Placeholder="Senha" BackgroundColor="Transparent" VerticalOptions="StartAndExpand"/>
-                    <Button Grid.Row="4" Text="Entrar" HeightRequest="50" BackgroundColor="LightGreen" CornerRadius="2" FontFamily="Montserrat-Regular.ttf#Montserrat-Regular" />
-                    <Image Grid.Row="5" WidthRequest="250" HeightRequest="50" Source="fb_login_default.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill" />
-                    <Image Grid.Row="6" WidthRequest="250" HeightRequest="50" Source="sign_in_with_google.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill"/>
+                    <Button Grid.Row="4" Text="Entrar" HeightRequest="50" BackgroundColor="LightGreen" CornerRadius="2" FontFamily="Montserrat-Medium.ttf#Montserrat-Regular" />
+                    <!--BEGIN LINHA DE 'OU' -->
+                    <Grid Grid.Row="5" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" VerticalTextAlignment="End" HorizontalTextAlignment="Start" FontSize="Micro" Text="───────────────"/><!--- ALT+196 -->
+                        <Label Text="OU" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Grid.Column="1" FontFamily="Montserrat-Regular.ttf#Montserrat-Regular" HorizontalOptions="Start" />
+                        <Label Grid.Column="2" VerticalTextAlignment="End" HorizontalTextAlignment="End"   FontSize="Micro" Text="───────────────"/><!--- ALT+196 -->
+                    </Grid>
+                    <!--END LINHA DE 'OU' -->
+                    <Image Grid.Row="6" WidthRequest="250" HeightRequest="50" Source="fb_login_default.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill" />
+                    <Image Grid.Row="7" WidthRequest="250" HeightRequest="50" Source="sign_in_with_google.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill"/>
                 </Grid>
             </Grid>
         </StackLayout>

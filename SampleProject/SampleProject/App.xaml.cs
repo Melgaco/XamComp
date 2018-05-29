@@ -13,7 +13,7 @@ namespace SampleProject
 		{
 			InitializeComponent();
 
-			MainPage = new SampleProject.TemplateClasses.CustomElements.PageSchema.Page.LoginPage();
+			MainPage = new SampleProject.TemplateClasses.CustomElements.PageSchema.Page.LoginPage_2_EntryFields();
 		}
 
 		protected override void OnStart ()

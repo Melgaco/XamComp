@@ -22,10 +22,22 @@
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="MainPage.xaml.cs">
       <DependentUpon>*.xaml</DependentUpon>
     </Compile>
+    <Compile Update="TemplateClasses\CustomElements\PageSchema\Page\LoginPage_2.xaml.cs">
+      <DependentUpon>LoginPage_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="TemplateClasses\CustomElements\PageSchema\Page\LoginPage_2_EntryFields.xaml.cs">
+      <DependentUpon>LoginPage_2_EntryFields.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="TemplateClasses\CustomElements\PageSchema\Page\LoginPage_2.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="TemplateClasses\CustomElements\PageSchema\Page\LoginPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TemplateClasses\CustomElements\PageSchema\Page\LoginPage_2_EntryFields.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="TemplateClasses\CustomElements\PageSchema\Page\ParallaxPage.xaml">

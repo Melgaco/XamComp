@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SampleProject.TemplateClasses.CustomElements.PageSchema.Page.LoginPage_2"
+             BackgroundImage="bg_tree">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid x:Name="centerView">
+                <!--<Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                </Grid.ColumnDefinitions>
+
+                <ContentView Grid.Row="1" Grid.Column="1" BackgroundColor="White" Opacity="0.8"/>
+
+                <Grid Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="imageLogo" Grid.Row="1" />
+                    <Button Grid.Row="2" Text="Entrar" HeightRequest="50" BackgroundColor="LightGreen" CornerRadius="2" FontFamily="Montserrat-Medium.ttf#Montserrat-Regular" />
+                    <!--BEGIN LINHA DE 'OU' -->
+                    <Grid Grid.Row="3" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" VerticalTextAlignment="End" HorizontalTextAlignment="Start" FontSize="Micro" Text="───────────────"/>
+                        <!--- ALT+196 -->
+                        <Label Text="OU" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Grid.Column="1" FontFamily="Montserrat-Regular.ttf#Montserrat-Regular" HorizontalOptions="Start" />
+                        <Label Grid.Column="2" VerticalTextAlignment="End" HorizontalTextAlignment="End"   FontSize="Micro" Text="───────────────"/>
+                        <!--- ALT+196 -->
+                    </Grid>
+                    <!--END LINHA DE 'OU' -->
+                    <Image Grid.Row="4" WidthRequest="250" HeightRequest="50" Source="fb_login_default.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill" />
+                    <Image Grid.Row="5" WidthRequest="250" HeightRequest="50" Source="sign_in_with_google.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill"/>
+                </Grid>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

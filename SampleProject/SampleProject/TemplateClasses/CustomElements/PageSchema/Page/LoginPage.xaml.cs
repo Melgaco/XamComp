@@ -23,7 +23,10 @@ namespace SampleProject.TemplateClasses.CustomElements.PageSchema.Page
                 new RowDefinition { Height = new GridLength(metrics.Height/3, GridUnitType.Star) },
                 new RowDefinition { Height = new GridLength(metrics.Height/3, GridUnitType.Auto) },
                 new RowDefinition { Height = new GridLength(metrics.Height/3, GridUnitType.Star) },
-            };        
+            };
+
+            imageLogo.Source = "logo.png";//your logo name here
+            imageLogo.HeightRequest = 144;//Your image height here
 
         }
 	}

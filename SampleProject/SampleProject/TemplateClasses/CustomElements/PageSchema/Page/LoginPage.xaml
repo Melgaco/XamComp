@@ -28,12 +28,14 @@
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="*"/>
                         <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
                     </Grid.RowDefinitions>
                     <Image x:Name="imageLogo" Grid.Row="1" />
                     <Entry Grid.Row="2" WidthRequest="250" Placeholder="Login" BackgroundColor="Transparent" VerticalOptions="StartAndExpand"/>
                     <Entry Grid.Row="3" WidthRequest="250" Placeholder="Senha" BackgroundColor="Transparent" VerticalOptions="StartAndExpand"/>
-                    <Image Grid.Row="4" Source="fb_login_default.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill" />
-                    <Image Grid.Row="5" Source="sign_in_with_google.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill"/>
+                    <Button Grid.Row="4" Text="Entrar" HeightRequest="50" BackgroundColor="LightGreen" CornerRadius="2" FontFamily="Montserrat-Regular.ttf#Montserrat-Regular" />
+                    <Image Grid.Row="5" WidthRequest="250" HeightRequest="50" Source="fb_login_default.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill" />
+                    <Image Grid.Row="6" WidthRequest="250" HeightRequest="50" Source="sign_in_with_google.png" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFill"/>
                 </Grid>
             </Grid>
         </StackLayout>
